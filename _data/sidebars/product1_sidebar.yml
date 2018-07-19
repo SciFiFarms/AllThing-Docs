@@ -21,7 +21,7 @@ entries:
       type: frontmatter
 
   - title: Getting Started
-    output: web, pdf
+    output: web, pf
     folderitems:
     - title: Product 1 home
       url: /p1_landing_page.html

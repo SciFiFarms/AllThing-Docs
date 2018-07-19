@@ -19,3 +19,8 @@ gem 'jekyll'
 gem 'jekyll-feed', '~>0.10.0'
 gem 'jekyll-seo-tag', '~>2.5.0'
 gem 'minima', '~>2.5.0'
+gem "jekyll-reload", {
+  group: "jekyll-plugins"
+}
+
+gem "jekyll-assets", group: :jekyll_plugins
