@@ -5,7 +5,7 @@ summary: "Summary"
 series: "ACME series"
 weight: 3
 sidebar: plants
-permalink: plants_index.html
+permalink: plants_.html
 folder: plants
 ---
 
