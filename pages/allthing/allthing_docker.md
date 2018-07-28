@@ -39,4 +39,16 @@ https://www.mindmeister.com/389671722/open-container-ecosystem-formerly-docker-e
 ### Docker hosts
 https://blog.codeship.com/the-shortlist-of-docker-hosting/
 
+### Understanding UIDs in docker:
+https://medium.com/@mccode/understanding-how-uid-and-gid-work-in-docker-containers-c37a01d01cf
+
+### Don't run as root in containers
+https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b
+
+### Difference between shell and exec (array) formats CMD and ENTRYPOINT
+https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/
+
+### A pretty interesting tool that just blocks until the server has responded (Depends on nc)
+https://github.com/waisbrot/docker-wait
+https://medium.com/@edgar/how-to-wait-for-a-container-to-be-ready-before-starting-another-container-using-docker-compose-92bab2fc1633
 {% include links.html %}
