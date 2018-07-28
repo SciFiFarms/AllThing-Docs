@@ -1,0 +1,52 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+  - title: All Thing
+    product: All Thing
+    #version: 1.0
+    folders:
+
+    - title:
+      output: pdf
+      type: frontmatter
+      folderitems:
+      - title:
+        url: /titlepage.html
+        output: pdf
+        type: frontmatter
+      - title:
+        url: /tocpage.html
+        output: pdf
+        type: frontmatter
+
+    # Software
+    - title: Softtware
+      output: web, pdf
+      folderitems:
+
+      - title: Docs
+        url: /allthing_docs.html
+        output: web,pdf
+
+      - title: VS Code
+        url: /allthing_vscode.html
+        output: web,pdf
+        
+      - title: Jupyter Notebook
+        url: /allthing_jupyter.html
+        output: web, pdf
+      
+    - title: Getting Started
+      output: web, pdf
+      folderitems:
+      - title: Product 1 home
+        url: /p1_landing_page.html
+        output: web
+    - title: Another heading
+      output: web, pdf
+
+      folderitems:
+      - title: Sample 4
+        url: /p1_sample4.html
+        output: web, pdf
