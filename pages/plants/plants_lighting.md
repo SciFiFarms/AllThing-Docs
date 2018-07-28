@@ -9,6 +9,9 @@ permalink: plants_lighting.html
 folder: plants
 ---
 
+### THE BEST guide to building your own LED strip fixtures
+http://ledgardener.com/diy-led-strip-build-designs-samsung-bridgelux/
+
 ### Lighting safety tips
 https://www.reddit.com/r/HandsOnComplexity/comments/18fn67/space_bucket_electrical_safety_tips_posted_to/
 
