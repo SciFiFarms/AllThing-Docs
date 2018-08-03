@@ -23,6 +23,9 @@ https://github.com/kontena/kontena-stacks/blob/master/rabbitmq/kontena.yml
 ### Portainer
 https://portainer.io/install.html
 
+### Mainflux, seems kinda like a IoT orchestrator
+https://www.mainflux.com/technology.html
+
 
 ### Connect to an existing swarm/host
 https://blog.dahanne.net/2015/10/07/adding-an-existing-docker-host-to-docker-machine-a-few-tips/
@@ -51,4 +54,19 @@ https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/
 ### A pretty interesting tool that just blocks until the server has responded (Depends on nc)
 https://github.com/waisbrot/docker-wait
 https://medium.com/@edgar/how-to-wait-for-a-container-to-be-ready-before-starting-another-container-using-docker-compose-92bab2fc1633
+
+### Docker swarm control restart of containers:
+https://docs.docker.com/compose/compose-file/#restart_policy
+
+### Dumb-init doesn't seem so dumb:
+https://github.com/Yelp/dumb-init
+
+### A better dumb-init... Written in go:
+https://gitlab.com/pablo-ruth/go-init
+
+### Docker plugins?
+https://vimeo.com/110835013
+https://github.com/progrium/docker-plugins
+
 {% include links.html %}
+
