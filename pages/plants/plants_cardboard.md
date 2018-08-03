@@ -24,6 +24,13 @@ http://www.relaymailandgifts.com/Products-Services/Packing/Custom-Box-Making
 http://www.shipperssupplycustom.com/index.html
 
 ## Coatings
+### Plastic sheeting (Can get organic/food safe):
+https://www.homedepot.com/p/HDX-10-ft-x-25-ft-Clear-6-mil-Plastic-Sheeting-RSHD610-25C/204711657
+https://www.visqueen.com
+
+### How to make oil cloth:
+http://digg.com/video/making-oil-cloth
+
 ### Ideas on how to make cardboard waterproof
 https://www.quora.com/How-do-I-make-cardboard-waterproof
 

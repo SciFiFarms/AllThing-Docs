@@ -16,4 +16,7 @@ https://monometric.io/article/how-to-monitor-nginx
 ### Example of a Nginx config
 https://github.com/nextcloud/docker/blob/master/.examples/docker-compose/with-nginx-proxy-self-signed-ssl/mariadb/fpm/nginx.conf
 
+### Upstream looks pretty cool. Set values on container for NGINX to pickup?
+https://github.com/tcurdt/dockerx-upstream/tree/master/src/upstream
+
 {% include links.html %}

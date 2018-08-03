@@ -12,6 +12,8 @@ folder: allthing
 
 ### Git Subrepo 
 https://github.com/ingydotnet/git-subrepo
+#### FAQ includes how to change tracking branch
+https://github.com/ingydotnet/git-subrepo/wiki/FAQ
 #### Basics
 https://github.com/ingydotnet/git-subrepo/wiki/Basics
 
