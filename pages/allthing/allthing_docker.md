@@ -9,6 +9,8 @@ permalink: allthing_docker.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+### Automatically have Docker Hub build images when github is updated
+https://docs.docker.com/docker-hub/builds/#understand-the-build-processg
 
 ### You can overlay production values on top of dev values
 https://docs.docker.com/compose/production/#modify-your-compose-file-for-production
@@ -22,6 +24,8 @@ https://github.com/kontena/kontena-stacks/blob/master/rabbitmq/kontena.yml
 
 ### Portainer
 https://portainer.io/install.html
+####Portainer can manage secrets: 
+https://www.linkedin.com/pulse/docker-secrets-management-portainerio-neil-cresswell/
 
 ### Mainflux, seems kinda like a IoT orchestrator
 https://www.mainflux.com/technology.html
@@ -58,6 +62,9 @@ https://medium.com/@edgar/how-to-wait-for-a-container-to-be-ready-before-startin
 ### Docker swarm control restart of containers:
 https://docs.docker.com/compose/compose-file/#restart_policy
 
+### Swarm can't handle .env. Here is the discussion and at the end a couple fixes. I went with the one that doesn't depend on docker-compose. 
+https://github.com/moby/moby/issues/29133
+
 ### Dumb-init doesn't seem so dumb:
 https://github.com/Yelp/dumb-init
 
@@ -67,6 +74,9 @@ https://gitlab.com/pablo-ruth/go-init
 ### Docker plugins?
 https://vimeo.com/110835013
 https://github.com/progrium/docker-plugins
+
+### What to do when a container doesn't consistently restart. Was a problem, may not be anymore. 
+https://stackoverflow.com/questions/44811886/restart-one-service-in-docker-swarm-stack
 
 {% include links.html %}
 
