@@ -10,6 +10,12 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Use Vault for random number generation and hashing
+https://www.vaultproject.io/api/system/tools.html
+
+### How to use Vault's API (From CURL):
+https://www.vaultproject.io/api/index.html
+
 ### How to work with policies and configuration
 https://www.hashicorp.com/blog/codifying-vault-policies-and-configuration
 

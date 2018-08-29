@@ -5,15 +5,15 @@ summary: "Summary"
 series: "ACME series"
 weight: 3
 sidebar: allthing_sidebar
-permalink: allthing_vscode.html
+permalink: allthing_.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
-### Browser Sync:
-https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync
+### Getting started with Kubernetes
+https://vsupalov.com/getting-started-with-kubernetes/
 
-### Turn off autoReveal in the file explorer
-https://github.com/Microsoft/vscode/issues/5329
+### Logging Kubernetes
+https://itnext.io/logging-best-practices-for-kubernetes-using-elasticsearch-fluent-bit-and-kibana-be9b7398dfee
 
 {% include links.html %}

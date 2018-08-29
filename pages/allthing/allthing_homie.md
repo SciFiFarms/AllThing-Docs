@@ -10,6 +10,20 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### It would be cool to figure out how to debug (apply this) to an ESP running Homie?
+https://blogs.msdn.microsoft.com/iotdev/2017/05/27/debug-your-arduino-code-with-visual-studio-code/
+
+### Implementation of Home Assistant talking with Homie. Badass.
+https://ben.gracewood.nz/2017/04/building-a-multisensor-for-home-assistant-part-2/
+
+### Some esps have weird pins:
+https://github.com/esp8266/Arduino/issues/584
+
+### Adding SSL by default to Homie:
+https://github.com/TuxCoder/homie-esp8266/commit/950b59b87a2a9627766e1444b67360964148c1cc
+
+### MicroPython implementation of the Homie convention:
+https://github.com/microhomie/microhomie
 
 ## OTA
 ### Docs 
@@ -31,10 +45,20 @@ github.com/marvinroger/homie-esp8266/issues/287
 ### Config Docs:
 marvinroger.github.io/homie-esp8266/docs/develop/configuration/json-configuration-file
 
-### Great example project:
-github.com/kylegordon/homie-sht30
+### Custom settings:
+http://marvinroger.github.io/homie-esp8266/docs/2.0.0/advanced-usage/custom-settings/
+https://github.com/marvinroger/homie-esp8266/blob/26dafb8251cd575b0cb87e641d8ed33945c40757/examples/CustomSettings/CustomSettings.ino
 
-### *More example sketches:
+### Examples of Homie working with JSON
+https://github.com/marvinroger/homie-esp8266/blob/89991d4cfc29072b20e6637ef77ec6779fe0c94d/src/Homie/Config.cpp
+https://github.com/marvinroger/homie-esp8266/blob/99161ce03c7ff1c8d3dc1fcc52abbf081212b68f/src/Homie/Boot/BootConfig.cpp
+
+### BMP085 Unified Sensor - Example of how to write a unified sensor
+https://github.com/adafruit/Adafruit_BMP085_Unified/blob/master/Adafruit_BMP085_U.cpp
+
+### Example projects/nodes:
+Has some Sonoff node: https://github.com/timpur/homie-esp8266-nodes
+github.com/kylegordon/homie-sht30
 platformio.org/lib/show/555/Homie
 
 ### Sming - Competitor, seems more flexible, but also more work to setup:

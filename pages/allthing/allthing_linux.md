@@ -13,8 +13,40 @@ folder: allthing
 ### The fuck (command line autocorrect)
 https://github.com/nvbn/thefuck
 
+### Linux Security 101 (For the common geek)
+https://brandonjl.com/linux-security-101/
 
+### HUGE list of linux/security resources,tips, and tricks.
+https://github.com/trimstray/awesome-ninja-admins
 
+### File system hierachy
+http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/
+https://superuser.com/questions/631859/preferred-place-to-store-configuration-files-that-change-often
+https://askubuntu.com/questions/16521/where-in-the-filesystem-should-i-store-shared-data
+https://stackoverflow.com/questions/1510104/where-to-store-application-data-non-user-specific-on-linux
 
+### Boot loaders
+https://wiki.archlinux.org/index.php/Category:Boot_loaders
+rEFInd boot loader looks slick: http://www.rodsbooks.com/refind/
+
+### How to us find
+https://blog.lerner.co.il/a-quick-intro-to-the-unix-find-utility/
+
+### Cleaning up and tweaking GNOME
+https://eklitzke.org/lobotomizing-gnome
+
+### Rock 5 linux installs. 
+
+### Current theme?
+https://www.gnome-look.org/p/1013698/
+
+### Hide the title bar in firefox
+https://askubuntu.com/questions/979968/how-to-hide-title-bar-in-firefox-57-quantum
+
+### Guide to SELinux
+https://opensource.com/article/18/8/cheat-sheet-selinux?utm_source=DevOps%27ish&utm_campaign=03ce88c60e-089&utm_medium=email&utm_term=0_eab566bc9f-03ce88c60e-46451983
+
+### PulseAudio control with fedora (Application level control)
+https://fedoramagazine.org/precise-audio-control-with-fedora/
 
 {% include links.html %}
