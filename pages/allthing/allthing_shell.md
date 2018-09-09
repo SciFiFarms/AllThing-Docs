@@ -38,6 +38,25 @@ https://stackoverflow.com/questions/5274294/how-can-you-run-a-command-in-bash-ov
 ### Reading ENV and setting default values (${VAR_A:-default_value}):
 https://unix.stackexchange.com/questions/122845/using-a-b-for-variable-assignment-in-scripts/122878
 
+### Example of how to use cut to get specific fields.
+https://unix.stackexchange.com/questions/53310/splitting-string-by-the-first-occurrence-of-a-delimiter
+
+### Why use #!/usr/bin/env bash 
+https://unix.stackexchange.com/questions/29608/why-is-it-better-to-use-usr-bin-env-name-instead-of-path-to-name-as-my
+
+### Shellfire is a generic shell framework. Seems pretty cool. 
+https://github.com/shellfire-dev/shellfire
+
+### Echo output to stderr >2&
+https://stackoverflow.com/questions/2990414/echo-that-outputs-to-stderr
+
+### Bash string substitution
+https://stackoverflow.com/questions/13210880/replace-one-substring-for-another-string-in-shell-script
+
+### Use ping to check if service is up
+https://unix.stackexchange.com/questions/190163/shell-command-script-to-see-if-a-host-is-alive
+
 ### Also see the Linux page.
+
 
 {% include links.html %}

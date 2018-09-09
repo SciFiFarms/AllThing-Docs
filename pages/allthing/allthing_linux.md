@@ -49,4 +49,7 @@ https://opensource.com/article/18/8/cheat-sheet-selinux?utm_source=DevOps%27ish&
 ### PulseAudio control with fedora (Application level control)
 https://fedoramagazine.org/precise-audio-control-with-fedora/
 
+### Sys admin questions and answers
+https://github.com/trimstray/test-your-sysadmin-skills
+
 {% include links.html %}

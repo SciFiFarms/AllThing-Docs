@@ -78,5 +78,17 @@ https://github.com/progrium/docker-plugins
 ### What to do when a container doesn't consistently restart. Was a problem, may not be anymore. 
 https://stackoverflow.com/questions/44811886/restart-one-service-in-docker-swarm-stack
 
+### List of Docker GUIs
+https://blog.codeship.com/docker-guis/
+
+### Can't update secrets (And workarounds)
+https://github.com/moby/moby/issues/29882
+I used this one: https://github.com/stevelacy/docker-secret-update/blob/master/update.sh
+https://gist.github.com/jamiejackson/a1818acedaeb9c3cd70bafac86a0100b
+https://gist.github.com/MLescaudron/e8248d32d3a5b8caaf622c1a829cf067
+https://gist.github.com/BluSyn/71a2040d610e06bf8ee06a9480d17fd3
+
+
 {% include links.html %}
+
 

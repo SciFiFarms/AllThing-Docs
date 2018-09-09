@@ -16,4 +16,12 @@ https://vsupalov.com/getting-started-with-kubernetes/
 ### Logging Kubernetes
 https://itnext.io/logging-best-practices-for-kubernetes-using-elasticsearch-fluent-bit-and-kibana-be9b7398dfee
 
+### Kubernetes cheatsheet
+https://developers.redhat.com/promotions/kubernetes-cheatsheet/
+
+### Monitoring Kubernetes with Prometheus
+https://sysdig.com/blog/kubernetes-monitoring-prometheus/#.W3bhp8LlaW8.hackernews
+
+https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops
+
 {% include links.html %}

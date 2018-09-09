@@ -25,4 +25,7 @@ https://golang.org/src/crypto/x509/root_linux.go
 ### Alternatives to Vault
 https://github.com/OpenVPN/easy-rsa
 
+### AppRole authentication for Vault
+https://blog.alanthatcher.io/vault-approle-authentication/
+
 {% include links.html %}
