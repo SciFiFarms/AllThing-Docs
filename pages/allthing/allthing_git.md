@@ -29,5 +29,11 @@ https://stackoverflow.com/questions/40978921/how-to-add-chmod-permissions-to-fil
 ### Guide to moving subfolder into new repository
 https://help.github.com/articles/splitting-a-subfolder-out-into-a-new-repository/
 
+### Gitpod - Browser git IDE.
+https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
+
+### GitOps FAQ
+https://www.weave.works/blog/the-official-gitops-faq
+https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops
 
 {% include links.html %}

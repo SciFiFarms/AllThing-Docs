@@ -25,5 +25,8 @@ https://en.wikipedia.org/wiki/Comparison_of_MQTT_Implementations
 ### What effects the clean session setting has
 http://www.steves-internet-guide.com/mqtt-clean-sessions-example/
 
+### Differences between MQTT 3.1 and 3.1.1
+https://github.com/mqtt/mqtt.github.io/wiki/Differences-between-3.1.0-and-3.1.1
+
 
 {% include links.html %}

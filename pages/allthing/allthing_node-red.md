@@ -82,4 +82,7 @@ github.com/kr1sp1n/node-vault
 ### Example of using Node RED to manage a water pump
 https://www.youtube.com/watch?v=53qOse163hY
 
+### How to debug a NodeJS applications in containers
+https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/
+
 {% include links.html %}
