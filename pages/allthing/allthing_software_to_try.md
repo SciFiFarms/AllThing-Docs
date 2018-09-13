@@ -57,6 +57,9 @@ https://www.linuxuprising.com/2018/08/gnome-shell-android-integration.html
 ### Lightscreen (Greenshot alternative?)
 http://lightscreen.com.ar/
 
+### When to use REST, GraphGL, Webhook-grpc
+https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/
 
-
+### Gitpod (Online IDE for github)
+https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
 {% include links.html %}

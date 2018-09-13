@@ -88,6 +88,11 @@ https://gist.github.com/jamiejackson/a1818acedaeb9c3cd70bafac86a0100b
 https://gist.github.com/MLescaudron/e8248d32d3a5b8caaf622c1a829cf067
 https://gist.github.com/BluSyn/71a2040d610e06bf8ee06a9480d17fd3
 
+### Sysadmin's guide to containers
+https://opensource.com/article/18/8/sysadmins-guide-containers?utm_medium=Email&utm_campaign=weekly&sc_cid=701f2000000RRBPAA4
+
+### Swarm vs Kubernetes 
+https://thenewstack.io/kubernetes-vs-docker-swarm-whats-the-difference/
 
 {% include links.html %}
 

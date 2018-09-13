@@ -21,7 +21,16 @@ https://developers.redhat.com/promotions/kubernetes-cheatsheet/
 
 ### Monitoring Kubernetes with Prometheus
 https://sysdig.com/blog/kubernetes-monitoring-prometheus/#.W3bhp8LlaW8.hackernews
+https://www.robustperception.io/deleting-time-series-from-prometheus
 
+### Kubernetes Cheatsheet
+https://developers.redhat.com/promotions/kubernetes-cheatsheet/
+
+### Helm: K8s Package management (Most used tool)
+https://www.digitalocean.com/community/tutorials/an-introduction-to-helm-the-package-manager-for-kubernetes
 https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops
+
+### Stateful Kubernetes
+https://stateful.kubernetes.sh/
 
 {% include links.html %}

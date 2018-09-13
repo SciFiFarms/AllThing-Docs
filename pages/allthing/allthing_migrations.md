@@ -27,5 +27,5 @@ https://metacpan.org/pod/sqitchtutorial-vertica
 
 ### Ansible?
 https://hvops.com/articles/ansible-vs-shell-scripts/
-
+https://www.openfaas.com/blog/deploy-digitalocean-ansible
 {% include links.html %}
