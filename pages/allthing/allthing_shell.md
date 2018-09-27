@@ -10,8 +10,20 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
-### Bish-bosh is a shell mqtt client.
+### How to do debug levels in bash:
+https://stackoverflow.com/questions/42403558/how-do-i-manage-log-verbosity-inside-a-shell-script
+
+### CLI Improved: Pretty replacements for common cli tools. With aliases. 
+https://remysharp.com/2018/08/23/cli-improved
+
+### Bish-bosh is a shell mqtt client... That I didn't get working. 
 https://github.com/raphaelcohn/bish-bosh
+
+### How to write more compact bash. What chars are needed where and why:
+https://www.linuxjournal.com/content/writing-more-compact-bash-code
+
+### Bash variable scope examples:
+https://www.thegeekstuff.com/2010/05/bash-variables/
 
 ### Use expect to dynamically enter information on the command line:
 https://askubuntu.com/questions/269878/how-to-use-expect-with-bash

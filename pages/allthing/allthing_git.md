@@ -37,3 +37,8 @@ https://www.weave.works/blog/the-official-gitops-faq
 https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops
 
 {% include links.html %}
+
+### How to use github via ssh (Passwordless)
+https://stackoverflow.com/questions/14762034/push-to-github-without-password-using-ssh-key
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+https://help.github.com/articles/which-remote-url-should-i-use/
