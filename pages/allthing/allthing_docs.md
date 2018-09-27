@@ -9,6 +9,9 @@ permalink: allthing_docs.html
 folder: allthing
 ---
 
+### Docs Like Code
+https://www.docslikecode.com
+
 ### To add a page: 
 1. Add page reference in _data/topnav.yml (Optional)
 2. Add page reference in _data/sidebars/name_sidebar.yml

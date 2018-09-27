@@ -11,6 +11,9 @@ folder: allthing
 ---
 
 
+### TMux
+https://linuxize.com/post/getting-started-with-tmux
+
 ### Slack alternatives: MatterMost vs Riot. Lean towards MatterMost, but I like Riot's security model.
 https://www.slant.co/versus/20863/12763/~riot_vs_mattermost
 https://www.reddit.com/r/selfhosted/comments/7k471o/zulip_vs_rocketchat_vs_mattermost_vs_riotim_slack/
@@ -62,4 +65,16 @@ https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/
 
 ### Gitpod (Online IDE for github)
 https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
+
+### Android Things (IoT framework?)
+https://developer.android.com/things/versions/things-1.0
+
+### Guacamole: X windows to HTML5 for containers. 
+https://blog.openshift.com/put-ide-container-guacamole/?utm_medium=Email&utm_campaign=editorspicks&sc_cid=701f2000001OCwtAAG
+
+### Gaia: Flexible pipeline creator
+https://github.com/gaia-pipeline/gaia
+
+### CLI Improved: Prettier and more useful cli programs:
+https://remysharp.com/2018/08/23/cli-improved
 {% include links.html %}
