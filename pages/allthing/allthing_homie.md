@@ -9,6 +9,10 @@ permalink: allthing_homie.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+### How to flash a Sonoff
+https://github.com/arendst/Sonoff-Tasmota/issues/1203
+https://community.openhab.org/t/sonoff-flashing-sonoff-tasmota-vs-esp-easy/27371
+https://www.superhouse.tv/21-six-sonoff-secrets/
 
 ### It would be cool to figure out how to debug (apply this) to an ESP running Homie?
 https://blogs.msdn.microsoft.com/iotdev/2017/05/27/debug-your-arduino-code-with-visual-studio-code/

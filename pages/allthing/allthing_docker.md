@@ -94,6 +94,13 @@ https://opensource.com/article/18/8/sysadmins-guide-containers?utm_medium=Email&
 ### Swarm vs Kubernetes 
 https://thenewstack.io/kubernetes-vs-docker-swarm-whats-the-difference/
 
+### Work with Docker in python
+https://github.com/aio-libs/aiodocker
+
+### Instructions on accessing host from container. Ultimately didn't need. 
+https://stackoverflow.com/questions/31324981/how-to-access-host-port-from-docker-container/43541732#43541732
+https://dev.to/bufferings/access-host-from-a-docker-container-4099
+
 {% include links.html %}
 
 

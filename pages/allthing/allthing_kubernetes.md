@@ -33,4 +33,10 @@ https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops
 ### Stateful Kubernetes
 https://stateful.kubernetes.sh/
 
+### DevSpace - Seems pretty useful for developing with Kubernetes.
+https://github.com/covexo/devspace
+
+### Zero Downtime Updates 
+https://blog.sebastian-daschner.com/entries/zero-downtime-updates-kubernetes 
+
 {% include links.html %}

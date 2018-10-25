@@ -20,6 +20,7 @@ https://brandonjl.com/linux-security-101/
 https://github.com/trimstray/awesome-ninja-admins
 
 ### File system hierachy
+https://www.reddit.com/r/linux/comments/9qoh6d/linux_root_good_to_have_on_hands/
 http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/
 https://superuser.com/questions/631859/preferred-place-to-store-configuration-files-that-change-often
 https://askubuntu.com/questions/16521/where-in-the-filesystem-should-i-store-shared-data
@@ -51,5 +52,8 @@ https://fedoramagazine.org/precise-audio-control-with-fedora/
 
 ### Sys admin questions and answers
 https://github.com/trimstray/test-your-sysadmin-skills
+
+### Guider - Linux CMD tracer/performance monitor
+https://github.com/iipeace/guider
 
 {% include links.html %}

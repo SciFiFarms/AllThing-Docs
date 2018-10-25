@@ -10,6 +10,13 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Canada
+https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/canada-wants-entrepreneurs.html
+https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa.html
+https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/eligibility/designated-organizations.html
+
+### Projects on Hackaday.io
+https://hackaday.io/TheHackmeister
 
 ### These people have some way of sharing data. 
 https://www.uradmonitor.com/?mc_cid=0f4ca37c7a&mc_eid=a265f2cb07

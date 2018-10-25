@@ -9,6 +9,9 @@ permalink: allthing_shell.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+### Shell Style Guide:
+lug.fh-swf.de/vim/vim-bash/StyleGuideShell.en.pdf
+unix.stackexchange.com/questions/42847/are-there-naming-conventions-for-variables-in-shell-scripts
 
 ### How to do debug levels in bash:
 https://stackoverflow.com/questions/42403558/how-do-i-manage-log-verbosity-inside-a-shell-script
@@ -75,6 +78,15 @@ https://unix.stackexchange.com/questions/190163/shell-command-script-to-see-if-a
 
 ### Check if variable is set
 https://stackoverflow.com/questions/3601515/how-to-check-if-a-variable-is-set-in-bash
+
+### 10 Handy BASH aliases
+https://opensource.com/article/18/9/handy-bash-aliases
+
+### 11 bash tips
+https://zwischenzugs.com/2018/10/12/eleven-bash-tips-you-might-want-to-know/
+
+### Bash debugging the hard way
+https://zwischenzugs.com/2018/10/09/learn-bash-debugging-techniques-the-hard-way/
 
 ### Also see the Linux page.
 
