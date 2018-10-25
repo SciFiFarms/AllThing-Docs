@@ -6,6 +6,7 @@ services:
       dockerfile: Dockerfile
     image: technocore/docs
     ports:
-      - "4000:4000"
+      - "4001:4000"
+      - 35729:35729
     volumes:
       - ".:/src"

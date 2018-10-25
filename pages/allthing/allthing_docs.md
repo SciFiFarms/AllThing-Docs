@@ -34,7 +34,7 @@ docker build . -t technocore/docs:local
 docker-compose up
 ```
 5. View documentation
-Visit ```http://localhost:4000```
+Visit http://localhost:4000
 ### Troubleshooting
 If you get an error in step 4 that looks like this:
 ```
@@ -42,12 +42,9 @@ Error starting userland proxy: listen tcp 0.0.0.0:4000: bind: address already in
 ```
 You're likely already running a docs container. You can run another container by changing the port in the docker-compose to an unused port. 
 ![](2018-10-10-18-02-21.png)
-You'll need to change the URL you visit similarly: ```http://localhost:4001```
+You'll need to change the URL you visit similarly: http://localhost:4001
 
-
-
-
-
+Live reload a page once it has been updated is supposed to be possible, but doesn't seem to work out of the box. 
 
 
 
