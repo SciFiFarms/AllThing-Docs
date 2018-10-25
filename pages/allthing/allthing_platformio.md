@@ -17,5 +17,11 @@ http://www.linux-magazine.com/Issues/2018/208/Tutorial-USB-IP
 ```sudo usermod -a -G dialout yourusername```
 http://docs.platformio.org/en/latest/installation.html
 
+### Example PIO Dockerfile:
+github.com/sglahn/docker-platformio-core/blob/master/Dockerfile
+
+### Advanced scripting for PIO. Had examples on how to add pre/post .py scripts to the build:
+docs.platformio.org/en/latest/projectconf/advanced_scripting.html
+
 
 {% include links.html %}

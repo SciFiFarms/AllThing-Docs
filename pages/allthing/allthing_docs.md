@@ -63,6 +63,9 @@ http://www.docslikecode.com/articles/doc-issues-tracking/?utm_source=Lesson+Seri
 2. Add page reference in _data/sidebars/name_sidebar.yml
 3. Create page in the sidebar's folder in pages/
 
+### Great overview of how to scale with Jekyll
+https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/
+
 ### Embeddable Markdown editor (open source): 
 [prose.io](http://prose.io)
 [Pando](https://github.com/pandao/editor.md)
@@ -72,6 +75,20 @@ http://www.docslikecode.com/articles/doc-issues-tracking/?utm_source=Lesson+Seri
 
 ### Docs Like Code PR checklist:
 https://gallery.mailchimp.com/3828f8d87d82289b96ff8fd19/files/docs_review_checklist.pdf
+
+### Homepage: jekyllrb.com
+
+### Cheatsheet:
+learn.cloudcannon.com/jekyll-cheat-sheet
+
+### Basic usage:
+jekyllrb.com/docs/usage
+
+### Using livereload:
+rubydoc.info/gems/jekyll-reload
+
+### Docker image:
+github.com/envygeeks/jekyll-docker
 
 ### How posts work
 https://jekyllrb.com/docs/posts/

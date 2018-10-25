@@ -19,6 +19,12 @@ https://vernemq.com/docs/monitoring/prometheus.html
 ### Grafana - Visualizer
 https://prometheus.io/docs/visualization/grafana/
 
+### Article about GitLabs use + links to their dashboard
+https://about.gitlab.com/2018/09/27/why-all-organizations-need-prometheus/
+
+### High Availability:
+https://blog.timescale.com/prometheus-ha-postgresql-8de68d19b6f5
+
 
 
 

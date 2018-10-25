@@ -9,10 +9,17 @@ permalink: allthing_git.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+
+### Zenhub: Project Management for GitHub
+https://www.zenhub.com/product
+
 ### Git commit workflow (Haven't read):
 https://dev.to/shreyasminocha/how-i-do-my-git-commits-34d?utm_campaign=DevOps%2BDispatch&utm_medium=email&utm_source=DevOps_Dispatch_11
 
-### Git Subrepo 
+### Use git flow as a design pattern:
+danielkummer.github.io/git-flow-cheatsheet
+
+### Git Subrepo (Use 0.4.0. The master branch didn't always work right.)
 https://github.com/ingydotnet/git-subrepo
 #### FAQ includes how to change tracking branch
 https://github.com/ingydotnet/git-subrepo/wiki/FAQ
@@ -24,6 +31,9 @@ https://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositorie
 
 ### Make a file executable: git add --chmod=+x path/to/file
 https://stackoverflow.com/questions/40978921/how-to-add-chmod-permissions-to-file-in-git/40979016
+
+### Emojis in git commit messages:
+https://gitmoji.carloscuesta.me/
 
 
 ### Guide to moving subfolder into new repository

@@ -9,7 +9,23 @@ permalink: allthing_software_to_try.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+### While these aren't exactly software, the projects I follow on hackaday.io is a good list of projects
+https://hackaday.io/TheHackmeister
 
+### Zenhub (Project management for GitHub)
+https://www.zenhub.com/product
+
+### Pi-Hole (Ad-blocking)
+https://www.troyhunt.com/mmm-pi-hole/
+
+### Pivita - Gnome video editing 
+https://fedoramagazine.org/edit-your-videos-with-pitivi-on-fedora/
+
+### Guider - Linux CMD tracer/performance monitor
+https://github.com/iipeace/guider
+
+### Rust
+http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/
 
 ### TMux
 https://linuxize.com/post/getting-started-with-tmux
@@ -57,7 +73,16 @@ https://github.com/wolfSSL/wolfMQTT
 ### Gnome Shell Android Integretaion
 https://www.linuxuprising.com/2018/08/gnome-shell-android-integration.html
 
-### Lightscreen (Greenshot alternative?)
+
+### Screenshot programs
+### Deepin-screenshot: What I ended up using
+https://www.deepin.org/en/original/deepin-screenshot/
+
+### Flameshot: Best for everything but adding text.
+https://computingforgeeks.com/install-flameshot-screenshot-software-on-linux/
+### Shutter: Overcomplicated interface, otherwise fine.
+http://shutter-project.org/
+#### Lightscreen (Greenshot alternative?)
 http://lightscreen.com.ar/
 
 ### When to use REST, GraphGL, Webhook-grpc
@@ -77,4 +102,18 @@ https://github.com/gaia-pipeline/gaia
 
 ### CLI Improved: Prettier and more useful cli programs:
 https://remysharp.com/2018/08/23/cli-improved
+
+### HackMD: Online tool for editing and auto previewing MarkDown. Supports pasting images. 
+https://hackmd.io/
+
+### Solid: Decentralized apps that you share your data with, rather than each app storing your data. 
+https://solid.inrupt.com/docs
+
+### Podman - Run docker in userspace
+https://fedoramagazine.org/running-containers-with-podman/
+
+### GitHub Actions - Devops
+https://developer.github.com/actions/
+
 {% include links.html %}
+udo 
