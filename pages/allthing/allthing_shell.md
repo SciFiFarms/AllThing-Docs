@@ -13,6 +13,9 @@ folder: allthing
 lug.fh-swf.de/vim/vim-bash/StyleGuideShell.en.pdf
 unix.stackexchange.com/questions/42847/are-there-naming-conventions-for-variables-in-shell-scripts
 
+### How to check if one string contains a substring:
+https://stackoverflow.com/questions/4749330/how-to-test-if-string-exists-in-file-with-bash/4749368#4749368
+
 ### How to do debug levels in bash:
 https://stackoverflow.com/questions/42403558/how-do-i-manage-log-verbosity-inside-a-shell-script
 

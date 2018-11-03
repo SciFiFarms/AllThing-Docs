@@ -10,6 +10,9 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### GREAT walk through on using NGINX to dynamically create https reverse proxy. 
+https://itnext.io/setting-up-https-for-jenkins-with-nginx-everything-in-docker-4a118dc29127
+
 ### Monitoring nginx
 https://monometric.io/article/how-to-monitor-nginx
 

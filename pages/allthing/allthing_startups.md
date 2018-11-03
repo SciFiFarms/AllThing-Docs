@@ -16,6 +16,9 @@ https://old.reddit.com/r/Entrepreneur/comments/9n8xyj/inventrepreneurship_i_took
 ### Why and how to avoid hiring for culture fit
 https://opensource.com/open-organization/18/10/reconsider-culture-fit
 
+### A reminder that microservices aren't always the answer.
+https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with
+
 ### One DevOps stack and what the tools address
 https://hackernoon.com/youre-not-paying-the-true-cost-of-software-development-and-it-s-killing-your-business-8d44b54be055
 

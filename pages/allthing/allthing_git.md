@@ -32,6 +32,9 @@ https://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositorie
 ### Make a file executable: git add --chmod=+x path/to/file
 https://stackoverflow.com/questions/40978921/how-to-add-chmod-permissions-to-file-in-git/40979016
 
+### How to clone a single branch, without any of the other branches data/metadata. 
+https://stackoverflow.com/questions/1911109/how-to-clone-a-specific-git-branch
+
 ### Emojis in git commit messages:
 https://gitmoji.carloscuesta.me/
 
