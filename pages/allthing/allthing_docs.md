@@ -51,6 +51,9 @@ Live reload a page once it has been updated is supposed to be possible, but does
 ### Docs Like Code
 https://www.docslikecode.com
 
+### Examples of community files:
+https://blog.digitalocean.com/documentation-as-an-open-source-practice
+
 ### How to run Docs without the rest of the TechnoCore:
 
 

@@ -115,5 +115,11 @@ https://fedoramagazine.org/running-containers-with-podman/
 ### GitHub Actions - Devops
 https://developer.github.com/actions/
 
+### TensorFlow - Course
+https://github.com/open-source-for-science/TensorFlow-Course
+
+### List of 600 college level(?) courses:
+https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57
+
 {% include links.html %}
 udo 
