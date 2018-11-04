@@ -9,6 +9,11 @@ permalink: allthing_shell.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+### How to save screen layout so that I can monitor multiple logs in one screen. 
+https://gist.github.com/joaopizani/2718397
+https://stackoverflow.com/questions/7049252/how-to-create-a-screen-executing-given-command
+https://superuser.com/questions/687348/how-to-persist-gnu-screen-layout-after-restart
+
 ### Shell Style Guide:
 lug.fh-swf.de/vim/vim-bash/StyleGuideShell.en.pdf
 unix.stackexchange.com/questions/42847/are-there-naming-conventions-for-variables-in-shell-scripts
@@ -81,6 +86,9 @@ https://unix.stackexchange.com/questions/190163/shell-command-script-to-see-if-a
 
 ### Check if variable is set
 https://stackoverflow.com/questions/3601515/how-to-check-if-a-variable-is-set-in-bash
+
+### Get the directory of the script being ran.
+https://stackoverflow.com/questions/59895/getting-the-source-directory-of-a-bash-script-from-within
 
 ### 10 Handy BASH aliases
 https://opensource.com/article/18/9/handy-bash-aliases

@@ -34,6 +34,13 @@ https://docs.python.org/3/library/asyncio-dev.html
 ### Debugging python in VS Code:
 code.visualstudio.com/docs/python/debugging
 
+### More debugging tips from an email.
+I'm reaching out in response to the feedback you left for us in our survey about the Python debugger in Visual Studio Code:
+I'm debugging an async app in a container; Not exactly your ideal for easy debugging. I've ran into 2 issues:
+1) It seems like I can add ptvsd.enable_attach(address = ('0.0.0.0', 3000)) to my code, and debugging works well enough. However, if I try and start it with python -m ptvsd --host 0.0.0.0 --port 3000 -m ... It tells me that it cannot connect to the host and shuts down my container.
+2) I've found that breakpoints set through the interface do not work unless I have a call to breakpoint() in the code. I assume breakpoint() only applies to to thread it gets called in?
+Thank you for the feedback. For 1 can you try with 4.1.4, we had a bug where you had to use --server-host for that to work, that should be fixed in 4.1.4. Let me know if that continues to be a issue. For 2, were you using path mappings? If yes, then would it be possible for you to file a bug here with details: https://github.com/Microsoft/ptvsd/issues
+
 ### Python/VS Code/Docker debugging example:
 github.com/ChenTanyi/python-debug-docker
 github.com/DonJayamanne/vscode-python-samples/tree/master/remote-debugging-docker

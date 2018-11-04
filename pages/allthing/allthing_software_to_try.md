@@ -38,6 +38,12 @@ https://medium.com/ignation/time-to-replace-slack-who-will-win-mattermost-or-rio
 ### Great list of what CI solutions are out there, and if they are open source or not
 https://github.com/ligurio/awesome-ci
 
+### Chaos Monkey Engineering:
+https://www.gremlin.com/chaos-monkey/for-engineers/
+
+### Open Balena: Opensource IOT stack (No ESP support)
+https://www.balena.io/open/
+
 ### Wekan is a cool open source version of trello... But actually, it seems to have integrations with NextCloud and GitLab/GitHub
 https://wekan.github.io/
 
