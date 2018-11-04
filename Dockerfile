@@ -7,6 +7,7 @@ ADD Gemfile /tmp/
 RUN bundle update
 
 
+COPY . /src
 VOLUME /src
 EXPOSE 4000
 
