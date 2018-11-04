@@ -9,6 +9,10 @@ permalink: allthing_docker.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+
+### Issue for adding usb device support to Swarm (It's gonna happen!)
+https://github.com/docker/swarmkit/issues/2682
+
 ### Automatically have Docker Hub build images when github is updated
 https://docs.docker.com/docker-hub/builds/#understand-the-build-processg
 
@@ -65,11 +69,18 @@ https://docs.docker.com/compose/compose-file/#restart_policy
 ### Swarm can't handle .env. Here is the discussion and at the end a couple fixes. I went with the one that doesn't depend on docker-compose. 
 https://github.com/moby/moby/issues/29133
 
+### Go-init (Currently using, love pre/post hooks.):
+https://gitlab.com/pablo-ruth/go-init
+Currently using 0.0.3: https://gitlab.com/pablo-ruth/go-init/tags
+
+### Why you need an init program/wrapper
+https://github.com/Yelp/dumb-init/blob/v1.2.0/README.md#why-you-need-an-init-system
 ### Dumb-init doesn't seem so dumb:
 https://github.com/Yelp/dumb-init
 
-### A better dumb-init... Written in go:
-https://gitlab.com/pablo-ruth/go-init
+### How to have volume/secret names use ${stack_name}.
+https://blog.viktoradam.net/2018/02/28/swarm-secrets-made-easy/
+https://www.sweharris.org/post/2017-08-06-docker-secrets/
 
 ### Docker plugins?
 https://vimeo.com/110835013

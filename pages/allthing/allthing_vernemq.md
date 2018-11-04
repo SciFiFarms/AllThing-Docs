@@ -9,6 +9,8 @@ permalink: allthing_vernemq.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+### Some examples of debugging when vmq-admin doesn't work:
+https://github.com/vernemq/vernemq/issues/542
 
 ### Docker repo
 https://github.com/erlio/docker-vernemq
