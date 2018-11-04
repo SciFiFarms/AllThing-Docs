@@ -13,6 +13,9 @@ folder: allthing
 ### Inventrepreneurship: I took an idea to mass production with less than $6,000 (including biz filing and website fees) and turned it into a $5k/week profit business in 10 months. Here's MY process to get a simple invention from idea to mass production.
 https://old.reddit.com/r/Entrepreneur/comments/9n8xyj/inventrepreneurship_i_took_an_idea_to_mass/
 
+### Why go all remote:
+https://about.gitlab.com/2018/10/18/the-case-for-all-remote-companies/
+
 ### Why and how to avoid hiring for culture fit
 https://opensource.com/open-organization/18/10/reconsider-culture-fit
 
