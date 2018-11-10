@@ -1,5 +1,5 @@
 #FROM jekyll/builder
-FROM jekyll/jekyll
+FROM jekyll/jekyll:3.8.1
 
 WORKDIR /tmp
 ADD Gemfile /tmp/
