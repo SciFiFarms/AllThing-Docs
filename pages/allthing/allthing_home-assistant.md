@@ -33,6 +33,10 @@ Example of MQTT discovery: https://github.com/stelgenhof/AiLight/wiki/Home-Assis
 ### HA_Homie repo. Checkout Dev branch!
 https://github.com/nerdfirefighter/HA_Homie
 
+### I had trouble using symlinks in www when remapped to /local/ in the browser. 
+https://github.com/home-assistant/home-assistant/issues/15778
+https://github.com/home-assistant/home-assistant/pull/8413
+
 #### The discovery component. Allows for devices supported by netdisco.
 https://github.com/home-assistant/home-assistant/blob/39843a73de1b8e2a42be1e9300580726baecd18f/homeassistant/components/discovery.py
 https://github.com/home-assistant/home-assistant/blob/dev/homeassistant/components/discovery.py
@@ -101,6 +105,8 @@ https://hub.docker.com/r/homeassistant/home-assistant/
 https://github.com/home-assistant/home-assistant
 ### Dockerfile
 https://github.com/home-assistant/home-assistant/blob/dev/Dockerfile
+### Architecture repo
+https://github.com/home-assistant/architecture/issues
 
 ### Image processing
 https://www.home-assistant.io/components/image_processing/

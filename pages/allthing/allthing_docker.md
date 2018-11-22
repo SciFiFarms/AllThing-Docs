@@ -21,6 +21,13 @@ https://docs.docker.com/compose/production/#modify-your-compose-file-for-product
 
 
 ## Orchestration 
+### OpenShift's OKD
+https://opensource.com/article/18/11/local-okd-cluster-linux
+### Guacamole - Put Xwindows into your browser!
+https://blog.openshift.com/put-ide-container-guacamole/
+### Openshift Vs Kubernetes managment applications 
+https://elastisys.com/2018/11/06/openshift-features-kubernetes-counterparts/
+
 ### Kontena
 https://kontena.io/classic
 https://asciinema.org/a/25815
@@ -71,6 +78,7 @@ https://github.com/moby/moby/issues/29133
 
 ### Go-init (Currently using, love pre/post hooks.):
 https://gitlab.com/pablo-ruth/go-init
+Actually, I found 0.0.4: https://github.com/pablo-ruth/go-init/releases
 Currently using 0.0.3: https://gitlab.com/pablo-ruth/go-init/tags
 
 ### Why you need an init program/wrapper
@@ -86,6 +94,9 @@ https://www.sweharris.org/post/2017-08-06-docker-secrets/
 https://vimeo.com/110835013
 https://github.com/progrium/docker-plugins
 
+### Dive: Tool for looking at image layers and figuring out what to cut.
+https://github.com/wagoodman/dive
+
 ### What to do when a container doesn't consistently restart. Was a problem, may not be anymore. 
 https://stackoverflow.com/questions/44811886/restart-one-service-in-docker-swarm-stack
 
@@ -98,6 +109,10 @@ I used this one: https://github.com/stevelacy/docker-secret-update/blob/master/u
 https://gist.github.com/jamiejackson/a1818acedaeb9c3cd70bafac86a0100b
 https://gist.github.com/MLescaudron/e8248d32d3a5b8caaf622c1a829cf067
 https://gist.github.com/BluSyn/71a2040d610e06bf8ee06a9480d17fd3
+
+### Prune unused Docker images: docker system prune 
+See page for more forceful versions.
+https://stackoverflow.com/questions/32723111/how-to-remove-old-and-unused-docker-images
 
 ### Sysadmin's guide to containers
 https://opensource.com/article/18/8/sysadmins-guide-containers?utm_medium=Email&utm_campaign=weekly&sc_cid=701f2000000RRBPAA4

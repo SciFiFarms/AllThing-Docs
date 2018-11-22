@@ -61,4 +61,10 @@ stackoverflow.com/questions/3877623/in-python-can-you-have-variables-within-trip
 ### Joining an array ', '.join(some_array)
 https://stackoverflow.com/questions/497765/python-string-joinlist-on-object-array-rather-than-string-array
 
+### Using python for machine learning: hacks and tricks
+https://opensource.com/article/18/10/machine-learning-python-essential-hacks-and-tricks
+
+### Built in IDE
+https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810
+
 {% include links.html %}

@@ -26,6 +26,12 @@ https://github.com/ingydotnet/git-subrepo/wiki/FAQ
 #### Basics
 https://github.com/ingydotnet/git-subrepo/wiki/Basics
 
+### Ignore changes to a file: git update-index --skip-worktree <FILE> <FILE> ... 
+https://stackoverflow.com/questions/13630849/git-difference-between-assume-unchanged-and-skip-worktree
+
+### How to stash staged files (double stash)
+https://stackoverflow.com/questions/14759748/stashing-only-staged-changes-in-git-is-it-possible/32951373
+
 ### How to merge two git repos:
 https://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories
 

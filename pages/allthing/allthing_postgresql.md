@@ -10,6 +10,9 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Postgres Performance tutorial 
+https://stackify.com/postgresql-performance-tutorial/
+
 ### A feature rich alternative to the official image
 https://github.com/sameersbn/docker-postgresql
 

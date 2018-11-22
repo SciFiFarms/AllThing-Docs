@@ -11,6 +11,7 @@ folder: allthing
 ---
 ### While these aren't exactly software, the projects I follow on hackaday.io is a good list of projects
 https://hackaday.io/TheHackmeister
+https://hackaday.com/2018/11/06/add-nest-functionality-to-your-thermostat-for-5/
 
 ### Zenhub (Project management for GitHub)
 https://www.zenhub.com/product
