@@ -9,6 +9,10 @@ permalink: allthing_homie.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+
+### C++ API refrence
+https://github.com/timpur/homie-esp8266/blob/37f5b62851a90d356a60eef7887410bf7dd5d9fe/docs/others/cpp-api-reference.md
+
 ### How to flash a Sonoff
 https://github.com/arendst/Sonoff-Tasmota/issues/1203
 https://community.openhab.org/t/sonoff-flashing-sonoff-tasmota-vs-esp-easy/27371
@@ -32,6 +36,7 @@ https://github.com/microhomie/microhomie
 ## OTA
 ### Docs 
 http://marvinroger.github.io/homie-esp8266/docs/develop/others/ota-configuration-updates/#ota-entities-projects
+http://marvinroger.github.io/homie-esp8266/docs/develop/others/ota-configuration-updates/
 
 ### Projects to manage multiple homie devices
 http://marvinroger.github.io/homie-esp8266/docs/develop/others/community-projects/

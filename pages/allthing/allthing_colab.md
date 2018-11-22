@@ -21,6 +21,7 @@ https://hackaday.io/TheHackmeister
 ### These people have some way of sharing data. 
 https://www.uradmonitor.com/?mc_cid=0f4ca37c7a&mc_eid=a265f2cb07
 
+https://interestingengineering.com/13-vertical-farming-innovations-that-could-revolutionize-agriculture
 
 infarm.de/#what-we-do
 

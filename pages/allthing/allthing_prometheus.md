@@ -18,6 +18,8 @@ https://vernemq.com/docs/monitoring/prometheus.html
 
 ### Grafana - Visualizer
 https://prometheus.io/docs/visualization/grafana/
+### A REALLY good example of IoT + Prometheus + Grafana
+https://grafana.com/blog/2018/11/01/pro-tips-using-prometheus-and-grafana-for-monitoring-power-usage/
 
 ### Article about GitLabs use + links to their dashboard
 https://about.gitlab.com/2018/09/27/why-all-organizations-need-prometheus/

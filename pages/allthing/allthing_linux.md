@@ -26,6 +26,9 @@ https://superuser.com/questions/631859/preferred-place-to-store-configuration-fi
 https://askubuntu.com/questions/16521/where-in-the-filesystem-should-i-store-shared-data
 https://stackoverflow.com/questions/1510104/where-to-store-application-data-non-user-specific-on-linux
 
+### What tool to use to observe what kind of performance 
+https://www.reddit.com/r/linux/comments/9va8jy/linux_performance_observability_tools/
+
 ### Boot loaders
 https://wiki.archlinux.org/index.php/Category:Boot_loaders
 rEFInd boot loader looks slick: http://www.rodsbooks.com/refind/
