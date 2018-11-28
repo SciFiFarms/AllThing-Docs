@@ -11,5 +11,6 @@ folder: plants
 
 ### Dual Digital Potentiometer (100K)
 https://www.dfrobot.com/product-1650.html
+https://www.dfrobot.com/wiki/index.php/Dual_Digital_Pot_(100K)_SKU:_DFR0520
 
 {% include links.html %}

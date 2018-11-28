@@ -12,9 +12,13 @@ folder: allthing
 ### While these aren't exactly software, the projects I follow on hackaday.io is a good list of projects
 https://hackaday.io/TheHackmeister
 https://hackaday.com/2018/11/06/add-nest-functionality-to-your-thermostat-for-5/
+https://arduino.stackexchange.com/questions/44702/esp8266-as-isp-program-for-atmega16
 
 ### Zenhub (Project management for GitHub)
 https://www.zenhub.com/product
+
+### E Draw Max: Making charts and graphs...
+https://www.youtube.com/watch?v=AD9DrBPs908&t=144s
 
 ### Pi-Hole (Ad-blocking)
 https://www.troyhunt.com/mmm-pi-hole/
