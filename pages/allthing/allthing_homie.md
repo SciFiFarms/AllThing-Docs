@@ -10,6 +10,12 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Input Handling (.settable())
+http://marvinroger.github.io/homie-esp8266/docs/2.0.0/advanced-usage/input-handlers/
+
+### Range properties
+http://marvinroger.github.io/homie-esp8266/docs/stable/advanced-usage/range-properties/
+
 ### C++ API refrence
 https://github.com/timpur/homie-esp8266/blob/37f5b62851a90d356a60eef7887410bf7dd5d9fe/docs/others/cpp-api-reference.md
 
@@ -26,6 +32,15 @@ https://ben.gracewood.nz/2017/04/building-a-multisensor-for-home-assistant-part-
 
 ### Some esps have weird pins:
 https://github.com/esp8266/Arduino/issues/584
+
+### Debugging SPI
+https://hackaday.com/2016/07/01/what-could-go-wrong-spi/ 
+
+### method for recovering I2C bus 
+https://github.com/esp8266/Arduino/issues/1025
+
+### Lots about the Wire library
+https://playground.arduino.cc/Main/WireLibraryDetailedReference
 
 ### Adding SSL by default to Homie:
 https://github.com/TuxCoder/homie-esp8266/commit/950b59b87a2a9627766e1444b67360964148c1cc

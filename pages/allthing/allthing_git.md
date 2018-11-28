@@ -10,6 +10,13 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Link to specific lines of code:
+https://help.github.com/articles/creating-a-permanent-link-to-a-code-snippet/
+
+### Github Projects (Aggregates issues from multiple repos)
+https://help.github.com/articles/about-project-boards/
+https://help.github.com/articles/managing-project-boards-in-your-repository-or-organization/
+
 ### Zenhub: Project Management for GitHub
 https://www.zenhub.com/product
 
