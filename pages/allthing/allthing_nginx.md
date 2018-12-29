@@ -10,11 +10,42 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Docs
+http://nginx.org/en/docs/
+http://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_pass
+
+### Using Nginx to balance MQTT
+https://www.nginx.com/blog/nginx-and-iot-adding-protocol-awareness-for-mqtt/
+
+### Discussion on NGINX, TLS, MQTT, and Home Assistant
+https://community.home-assistant.io/t/how-to-configure-nginx-to-reverse-proxy-to-mqtt-using-ssl/63634/2
+https://community.home-assistant.io/t/nginx-reverse-proxy-set-up-guide-docker/54802/137
+https://dzone.com/articles/nginx-and-iot-adding-protocol-awareness-for-mqtt
+
+### TechnoCore NGINX config
+I had to add technocore
+
+### How to configure NGINX for TLS
+https://medium.com/@pentacent/nginx-and-lets-encrypt-with-docker-in-less-than-5-minutes-b4b8a60d3a71
+https://dev.to/domysee/setting-up-a-reverse-proxy-with-nginx-and-docker-compose-29jg
+https://codedaze.io/how-i-dockerised-my-blog/
+https://medium.com/@mvuksano/how-to-properly-configure-your-nginx-for-tls-564651438fe0
+https://www.bogotobogo.com/DevOps/Docker/Docker-Compose-Nginx-Reverse-Proxy-Multiple-Containers.php
+
+### Use docker-gen to create configuration automatically:
+https://github.com/jwilder/docker-gen
+http://t0t0.github.io/internship%20week%202/2016/02/26/docker-gen-for-nginx.html
+#### Examples
+https://github.com/jwilder/docker-gen/blob/master/examples/docker-gen.cfg
+https://github.com/fatk/docker-letsencrypt-nginx-proxy-companion-examples/blob/master/docker-compose/v2/simple-site/docker-compose.yml
+https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion
+https://github.com/5haman/nginx-proxy-letsencrypt
+
 ### GREAT walk through on using NGINX to dynamically create https reverse proxy. 
-https://itnext.io/setting-up-https-for-jenkins-with-nginx-everything-in-docker-4a118dc29127
+https://itnext.io/setting-up-https-fochkconfigr-jenkins-with-nginx-everything-in-docker-4a118dc29127
 
 ### Monitoring nginx
-https://monometric.io/article/how-to-monitor-nginx
+https://monometric.io/article/how-tchkconfigo-monitor-nginx
 
 ### Example of a Nginx config
 https://github.com/nextcloud/docker/blob/master/.examples/docker-compose/with-nginx-proxy-self-signed-ssl/mariadb/fpm/nginx.conf
@@ -22,6 +53,4 @@ https://github.com/nextcloud/docker/blob/master/.examples/docker-compose/with-ng
 ### Upstream looks pretty cool. Set values on container for NGINX to pickup?
 https://github.com/tcurdt/dockerx-upstream/tree/master/src/upstream
 
-### Using Nginx to balance MQTT
-https://www.nginx.com/blog/nginx-and-iot-adding-protocol-awareness-for-mqtt/
 {% include links.html %}

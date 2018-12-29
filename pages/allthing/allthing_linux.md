@@ -19,6 +19,9 @@ https://brandonjl.com/linux-security-101/
 ### HUGE list of linux/security resources,tips, and tricks.
 https://github.com/trimstray/awesome-ninja-admins
 
+### Really good looking guide to writing udev scripts. (Scripts triggered from hardware kinda events.)
+https://opensource.com/article/18/11/udev
+
 ### File system hierachy
 https://www.reddit.com/r/linux/comments/9qoh6d/linux_root_good_to_have_on_hands/
 http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/
@@ -58,5 +61,8 @@ https://github.com/trimstray/test-your-sysadmin-skills
 
 ### Guider - Linux CMD tracer/performance monitor
 https://github.com/iipeace/guider
+
+### Couldn't open GUI things with sudo:
+https://askubuntu.com/questions/175611/cannot-connect-to-x-server-when-running-app-with-sudo
 
 {% include links.html %}

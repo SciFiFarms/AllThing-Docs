@@ -46,5 +46,23 @@ https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Th
 ### The Neomonolith
 https://inconshreveable.com/10-07-2015/the-neomonolith/
 
+### DevOps Hiring guide
+https://opensource.com/sites/default/files/gated-content/devops_hiring_guide_v2.pdf
+
+### When NOT to use microservices
+https://www.feval.fr/posts/microservices/
+
+### How to get buy in addressing technical debt
+https://blog.gitprime.com/buy-in-addressing-technical-debt/
+
+### Mixing licenses with GPL
+https://softwareengineering.stackexchange.com/questions/204410/how-are-gpl-compatible-licenses-like-mit-usable-in-gpl-programs-without-being-su
+
+### The Don'ts of Software Engineering: Good list of things to avoid.
+https://www.imaginarycloud.com/blog/the-donts-of-software-engineering/
+
+### Learning Agility 
+https://focus.kornferry.com/leadership-and-talent/the-organisational-x-factor-learning-agility/
 
 {% include links.html %}
+

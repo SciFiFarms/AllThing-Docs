@@ -11,6 +11,8 @@ folder: allthing
 ---
 
 ## MQTT Sensors
+### Espurna Integration
+https://github.com/xoseperez/espurna/wiki/HomeAssistant
 
 ### Discussion on making a Homie component for Home Assistant.
 https://github.com/marvinroger/homie-esp8266/issues/306

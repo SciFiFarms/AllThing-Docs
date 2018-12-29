@@ -30,6 +30,15 @@ https://blog.timescale.com/prometheus-ha-postgresql-8de68d19b6f5
 ### Remote storage:
 https://medium.com/devopslinks/victoriametrics-creating-the-best-remote-storage-for-prometheus-5d92d66787ac
 
+### Prometheus with Thanos (Side car for replication)
+https://medium.com/uswitch-labs/making-prometheus-more-awesome-with-thanos-fbec8c6c28ad
+
+### Prometheus and AlertManager
+https://itnext.io/prometheus-with-alertmanager-f2a1f7efabd6
+
+### Monitoring Prometheus with Ansible
+https://itnext.io/monitoring-with-prometheus-using-ansible-812bf710ef43
+
 
 
 

@@ -13,11 +13,18 @@ folder: allthing
 ### Getting started with Kubernetes
 https://vsupalov.com/getting-started-with-kubernetes/
 
+### Visualize cluster
+https://github.com/spekt8/spekt8
+
 ### Helm basics to advanced 
 https://banzaicloud.com/blog/creating-helm-charts/
 
 ### Logging Kubernetes
 https://itnext.io/logging-best-practices-for-kubernetes-using-elasticsearch-fluent-bit-and-kibana-be9b7398dfee
+
+### Debugging with openshift kubernetes
+https://developers.redhat.com/blog/2018/11/27/microservices-debugging-openshift-kubernetes/
+https://opensource.com/article/18/12/introduction-kubeflow
 
 ### Kubernetes cheatsheet
 https://developers.redhat.com/promotions/kubernetes-cheatsheet/
