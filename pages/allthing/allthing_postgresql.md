@@ -29,4 +29,7 @@ https://www.postgresql.org/docs/9.1/static/auth-username-maps.html
 ### About pg_hba.conf
 https://www.postgresql.org/docs/9.3/static/auth-pg-hba-conf.html
 
+### Postgres SSL Mode
+https://ankane.org/postgres-sslmode-explained
+
 {% include links.html %}

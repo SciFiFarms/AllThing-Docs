@@ -13,6 +13,11 @@ folder: allthing
 ### Input Handling (.settable())
 http://marvinroger.github.io/homie-esp8266/docs/2.0.0/advanced-usage/input-handlers/
 
+### How to convert string to const char*
+https://stackoverflow.com/questions/11610264/convert-string-to-type-const-char-using-arduino
+https://www.arduino.cc/en/Tutorial/StringAdditionOperator
+https://www.arduino.cc/en/Tutorial/StringAppendOperator
+
 ### Range properties
 http://marvinroger.github.io/homie-esp8266/docs/stable/advanced-usage/range-properties/
 
@@ -20,6 +25,8 @@ http://marvinroger.github.io/homie-esp8266/docs/stable/advanced-usage/range-prop
 https://github.com/timpur/homie-esp8266/blob/37f5b62851a90d356a60eef7887410bf7dd5d9fe/docs/others/cpp-api-reference.md
 
 ### How to flash a Sonoff
+https://www.youtube.com/watch?v=zwp9E37ioVw
+https://docs.google.com/document/d/1yzKoLWDcgRxbQQSe5HlQSvLWO0Wfx9Jcvop6tipNw74/edit
 https://github.com/arendst/Sonoff-Tasmota/issues/1203
 https://community.openhab.org/t/sonoff-flashing-sonoff-tasmota-vs-esp-easy/27371
 https://www.superhouse.tv/21-six-sonoff-secrets/
@@ -32,6 +39,9 @@ https://ben.gracewood.nz/2017/04/building-a-multisensor-for-home-assistant-part-
 
 ### Some esps have weird pins:
 https://github.com/esp8266/Arduino/issues/584
+
+### How to port analog input into GPIO. 
+https://horaciobouzas.com/2015/04/20/esp8266-handling-analog-signals-without-an-analog-input-just-gpio/
 
 ### Debugging SPI
 https://hackaday.com/2016/07/01/what-could-go-wrong-spi/ 
@@ -91,5 +101,7 @@ github.com/SmingHub/Sming
 ### Another competing framework. Mesh network. Cool, but not needed right now:
 github.com/PhracturedBlue/ESP8266MQTTMesh
 
+### Battery powering ESP8266 and ESP32s. 
+https://hackaday.com/2018/12/17/a-deep-dive-into-low-power-wifi-microcontrollers/
 
 {% include links.html %}

@@ -23,6 +23,8 @@ https://www.uradmonitor.com/?mc_cid=0f4ca37c7a&mc_eid=a265f2cb07
 
 https://interestingengineering.com/13-vertical-farming-innovations-that-could-revolutionize-agriculture
 
+https://www.reddit.com/r/verticalfarming/comments/a5uk25/software_for_vertical_farming/
+
 infarm.de/#what-we-do
 
 biggreen.org/where-were-growing/denver-front-range

@@ -9,6 +9,7 @@ permalink: allthing_shell.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+
 ### How to save screen layout so that I can monitor multiple logs in one screen. 
 https://gist.github.com/joaopizani/2718397
 https://stackoverflow.com/questions/7049252/how-to-create-a-screen-executing-given-command
@@ -17,6 +18,9 @@ https://superuser.com/questions/687348/how-to-persist-gnu-screen-layout-after-re
 ### Shell Style Guide:
 lug.fh-swf.de/vim/vim-bash/StyleGuideShell.en.pdf
 unix.stackexchange.com/questions/42847/are-there-naming-conventions-for-variables-in-shell-scripts
+
+### Utilities for terminals. 
+https://github.com/k4m4/terminals-are-sexy
 
 ### How to check if one string contains a substring:
 https://stackoverflow.com/questions/4749330/how-to-test-if-string-exists-in-file-with-bash/4749368#4749368
@@ -98,6 +102,9 @@ https://zwischenzugs.com/2018/10/12/eleven-bash-tips-you-might-want-to-know/
 
 ### Bash debugging the hard way
 https://zwischenzugs.com/2018/10/09/learn-bash-debugging-techniques-the-hard-way/
+
+### Using .vim rather than .vimrc
+https://vimways.org/2018/from-vimrc-to-vim/
 
 ### Also see the Linux page.
 

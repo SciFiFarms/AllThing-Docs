@@ -23,8 +23,11 @@ https://www.zenhub.com/product
 ### Git commit workflow (Haven't read):
 https://dev.to/shreyasminocha/how-i-do-my-git-commits-34d?utm_campaign=DevOps%2BDispatch&utm_medium=email&utm_source=DevOps_Dispatch_11
 
-### Use git flow as a design pattern:
+### Use GitFlow as a design pattern:
 danielkummer.github.io/git-flow-cheatsheet
+
+### Feature Branch model: Alternative to GitFlow
+https://hackernoon.com/still-using-gitflow-what-about-a-simpler-alternative-74aa9a46b9a3
 
 ### Git Subrepo (Use 0.4.0. The master branch didn't always work right.)
 https://github.com/ingydotnet/git-subrepo
@@ -51,7 +54,6 @@ https://stackoverflow.com/questions/1911109/how-to-clone-a-specific-git-branch
 ### Emojis in git commit messages:
 https://gitmoji.carloscuesta.me/
 
-
 ### Guide to moving subfolder into new repository
 https://help.github.com/articles/splitting-a-subfolder-out-into-a-new-repository/
 
@@ -68,3 +70,12 @@ https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops
 https://stackoverflow.com/questions/14762034/push-to-github-without-password-using-ssh-key
 https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 https://help.github.com/articles/which-remote-url-should-i-use/
+
+### Visual tool for learning git? Have Liz try. 
+https://learngitbranching.js.org/
+
+### How to use git LFS (Large File Support)
+https://dzone.com/articles/git-lfs-why-and-how-to-use
+
+### Create a SVN patch with git
+http://codeprairie.net/blogs/chrisortman/archive/2008/01/14/creating-subversion-patches-with-git.aspx
