@@ -32,6 +32,10 @@ https://codedaze.io/how-i-dockerised-my-blog/
 https://medium.com/@mvuksano/how-to-properly-configure-your-nginx-for-tls-564651438fe0
 https://www.bogotobogo.com/DevOps/Docker/Docker-Compose-Nginx-Reverse-Proxy-Multiple-Containers.php
 
+### LetsEncrypt-proxy-companion
+https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion
+
+
 ### Use docker-gen to create configuration automatically:
 https://github.com/jwilder/docker-gen
 http://t0t0.github.io/internship%20week%202/2016/02/26/docker-gen-for-nginx.html
@@ -40,6 +44,8 @@ https://github.com/jwilder/docker-gen/blob/master/examples/docker-gen.cfg
 https://github.com/fatk/docker-letsencrypt-nginx-proxy-companion-examples/blob/master/docker-compose/v2/simple-site/docker-compose.yml
 https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion
 https://github.com/5haman/nginx-proxy-letsencrypt
+#### Go Template cheat sheet (for docker-gen)
+https://curtisvermeeren.github.io/2017/09/14/Golang-Templates-Cheatsheet
 
 ### GREAT walk through on using NGINX to dynamically create https reverse proxy. 
 https://itnext.io/setting-up-https-fochkconfigr-jenkins-with-nginx-everything-in-docker-4a118dc29127
@@ -52,5 +58,11 @@ https://github.com/nextcloud/docker/blob/master/.examples/docker-compose/with-ng
 
 ### Upstream looks pretty cool. Set values on container for NGINX to pickup?
 https://github.com/tcurdt/dockerx-upstream/tree/master/src/upstream
+
+### You have to end the proxy_pass https://whatever with a /. Otherwise you get an invalid url prefix error
+https://stackoverflow.com/questions/32992908/nginx-invalid-url-prefix 
+
+### If you change the TLS cert just 7 or 8 times, you may pollute Firefox's certificate cache. To fix it, I had to use cert9 instead of cert8.
+https://www.thesslstore.com/blog/troubleshoot-firefoxs-tls-handshake-message/
 
 {% include links.html %}

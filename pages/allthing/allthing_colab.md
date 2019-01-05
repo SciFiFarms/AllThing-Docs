@@ -25,6 +25,10 @@ https://interestingengineering.com/13-vertical-farming-innovations-that-could-re
 
 https://www.reddit.com/r/verticalfarming/comments/a5uk25/software_for_vertical_farming/
 
+https://www.igb.illinois.edu/article/scientists-engineer-shortcut-photosynthetic-glitch-boost-crop-growth-40
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwBTshfXFHzHZbMNWZHbBkhmrhR
+
 infarm.de/#what-we-do
 
 biggreen.org/where-were-growing/denver-front-range

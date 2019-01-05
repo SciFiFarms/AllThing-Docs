@@ -65,4 +65,7 @@ https://github.com/iipeace/guider
 ### Couldn't open GUI things with sudo:
 https://askubuntu.com/questions/175611/cannot-connect-to-x-server-when-running-app-with-sudo
 
+### How to get which interface is connected to the internet via bash. Linux AND OSX:
+https://unix.stackexchange.com/questions/14961/how-to-find-out-which-interface-am-i-using-for-connecting-to-the-internet
+
 {% include links.html %}

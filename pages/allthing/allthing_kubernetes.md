@@ -10,6 +10,9 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Seriously. Use OpenShift:
+https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/
+
 ### Getting started with Kubernetes
 https://vsupalov.com/getting-started-with-kubernetes/
 

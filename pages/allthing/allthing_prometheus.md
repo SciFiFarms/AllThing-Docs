@@ -24,6 +24,9 @@ https://grafana.com/blog/2018/11/01/pro-tips-using-prometheus-and-grafana-for-mo
 ### Article about GitLabs use + links to their dashboard
 https://about.gitlab.com/2018/09/27/why-all-organizations-need-prometheus/
 
+### Getting started with Prometheus
+https://opensource.com/article/18/12/introduction-prometheus
+
 ### High Availability:
 https://blog.timescale.com/prometheus-ha-postgresql-8de68d19b6f5
 
