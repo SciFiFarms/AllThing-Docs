@@ -106,6 +106,9 @@ https://zwischenzugs.com/2018/10/09/learn-bash-debugging-techniques-the-hard-way
 ### Using .vim rather than .vimrc
 https://vimways.org/2018/from-vimrc-to-vim/
 
+### How to get which interface is connected to the internet via bash. Linux AND OSX:
+https://unix.stackexchange.com/questions/14961/how-to-find-out-which-interface-am-i-using-for-connecting-to-the-internet
+
 ### Also see the Linux page.
 
 

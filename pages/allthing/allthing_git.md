@@ -79,3 +79,9 @@ https://dzone.com/articles/git-lfs-why-and-how-to-use
 
 ### Create a SVN patch with git
 http://codeprairie.net/blogs/chrisortman/archive/2008/01/14/creating-subversion-patches-with-git.aspx
+
+### Git save vs push (Use push -m "message" -- files)
+https://stackoverflow.com/questions/44680028/whats-the-difference-between-git-stash-save-and-git-stash-push
+
+### Make a branch and pull request at the same time
+https://github.com/Idnan/github-pr

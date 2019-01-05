@@ -64,5 +64,8 @@ https://www.imaginarycloud.com/blog/the-donts-of-software-engineering/
 ### Learning Agility 
 https://focus.kornferry.com/leadership-and-talent/the-organisational-x-factor-learning-agility/
 
+### Agile Ops - Kinda book thing?
+https://github.com/jdumars/agileops
+
 {% include links.html %}
 

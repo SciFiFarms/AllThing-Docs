@@ -41,12 +41,10 @@ https://www.linkedin.com/pulse/docker-secrets-management-portainerio-neil-cressw
 ### Mainflux, seems kinda like a IoT orchestrator
 https://www.mainflux.com/technology.html
 
-
 ### Connect to an existing swarm/host
 https://blog.dahanne.net/2015/10/07/adding-an-existing-docker-host-to-docker-machine-a-few-tips/
 https://docs.docker.com/machine/install-machine/
 https://www.digitalocean.com/community/tutorials/how-to-provision-and-manage-remote-docker-hosts-with-docker-machine-on-ubuntu-16-04
-
 
 ### Docker cluster on digital ocean
 https://www.digitalocean.com/community/tutorials/how-to-create-a-cluster-of-docker-containers-with-docker-swarm-and-digitalocean-on-ubuntu-16-04
@@ -126,6 +124,14 @@ https://github.com/aio-libs/aiodocker
 ### Instructions on accessing host from container. Ultimately didn't need. 
 https://stackoverflow.com/questions/31324981/how-to-access-host-port-from-docker-container/43541732#43541732
 https://dev.to/bufferings/access-host-from-a-docker-container-4099
+
+### How to completely remove swarm items: rm -rf  /var/lib/docker/swarm/*
+https://github.com/moby/moby/issues/25432
+
+### How to install Docker in Fedora( sudo dnf install docker-ce --releasever=28 )
+https://www.reddit.com/r/Fedora/comments/9u8k66/docker_fedora_29/
+https://computingforgeeks.com/how-to-install-docker-on-fedora-29-fedora-28/
+
 
 {% include links.html %}
 

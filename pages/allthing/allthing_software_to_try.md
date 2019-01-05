@@ -33,6 +33,12 @@ https://project.seeedstudio.com/zielmicha/10-secure-esp32-based-internet-camera-
 https://hackaday.com/2018/12/17/tired-of-killing-houseplants-try-using-wifi/
 Battery powered projects: https://hackaday.com/2018/12/17/a-deep-dive-into-low-power-wifi-microcontrollers/
 https://blog.gopheracademy.com/advent-2018/observability-in-the-kitchen/
+https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck
+https://opensource.com/article/18/12/lightshowpi-raspberry-pi
+https://www.awesome-ha.com/#diy-gateways
+
+### pipenv - New python virtual environments.
+https://opensource.com/article/18/2/why-python-devs-should-use-pipenv
 
 ### Zenhub (Project management for GitHub)
 https://www.zenhub.com/product
@@ -152,6 +158,9 @@ https://solid.inrupt.com/docs
 ### Podman - Run docker in userspace
 https://fedoramagazine.org/running-containers-with-podman/
 
+### Record and replay the web
+https://www.rrweb.io
+
 ### GitHub Actions - Devops
 https://developer.github.com/actions/
 
@@ -160,6 +169,9 @@ https://github.com/open-source-for-science/TensorFlow-Course
 
 ### List of 600 college level(?) courses:
 https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57
+
+### Lots of pretty useful tutorials
+https://2uts.com/
 
 {% include links.html %}
 udo 
