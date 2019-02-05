@@ -19,6 +19,9 @@ https://brandonjl.com/linux-security-101/
 ### HUGE list of linux/security resources,tips, and tricks.
 https://github.com/trimstray/awesome-ninja-admins
 
+### Great Observability chart for Linux 
+https://www.reddit.com/r/linux/comments/akek19/the_abest_linux_observability_chart/
+
 ### Really good looking guide to writing udev scripts. (Scripts triggered from hardware kinda events.)
 https://opensource.com/article/18/11/udev
 
@@ -67,5 +70,11 @@ https://askubuntu.com/questions/175611/cannot-connect-to-x-server-when-running-a
 
 ### How to get which interface is connected to the internet via bash. Linux AND OSX:
 https://unix.stackexchange.com/questions/14961/how-to-find-out-which-interface-am-i-using-for-connecting-to-the-internet
+
+### Linux hardening guide
+https://github.com/trimstray/the-practical-linux-hardening-guide
+
+### WiFi in Linux:
+https://geekodour.github.io/post/wifi-in-linux/
 
 {% include links.html %}

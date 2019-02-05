@@ -32,4 +32,7 @@ https://www.postgresql.org/docs/9.3/static/auth-pg-hba-conf.html
 ### Postgres SSL Mode
 https://ankane.org/postgres-sslmode-explained
 
+### Command to check if postgres is up: pg_isready
+https://stackoverflow.com/questions/7975414/how-to-check-status-of-postgresql-server-mac-os-x
+
 {% include links.html %}

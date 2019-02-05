@@ -26,6 +26,9 @@ https://dev.to/shreyasminocha/how-i-do-my-git-commits-34d?utm_campaign=DevOps%2B
 ### Use GitFlow as a design pattern:
 danielkummer.github.io/git-flow-cheatsheet
 
+### Git cheat sheet
+https://opensource.com/downloads/cheat-sheet-git
+
 ### Feature Branch model: Alternative to GitFlow
 https://hackernoon.com/still-using-gitflow-what-about-a-simpler-alternative-74aa9a46b9a3
 
@@ -64,8 +67,6 @@ https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
 https://www.weave.works/blog/the-official-gitops-faq
 https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops
 
-{% include links.html %}
-
 ### How to use github via ssh (Passwordless)
 https://stackoverflow.com/questions/14762034/push-to-github-without-password-using-ssh-key
 https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
@@ -85,3 +86,8 @@ https://stackoverflow.com/questions/44680028/whats-the-difference-between-git-st
 
 ### Make a branch and pull request at the same time
 https://github.com/Idnan/github-pr
+
+### Best practices for a private git repo.
+https://blog.openshift.com/private-git-repositories-part-1-best-practices/
+
+{% include links.html %}

@@ -16,4 +16,10 @@ https://www.ansible.com/blog/getting-started-writing-your-first-playbook
 ### Dealing with unreliable connections
 https://www.ansible.com/blog/ansible-tips-and-tricks-dealing-with-unreliable-connections-and-services
 
+### Agile Ops - Kinda book thing?
+https://github.com/jdumars/agileops
+
+### Updating Elastic Stack with Ansible
+https://www.toptal.com/ansible/update-elastic-stack-ansible-playbooks
+
 {% include links.html %}

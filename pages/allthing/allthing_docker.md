@@ -19,6 +19,11 @@ https://docs.docker.com/docker-hub/builds/#understand-the-build-processg
 ### You can overlay production values on top of dev values
 https://docs.docker.com/compose/production/#modify-your-compose-file-for-production
 
+### How to view docker's logs
+https://stackoverflow.com/questions/30969435/where-is-the-docker-daemon-log
+
+### How to backup and restore a swarm:
+https://success.docker.com/article/backup-restore-swarm-manager
 
 ## Orchestration 
 ### OpenShift's OKD
@@ -92,8 +97,14 @@ https://www.sweharris.org/post/2017-08-06-docker-secrets/
 https://vimeo.com/110835013
 https://github.com/progrium/docker-plugins
 
-### Dive: Tool for looking at image layers and figuring out what to cut.
+### Dive: Tool for looking at image layers and figuring out what to c.
 https://github.com/wagoodman/dive
+
+### Pass hostname into service
+https://stackoverflow.com/questions/40467716/set-hostname-of-service-container-to-hosts-hostname
+
+### Use read to collect password:
+https://stackoverflow.com/questions/3980668/how-to-get-a-password-from-a-shell-script-without-echoing
 
 ### What to do when a container doesn't consistently restart. Was a problem, may not be anymore. 
 https://stackoverflow.com/questions/44811886/restart-one-service-in-docker-swarm-stack
@@ -113,7 +124,7 @@ See page for more forceful versions.
 https://stackoverflow.com/questions/32723111/how-to-remove-old-and-unused-docker-images
 
 ### Sysadmin's guide to containers
-https://opensource.com/article/18/8/sysadmins-guide-containers?utm_medium=Email&utm_campaign=weekly&sc_cid=701f2000000RRBPAA4
+https://opensource.com/article/18/8/sysadmins-guide-containers
 
 ### Swarm vs Kubernetes 
 https://thenewstack.io/kubernetes-vs-docker-swarm-whats-the-difference/
@@ -132,6 +143,8 @@ https://github.com/moby/moby/issues/25432
 https://www.reddit.com/r/Fedora/comments/9u8k66/docker_fedora_29/
 https://computingforgeeks.com/how-to-install-docker-on-fedora-29-fedora-28/
 
+### Service to update images:
+https://github.com/pyouroboros/ouroboros
 
 {% include links.html %}
 

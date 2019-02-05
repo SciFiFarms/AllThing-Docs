@@ -22,6 +22,9 @@ https://community.home-assistant.io/t/how-to-configure-nginx-to-reverse-proxy-to
 https://community.home-assistant.io/t/nginx-reverse-proxy-set-up-guide-docker/54802/137
 https://dzone.com/articles/nginx-and-iot-adding-protocol-awareness-for-mqtt
 
+### Config generator... Actually as A LOT of easy to use options
+https://nginxconfig.io/
+
 ### TechnoCore NGINX config
 I had to add technocore
 
@@ -64,5 +67,17 @@ https://stackoverflow.com/questions/32992908/nginx-invalid-url-prefix
 
 ### If you change the TLS cert just 7 or 8 times, you may pollute Firefox's certificate cache. To fix it, I had to use cert9 instead of cert8.
 https://www.thesslstore.com/blog/troubleshoot-firefoxs-tls-handshake-message/
+
+### Bash tool for managing nginx
+https://github.com/pretzelhands/jinx
+
+### ENV vars in nginx (Use perl module)
+https://medium.com/code-build/docker-environment-variables-and-nginx-93d7173f19ec
+
+### Use NGINX as a reverse proxy for ssl wss
+https://stackoverflow.com/questions/12102110/nginx-to-reverse-proxy-websockets-and-enable-ssl-wss
+https://www.nginx.com/blog/nginx-and-iot-adding-protocol-awareness-for-mqtt/
+http://pankajmalhotra.com/Websockets-SSL-TLS-Termination-Using-NGINX-Proxy
+http://nginx.org/en/docs/http/websocket.html
 
 {% include links.html %}
