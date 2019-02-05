@@ -67,5 +67,23 @@ https://focus.kornferry.com/leadership-and-talent/the-organisational-x-factor-le
 ### Agile Ops - Kinda book thing?
 https://github.com/jdumars/agileops
 
+### Top three questions for a startup before accepting a job offer?
+https://news.ycombinator.com/item?id=19048108
+
+### Production Guidelines:
+https://medium.com/google-cloud/production-guideline-9d5d10c8f1e
+
+### Example math for an Aquaponics farm
+https://www.reddit.com/r/aquaponics/comments/amstf4/will_this_set_up_work/
+
+### DevOps transformation: Key differences in small, midsize, and large organizations
+https://opensource.com/article/19/1/devops-small-medium-large-organizations
+
+### How to hire managers vs engineers:
+https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/
+
+### DevOps Team structure:
+https://web.devopstopologies.com/
+
 {% include links.html %}
 

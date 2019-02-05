@@ -21,6 +21,11 @@ https://hackaday.io/TheHackmeister
 ### These people have some way of sharing data. 
 https://www.uradmonitor.com/?mc_cid=0f4ca37c7a&mc_eid=a265f2cb07
 
+### Sustainable Free and Open Source Community (Book):
+https://sfosc.org/
+
+https://forum.openag.media.mit.edu/t/hello-open-ag-people-i-had-an-idea-and-i-think-it-may-be-similar-to-your-mission-let-me-know-what-you-think/4277/3
+
 https://interestingengineering.com/13-vertical-farming-innovations-that-could-revolutionize-agriculture
 
 https://www.reddit.com/r/verticalfarming/comments/a5uk25/software_for_vertical_farming/
@@ -32,6 +37,10 @@ https://mail.google.com/mail/u/0/#inbox/FMfcgxwBTshfXFHzHZbMNWZHbBkhmrhR
 infarm.de/#what-we-do
 
 biggreen.org/where-were-growing/denver-front-range
+
+http://aeroponic.net/
+
+https://blog.rakearound.com/posts/urban-agriculture-story:-from-nasa-science-to-indoor-gardening-with-vertiponic
 
 hortidaily.com/article/43314/Aeroponic-greenhouse-opens-in-Turin
 

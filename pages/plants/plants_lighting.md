@@ -16,6 +16,11 @@ http://ledgardener.com/diy-led-strip-build-designs-samsung-bridgelux/
 https://www.reddit.com/r/HandsOnComplexity/comments/18fn67/space_bucket_electrical_safety_tips_posted_to/
 https://hackaday.com/2018/12/14/scott-swaaley-on-high-voltage/
 
+### Sensors:
+#### TSL2561
+source: https://www.adafruit.com/product/3611
+https://github.com/adafruit/TSL2561-Arduino-Library
+
 ### Hands on complexity
 https://www.reddit.com/r/HandsOnComplexity/
 https://www.reddit.com/r/HandsOnComplexity/comments/17nxhd/sags_plant_lighting_guide_linked_together/

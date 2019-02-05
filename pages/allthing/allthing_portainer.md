@@ -38,4 +38,7 @@ https://www.linkedin.com/pulse/teamgroup-management-docker-portainerio-neil-cres
 ### Secret Management
 https://portainer.readthedocs.io/en/stable/external_endpoints.html
 
+### How to run Portainer in a frame (Use NGINX to strip frame headers)
+https://github.com/portainer/portainer/issues/2279
+
 {% include links.html %}

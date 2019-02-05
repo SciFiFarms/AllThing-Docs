@@ -9,6 +9,8 @@ permalink: allthing_shell.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+### Parsing command line options
+https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash
 
 ### How to save screen layout so that I can monitor multiple logs in one screen. 
 https://gist.github.com/joaopizani/2718397
@@ -108,6 +110,19 @@ https://vimways.org/2018/from-vimrc-to-vim/
 
 ### How to get which interface is connected to the internet via bash. Linux AND OSX:
 https://unix.stackexchange.com/questions/14961/how-to-find-out-which-interface-am-i-using-for-connecting-to-the-internet
+
+### Reading Websockets in Bash:
+https://stackoverflow.com/questions/47860689/how-to-read-websocket-response-in-bash
+
+### Get IP of hostname
+https://superuser.com/questions/602674/ping-server-domain-and-capture-its-ip-on-linux
+
+### How to capitalize vars in bash
+https://stackoverflow.com/questions/673055/correct-bash-and-shell-script-variable-capitalization
+
+### logname: Get the user that called sudo:
+https://stackoverflow.com/questions/4598001/how-do-you-find-the-original-user-through-multiple-sudo-and-su-commands
+
 
 ### Also see the Linux page.
 

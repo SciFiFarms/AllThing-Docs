@@ -10,6 +10,48 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Proctes I want to use:
+IDE: https://github.com/hassio-addons/addon-ide
+https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810
+
+
+## HASS.iokuhh
+### Reference projects
+Configurator: https://github.com/danielperna84/hass-configurator
+Floorplan with lights that turn on and off: https://community.home-assistant.io/t/floorplan-with-many-lights-in-one-area-say-hello-to-transparent-png-files/90006/14
+Weather Card with chart: https://community.home-assistant.io/t/lovelace-weather-card-with-chart/88816
+Hacking the Xiaomifang Wifi Camera:https://community.home-assistant.io/t/hacking-the-xiaomifang-wifi-camera/18579
+Send SMS via MQTT: https://community.home-assistant.io/t/send-sms-via-mqtt/45544/7
+Grafana and Influx: https://community.home-assistant.io/t/complete-guide-on-setting-up-grafana-influxdb-with-home-assistant-using-official-docker-images/42860
+Home Assistant on a smart phone: https://community.home-assistant.io/t/install-home-assistant-mosquitto-broker-and-node-red-on-android/14350/22
+Solderless flashable wifi light (Kuled): https://community.home-assistant.io/t/cheaper-wifi-light-switch-amazon-kuled/69844/27
+How to take a cumulative reading and turn it into a span. Could answer how much did I grow this light period: https://community.home-assistant.io/t/how-to-daily-rain-sensor-from-cumulative-sensor-using-mqtt-and-template-sensor/20243
+Monitor power with a DIN mounted interface. Maybe a good step in the PLC direction: https://community.home-assistant.io/t/power-monitoring-with-an-xtm18s-and-mqtt/16316
+Automation with Kodi: https://www.home-assistant.io/cookbook/automation_kodi_dynamic_input_select/
+Turn off camera when home: https://www.home-assistant.io/cookbook/foscam_away_mode_PTZ/
+Testing your security: https://community.home-assistant.io/t/test-your-security-and-test-it-often/76354/4
+Automated window shuttors: https://www.reddit.com/r/homeassistant/comments/ahdmsv/diy_window_shutter_control_and_sensors/
+Lovelace light card: https://github.com/ljmerza/light-entity-card
+Text to speech discussion: https://www.reddit.com/r/homeassistant/comments/an3mys/what_is_your_overall_texttospeech_tts_strategy/
+#### Cool themes and configs
+https://github.com/SilvrrGIT/HomeAssistant
+https://github.com/ntalekt/homeassistant
+https://github.com/stanvx/Home-Assistant-Configuration
+https://github.com/gstevenson/ha-config
+https://github.com/skalavala/smarthome
+https://github.com/CCOSTAN/Home-AssistantConfig
+https://github.com/CCOSTAN/Docker_Support
+https://community.home-assistant.io/t/slate-a-new-dark-theme/86410/8
+https://community.home-assistant.io/t/my-hass-io-and-lovelace-setup-updated/72902/2
+https://github.com/renemarc/home-assistant-config
+https://github.com/JoshuaGarrison27/Home-Assistant-Configuration
+
+### Android Apps - Home Assistant:
+https://www.smarthomebeginner.com/best-android-apps-for-home-assistant/
+
+### Home Assistant JupyterLab:
+https://data.home-assistant.ioouo/docs/quick_start_index
+
 ## MQTT Sensors
 ### Espurna Integration
 https://github.com/xoseperez/espurna/wiki/HomeAssistant

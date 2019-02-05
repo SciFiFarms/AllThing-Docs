@@ -56,6 +56,8 @@ https://blog.digitalocean.com/documentation-as-an-open-source-practice
 
 ### How to run Docs without the rest of the TechnoCore:
 
+### Static site boilerplate
+https://github.com/ericalli/static-site-boilerplate
 
 ### Create an issues template for doc issues:
 http://www.docslikecode.com/articles/doc-issues-tracking/?utm_source=Lesson+Series+-+Docs+Like+Code

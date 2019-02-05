@@ -19,6 +19,12 @@ https://vsupalov.com/getting-started-with-kubernetes/
 ### Visualize cluster
 https://github.com/spekt8/spekt8
 
+### Some tips, tricks, and common tools
+https://thepracticalsysadmin.com/kubernetes-cli-tricks/
+
+### Tilt: Watches kubernetes files and restarts needed components. 
+https://github.com/windmilleng/tilt
+
 ### Helm basics to advanced 
 https://banzaicloud.com/blog/creating-helm-charts/
 

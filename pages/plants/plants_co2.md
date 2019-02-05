@@ -18,6 +18,10 @@ https://www.vaisala.com/sites/default/files/documents/CEN-TIA-Parameter-How-to-m
 Best repo: https://github.com/lawlight33/MQ135
 https://stackoverflow.com/questions/31109021/how-to-find-co2-and-o2-level-using-mq135-with-arduino
 http://microcontrollerslab.com/interfacing-mq-135-gas-sensor-arduino/
+Source: https://www.waveshare.com/mq-135-gas-sensor.htm
 
+### CO2 effects on people. REALLY interesting.
+https://www.youtube.com/watch?v=1Nh_vxpycEA
 
 {% include links.html %}
+ng

@@ -21,4 +21,7 @@ https://www.reddit.com/r/interestingasfuck/comments/905g1o/personal_water_filter
 ### Interesting discussion on nozzles... kinda. 
 https://forum.openag.media.mit.edu/t/nozzle-afd-series/4152
 
+### Testing water quality on a budget:
+https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Corner-Bead/N-5yc1vZc7qn
+
 {% include links.html %}
