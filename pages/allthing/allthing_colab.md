@@ -24,6 +24,8 @@ https://www.uradmonitor.com/?mc_cid=0f4ca37c7a&mc_eid=a265f2cb07
 ### Sustainable Free and Open Source Community (Book):
 https://sfosc.org/
 
+https://tribeawesome.com/project/aeroponics/index.html
+
 https://forum.openag.media.mit.edu/t/hello-open-ag-people-i-had-an-idea-and-i-think-it-may-be-similar-to-your-mission-let-me-know-what-you-think/4277/3
 
 https://interestingengineering.com/13-vertical-farming-innovations-that-could-revolutionize-agriculture

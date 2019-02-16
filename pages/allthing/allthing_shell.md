@@ -56,7 +56,7 @@ https://unix.stackexchange.com/questions/30454/advantages-of-using-set-o-vi
 https://blog.lerner.co.il/a-quick-intro-to-the-unix-find-utility/
 
 ### Bash OO(Infinity?) Framework
-https://github.com/niieani/bash-oo-framework?utm_source=DevOps%27ish&utm_campaign=b6b758ef9c-088&utm_medium=email&utm_term=0_eab566bc9f-b6b758ef9c-46451983
+https://github.com/niieani/bash-oo-framework
 
 ### Bash is a type of sh:
 https://stackoverflow.com/questions/5725296/difference-between-sh-and-bash

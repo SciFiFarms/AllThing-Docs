@@ -21,7 +21,10 @@ https://help.github.com/articles/managing-project-boards-in-your-repository-or-o
 https://www.zenhub.com/product
 
 ### Git commit workflow (Haven't read):
-https://dev.to/shreyasminocha/how-i-do-my-git-commits-34d?utm_campaign=DevOps%2BDispatch&utm_medium=email&utm_source=DevOps_Dispatch_11
+https://dev.to/shreyasminocha/how-i-do-my-git-commits-34d
+
+### Good git rebase --onto explanation
+https://stackoverflow.com/questions/29914052/i-cant-understand-the-behaviour-of-git-rebase-onto
 
 ### Use GitFlow as a design pattern:
 danielkummer.github.io/git-flow-cheatsheet
@@ -89,5 +92,8 @@ https://github.com/Idnan/github-pr
 
 ### Best practices for a private git repo.
 https://blog.openshift.com/private-git-repositories-part-1-best-practices/
+
+### Git for computer scientists (Graphs and algorithms)
+http://eagain.net/articles/git-for-computer-scientists/
 
 {% include links.html %}

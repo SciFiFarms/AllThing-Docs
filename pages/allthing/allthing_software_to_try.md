@@ -75,8 +75,11 @@ Project that makes it's own PCB: https://randomnerdtutorials.com/build-an-all-in
 Smart LED strips (Has 12v power supply link + 12v=>5v): https://blog.ktz.me/smart-led-strips-with-no-subscription-required/
 
 ### Email clients
-https://opensource.com/article/19/1/productivity-tool-cypht-email?utm_medium=Email&utm_campaign=editorspicks&sc_cid=701f2000001D93MAAS
-https://opensource.com/article/19/1/productivity-tool-isotope?utm_medium=Email&utm_campaign=editorspicks&sc_cid=701f2000001D93MAAS
+https://opensource.com/article/19/1/productivity-tool-cypht-email
+https://opensource.com/article/19/1/productivity-tool-isotope
+
+### 20 VS Code extensions you'll actually use
+https://dev.to/vip3rousmango/vs-code-extensions-youll-actually-use-46gp
 
 ### pipenv - New python virtual environments.
 https://opensource.com/article/18/2/why-python-devs-should-use-pipenv
@@ -167,7 +170,7 @@ https://opensource.com/article/18/8/getting-started-standard-notes
 https://notmyfirslanguage.writeas.com/the-road-to-emacs
 
 ### Bash OO(Infinity?) Framework
-https://github.com/niieani/bash-oo-framework?utm_source=DevOps%27ish&utm_campaign=b6b758ef9c-088&utm_medium=email&utm_term=0_eab566bc9f-b6b758ef9c-46451983
+https://github.com/niieani/bash-oo-framework
 
 ### Logwatch (and tutorial)
 https://www.techrepublic.com/article/how-to-install-and-use-logwatch-on-linux/
@@ -205,7 +208,7 @@ https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
 https://developer.android.com/things/versions/things-1.0
 
 ### Guacamole: X windows to HTML5 for containers. 
-https://blog.openshift.com/put-ide-container-guacamole/?utm_medium=Email&utm_campaign=editorspicks&sc_cid=701f2000001OCwtAAG
+https://blog.openshift.com/put-ide-container-guacamole/
 
 ### Gaia: Flexible pipeline creator
 https://github.com/gaia-pipeline/gaia
@@ -231,6 +234,9 @@ https://developer.github.com/actions/
 ### List of features to look for in a monitoring tool:
 https://www.bluematador.com/blog/what-to-expect-from-a-next-gen-monitoring-tool-blue-matador-2018-review
 
+### Books that every programmer (of every type) should read
+https://medium.com/@shvetsovdm/essential-books-that-every-programmer-should-read-a61565095781
+
 # Tutorials:
 ### Open Source CS degree:
 https://github.com/ForrestKnight/open-source-cs
@@ -250,6 +256,9 @@ https://github.com/lorin/resilience-engineering
 
 ### Cheatsheets (Python / Django and JavaScript / React)
 https://github.com/kickstartcoding/cheatsheets
+
+### Hacker Tools
+https://hacker-tools.github.io/
 
 
 {% include links.html %}

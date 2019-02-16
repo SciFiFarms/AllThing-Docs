@@ -54,4 +54,7 @@ https://bitknitting.wordpress.com/2016/06/19/making-a-par-and-dli-meter-using-an
 ### Daily Light Integrals for Cannabis with and without CO2 enrichment
 https://www.reddit.com/r/microgrowery/comments/a8lr4b/dli_for_cannabis/
 
+### Analysis of what causes LEDs to fail
+https://hackaday.com/2019/02/05/what-happened-to-the-100000-hour-led-bulbs/
+
 {% include links.html %}

@@ -10,9 +10,10 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
-### Proctes I want to use:
+### Projects and components I want to use:
 IDE: https://github.com/hassio-addons/addon-ide
 https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810
+https://www.home-assistant.io/components/calendar.caldav/
 
 
 ## HASS.iokuhh
