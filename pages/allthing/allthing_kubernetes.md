@@ -13,6 +13,9 @@ folder: allthing
 ### Seriously. Use OpenShift:
 https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/
 
+### Django on Openshift
+https://fedoramagazine.org/deploy-a-django-rest-service-on-openshift/
+
 ### Getting started with Kubernetes
 https://vsupalov.com/getting-started-with-kubernetes/
 

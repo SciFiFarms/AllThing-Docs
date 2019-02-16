@@ -31,4 +31,7 @@ ln -s ../dogfish/shell-migrations/down-template.sh shell-migrations/
 6. Create first migration
 7. Add entrypoint or CMD hooks. 
 
+### Seems similar to Azure's cloud-init
+https://cloudinit.readthedocs.io/en/latest/
+
 {% include links.html %}

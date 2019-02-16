@@ -85,5 +85,14 @@ https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/
 ### DevOps Team structure:
 https://web.devopstopologies.com/
 
+### Importance of one on ones:
+https://css-tricks.com/the-importance-of-one-on-ones/
+
+### On Being A Principal Engineer
+https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html
+
+### Checkout this email for an example weekly report. 
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVWRXXBSKfXwWRWtmKJNJMCpq
+
 {% include links.html %}
 

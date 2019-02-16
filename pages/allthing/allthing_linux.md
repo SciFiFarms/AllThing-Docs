@@ -54,7 +54,7 @@ https://www.gnome-look.org/p/1013698/
 https://askubuntu.com/questions/979968/how-to-hide-title-bar-in-firefox-57-quantum
 
 ### Guide to SELinux
-https://opensource.com/article/18/8/cheat-sheet-selinux?utm_source=DevOps%27ish&utm_campaign=03ce88c60e-089&utm_medium=email&utm_term=0_eab566bc9f-03ce88c60e-46451983
+https://opensource.com/article/18/8/cheat-sheet-selinux
 
 ### PulseAudio control with fedora (Application level control)
 https://fedoramagazine.org/precise-audio-control-with-fedora/
@@ -77,4 +77,9 @@ https://github.com/trimstray/the-practical-linux-hardening-guide
 ### WiFi in Linux:
 https://geekodour.github.io/post/wifi-in-linux/
 
+### Mount dir over ssh: 
+https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh
+
+### Python script as systemd service
+https://github.com/torfsen/python-systemd-tutorial
 {% include links.html %}
