@@ -61,4 +61,7 @@ https://github.com/covexo/devspace
 ### Zero Downtime Updates 
 https://blog.sebastian-daschner.com/entries/zero-downtime-updates-kubernetes 
 
+### Kubernetes 12 ways to learn
+https://enterprisersproject.com/article/2019/2/kubernetes-12-ways-get-smarter
+
 {% include links.html %}

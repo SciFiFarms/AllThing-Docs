@@ -73,6 +73,9 @@ https://www.mockingbirdconsulting.co.uk/blog/2019-01-05-hashicorp-at-home/
 https://hackaday.com/2019/01/11/esp8266-ac-controller-shows-whats-possible/
 Project that makes it's own PCB: https://randomnerdtutorials.com/build-an-all-in-one-esp32-weather-station-shield/
 Smart LED strips (Has 12v power supply link + 12v=>5v): https://blog.ktz.me/smart-led-strips-with-no-subscription-required/
+https://www.reddit.com/r/homeassistant/comments/assagi/project_box_with_3_mqtt_controlled_outlets_and_a/
+https://hackaday.com/2019/02/08/eight-years-of-partmaking-a-love-story-for-parts/
+https://project.seeedstudio.com/Yarosia/arduino-growbox-controller-efb9fa
 
 ### Email clients
 https://opensource.com/article/19/1/productivity-tool-cypht-email
@@ -80,6 +83,9 @@ https://opensource.com/article/19/1/productivity-tool-isotope
 
 ### 20 VS Code extensions you'll actually use
 https://dev.to/vip3rousmango/vs-code-extensions-youll-actually-use-46gp
+
+### Anecdata - Citizen scientist data collection
+https://www.anecdata.org/
 
 ### pipenv - New python virtual environments.
 https://opensource.com/article/18/2/why-python-devs-should-use-pipenv
@@ -204,6 +210,9 @@ https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/
 ### Gitpod (Online IDE for github)
 https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
 
+### Software to track expenses
+https://www.reddit.com/r/selfhosted/comments/at0lpt/best_software_to_track_expenses/
+
 ### Android Things (IoT framework?)
 https://developer.android.com/things/versions/things-1.0
 
@@ -230,6 +239,9 @@ https://www.rrweb.io
 
 ### GitHub Actions - Devops
 https://developer.github.com/actions/
+
+### Linux programs for manipulating PDFs (PDF Chain, PDF-Shuffler)
+https://opensource.com/article/19/2/manipulating-pdfs-linux
 
 ### List of features to look for in a monitoring tool:
 https://www.bluematador.com/blog/what-to-expect-from-a-next-gen-monitoring-tool-blue-matador-2018-review
@@ -260,6 +272,9 @@ https://github.com/kickstartcoding/cheatsheets
 ### Hacker Tools
 https://hacker-tools.github.io/
 
+### Y Combinator's resources for startup devs
+https://ycombinator.dev/
+
+
 
 {% include links.html %}
-udo 

@@ -10,6 +10,10 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Multi select in VS Code (Alt + click):
+https://kencenerelli.wordpress.com/2018/03/25/visual-studio-code-multi-line-and-multi-cursor-editing/
+
+
 ### Browser Sync:
 https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync
 

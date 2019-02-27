@@ -78,8 +78,20 @@ https://github.com/trimstray/the-practical-linux-hardening-guide
 https://geekodour.github.io/post/wifi-in-linux/
 
 ### Mount dir over ssh: 
+https://unix.stackexchange.com/questions/467081/sshfs-with-on-demand-mounting
 https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh
+https://wiki.archlinux.org/index.php/SSHFS#On_demand
+
+### Autofs - had trouble 
+https://help.ubuntu.com/community/Autofs
+
+### Change default ssh dir
+https://serverfault.com/questions/499565/change-default-directory-when-i-ssh-to-server
 
 ### Python script as systemd service
 https://github.com/torfsen/python-systemd-tutorial
+
+### Cockpit: Linux status GUI. 
+https://cockpit-project.org/running.html#fedora
+
 {% include links.html %}

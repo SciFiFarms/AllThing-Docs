@@ -37,6 +37,9 @@ https://esphomelib.com/esphomeyaml/components/sensor/hx711.html?highlight=calibr
 ### Configuration Types - Good bit on using substitutions:
 https://esphomelib.com/esphomeyaml/guides/configuration-types.html
 
+### How to use specific esphome-core version.
+https://esphome.io/components/esphomeyaml#esphomeyaml-esphomelib-version
+
 ### A little about setting up esphomeyaml as a stand alone service.
 https://community.home-assistant.io/t/esphomelib-help-docker/62383/10
 

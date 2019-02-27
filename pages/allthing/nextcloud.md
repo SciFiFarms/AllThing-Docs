@@ -49,4 +49,7 @@ There are some clues they may be out of date? Couldn't find the app anywhere.
 https://docs.nextcloud.com/server/15/admin_manual/configuration_files/external_storage_configuration_gui.html
 https://docs.nextcloud.com/server/15/admin_manual/configuration_server/occ_command.html#files-external-label
 
+### Some thoughts on how to install 2 NextCloud instances on the same server
+https://help.nextcloud.com/t/installation-of-more-than-one-nextcloud-environment-on-the-the-same-virtual-server/31428/2
+
 {% include links.html %}

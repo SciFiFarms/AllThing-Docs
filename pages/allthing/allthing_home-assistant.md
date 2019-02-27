@@ -14,6 +14,7 @@ folder: allthing
 IDE: https://github.com/hassio-addons/addon-ide
 https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810
 https://www.home-assistant.io/components/calendar.caldav/
+https://www.reddit.com/r/homeassistant/comments/ato1az/my_slate_dark_theme_fully_complete/
 
 
 ## HASS.iokuhh
