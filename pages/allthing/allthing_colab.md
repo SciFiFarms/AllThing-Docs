@@ -74,6 +74,8 @@ reddit.com/r/Art/comments/8m191i/hydroponic_garden_digital_720x720
 
 hortidaily.com/article/42913/US-(WY)-Vertical-farm-in-Jackson-offers-fresh-produce-and-jobs-for-the-disabled
 
+https://truththeory.com/2019/02/02/1-5-million-volunteers-plant-66-million-trees-in-12-hours-breaking-guinness-world-record/?fbclid=IwAR3_QkiimHV7QJ2MxRuODuyoq-e9ML6ZGmx8PyRqZXK1hmUbqU7i1UCdggA
+
 hortidaily.com/article/43058/Indian-horticultural-experts-gain-experience-in-the-Netherlands
 
 wevolver.com/border.labs/astroplant/blob/master/documentation.md

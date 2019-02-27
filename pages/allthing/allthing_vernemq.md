@@ -42,6 +42,9 @@ https://github.com/erlio/vernemq/issues/617
 ### Great examples of using vmq-admin trace (vmq-admin trace client client-id=[TheClientIDToWatch] )
 https://github.com/erlio/vernemq/issues/744
 
+### Using erlyberly to trace VerneMQ
+https://vernemq.com/blog/2015/11/02/tracing-vernemq-with-the-erlyberly-tool.html
+
 ### Monitoring 
 https://vernemq.com/docs/monitoring/
 

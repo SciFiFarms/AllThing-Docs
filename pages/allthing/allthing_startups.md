@@ -94,5 +94,14 @@ https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html
 ### Checkout this email for an example weekly report. 
 https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVWRXXBSKfXwWRWtmKJNJMCpq
 
+### 7 Habits of Highly Effective CI CD pipelines
+https://medium.com/uptime-99/7-habits-of-highly-effective-ci-cd-pipelines-45006e2cb550
+
+### The Power of "We don't do that here."
+http://www.thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html
+
+### Y Combinator's resources for startup devs
+https://ycombinator.dev/
+
 {% include links.html %}
 
