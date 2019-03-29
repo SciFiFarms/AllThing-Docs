@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/themefisher/meghna-hugo.git
+	branch = master
+	commit = 14d4e2a1a918adafa63ead73f3020b9705aa39b2
+	parent = 5e4402265878d44bb96e1693dba4db1239e36297
+	method = merge
+	cmdver = 0.4.0
