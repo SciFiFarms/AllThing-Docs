@@ -14,6 +14,10 @@ folder: allthing
 For Gnome, I found that the best way to see what errors were being thrown was to run the following:
 ```journalctl -f -u NetworkManager.service```
 
+### Android OpenVPN
+I'm using OpenVPN For Android because it's open source. I found the best way to get this working was to use a .opvn file on a computer, get it working, and then upload that (and certs if you don't inline them), to your phone and then import. 
+I had to disable the DNS settings as mine didn't work and wrecked all requests that used it. 
+
 ## Common Issues
 ### Unknown cert type 'ca' or 'server' or 'client'
 x509-types dir needs to be in the folder with easy-rsa: https://github.com/OpenVPN/easy-rsa/issues/93
@@ -49,5 +53,15 @@ https://www.centos.org/forums/viewtopic.php?t=47210
 https://www.aaflalo.me/2015/01/openvpn-tap-bridge-mode/
 https://wiki.archlinux.org/index.php/OpenVPN_Bridge
 https://n0where.net/bridging-openvpn
+
+### Optimizing OpenVPN
+https://hamy.io/post/0003/optimizing-openvpn-throughput/
+
+### Which VPNs to trust
+Not openVPN, but still VPN
+https://slate.com/technology/2019/02/best-vpn-companies-trust-privacy.html
+
+### OpenVPN install
+https://github.com/angristan/openvpn-install 
 
 {% include links.html %}

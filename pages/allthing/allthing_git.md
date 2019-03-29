@@ -78,6 +78,15 @@ https://help.github.com/articles/which-remote-url-should-i-use/
 ### Visual tool for learning git? Have Liz try. 
 https://learngitbranching.js.org/
 
+### Getting started with git and github - Really spells out the basics of git.
+https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
+
+### Hardening Git for GitOps
+https://www.weave.works/blog/whitepaper-hardening-git-for-gitops
+
+### Radicle - Distributed code collaboration (issues, bugs, pull requests, etc...)
+http://www.radicle.xyz/
+
 ### How to use git LFS (Large File Support)
 https://dzone.com/articles/git-lfs-why-and-how-to-use
 

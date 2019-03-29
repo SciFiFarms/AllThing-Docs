@@ -13,6 +13,9 @@ folder: allthing
 ### How to scale ML with Kubernetes
 https://learnk8s.io/blog/scaling-machine-learning-with-kubeflow-tensorflow
 
+### Resources for learning data science
+https://opensource.com/article/19/2/learn-data-science-ai
+
 
 
 

@@ -74,6 +74,12 @@ https://unix.stackexchange.com/questions/14961/how-to-find-out-which-interface-a
 ### Linux hardening guide
 https://github.com/trimstray/the-practical-linux-hardening-guide
 
+### Takeover.sh
+https://github.com/marcan/takeover.sh
+
+### Write up on virtual file systems in Linux
+https://opensource.com/article/19/3/virtual-filesystems-linux
+
 ### WiFi in Linux:
 https://geekodour.github.io/post/wifi-in-linux/
 
@@ -93,5 +99,8 @@ https://github.com/torfsen/python-systemd-tutorial
 
 ### Cockpit: Linux status GUI. 
 https://cockpit-project.org/running.html#fedora
+
+### Install Skype in Fedora:
+https://www.if-not-true-then-false.com/2012/install-skype-on-fedora-centos-red-hat-rhel-scientific-linux-sl/comment-page-3/
 
 {% include links.html %}

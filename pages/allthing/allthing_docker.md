@@ -57,6 +57,9 @@ https://www.digitalocean.com/community/tutorials/how-to-create-a-cluster-of-dock
 ### Docker Ecosystem mindmap
 https://www.mindmeister.com/389671722/open-container-ecosystem-formerly-docker-ecosystem?fullscreen=1
 
+### RHEL containers security inheritance
+https://medium.com/shawndwells/do-rhel-containers-inherit-security-compliance-from-the-host-b3f11161d34b
+
 ### Docker hosts
 https://blog.codeship.com/the-shortlist-of-docker-hosting/
 
@@ -145,6 +148,12 @@ https://computingforgeeks.com/how-to-install-docker-on-fedora-29-fedora-28/
 
 ### Service to update images:
 https://github.com/pyouroboros/ouroboros
+
+### Activate virtual env in Dockerfile
+https://pythonspeed.com/articles/activate-virtualenv-dockerfile/
+
+### See memory usage with docker stats
+https://docs.docker.com/engine/reference/commandline/stats/
 
 {% include links.html %}
 
