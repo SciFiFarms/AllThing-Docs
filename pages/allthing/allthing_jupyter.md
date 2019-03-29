@@ -24,4 +24,7 @@ https://github.com/aaren/notedown
 [Package of extension(github)](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 [List of extensions](http://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html)
 
+### Jupyter stacks
+https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html
+
 {% include links.html %}

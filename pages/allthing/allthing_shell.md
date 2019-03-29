@@ -123,6 +123,8 @@ https://stackoverflow.com/questions/673055/correct-bash-and-shell-script-variabl
 ### logname: Get the user that called sudo:
 https://stackoverflow.com/questions/4598001/how-do-you-find-the-original-user-through-multiple-sudo-and-su-commands
 
+### BASH Startup explained: .bashrc vs profile vs...
+https://zwischenzugs.com/2019/02/27/bash-startup-explained/
 
 ### Also see the Linux page.
 

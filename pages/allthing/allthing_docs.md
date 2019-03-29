@@ -135,6 +135,15 @@ https://help.github.com/articles/configuring-jekyll/
 ### Markdown to PDF with make and makefile
 https://blog.scottlowe.org/2018/09/27/a-markdown-to-pdf-workflow-on-linux/
 
+### TiddlyWiki seems like a nice alternative to Jekyll. At least for personal use.
+https://tiddlywiki.com/
+https://tiddlywiki.com/static/TiddlerFiles.html
+https://tiddlywiki.com/static/TiddlyWikiFolders.html
+https://tiddlywiki.com/plugins/tiddlywiki/markdown/
+https://tiddlywiki.com/static/How%2520to%2520build%2520a%2520TiddlyWiki5%2520from%2520individual%2520tiddlers.html
+https://tiddlywiki.com/static/Using%2520TiddlyWiki%2520for%2520GitHub%2520project%2520documentation.html
+https://tiddlywiki.com/static/Generating%2520Static%2520Sites%2520with%2520TiddlyWiki.html
+
 {% include links.html %}
 
 

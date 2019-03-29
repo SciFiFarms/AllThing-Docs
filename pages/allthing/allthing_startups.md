@@ -103,5 +103,17 @@ http://www.thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html
 ### Y Combinator's resources for startup devs
 https://ycombinator.dev/
 
+### Small Scale Scrum
+https://opensource.com/article/19/2/small-scale-scrum-framework
+
+### Learning every day at work
+https://hbr.org/2019/02/making-learning-a-part-of-everyday-work
+
+### Why Use GraphQL:
+https://webapplog.com/graphql/
+
+### Why are we still promoting incompetent men 
+https://hbr.org/ideacast/2019/03/why-are-we-still-promoting-incompetent-men
+
 {% include links.html %}
 

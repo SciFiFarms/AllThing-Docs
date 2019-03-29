@@ -15,6 +15,8 @@ IDE: https://github.com/hassio-addons/addon-ide
 https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810
 https://www.home-assistant.io/components/calendar.caldav/
 https://www.reddit.com/r/homeassistant/comments/ato1az/my_slate_dark_theme_fully_complete/
+https://www.reddit.com/r/homeassistant/comments/auw5xu/home_assistant_new_user_interface_and_ui_editor/
+https://old.reddit.com/r/homeassistant/comments/awuvc8/advanced_custom_calendar_card_google_calendar/
 
 
 ## HASS.iokuhh
@@ -36,6 +38,7 @@ Automated window shuttors: https://www.reddit.com/r/homeassistant/comments/ahdms
 Lovelace light card: https://github.com/ljmerza/light-entity-card
 Text to speech discussion: https://www.reddit.com/r/homeassistant/comments/an3mys/what_is_your_overall_texttospeech_tts_strategy/
 #### Cool themes and configs
+How to add theme: https://www.juanmtech.com/themes-in-home-assistant/
 https://github.com/SilvrrGIT/HomeAssistant
 https://github.com/ntalekt/homeassistant
 https://github.com/stanvx/Home-Assistant-Configuration

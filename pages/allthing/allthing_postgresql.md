@@ -35,4 +35,11 @@ https://ankane.org/postgres-sslmode-explained
 ### Command to check if postgres is up: pg_isready
 https://stackoverflow.com/questions/7975414/how-to-check-status-of-postgresql-server-mac-os-x
 
+### PostgresqlTuner
+https://github.com/jfcoz/postgresqltuner
+
+### Vertically scaling Postgres
+https://pgdash.io/blog/scaling-postgres.html
+
 {% include links.html %}
+

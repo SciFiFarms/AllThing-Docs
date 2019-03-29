@@ -67,4 +67,10 @@ https://opensource.com/article/18/10/machine-learning-python-essential-hacks-and
 ### Built in IDE
 https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810
 
+### Bullet: Beautiful Python prompts
+https://github.com/Mckinsey666/bullet
+
+### Sometimes you can't debug. Then you'll want to know about ppretty
+https://stackoverflow.com/questions/1006169/how-do-i-look-inside-a-python-object
+
 {% include links.html %}

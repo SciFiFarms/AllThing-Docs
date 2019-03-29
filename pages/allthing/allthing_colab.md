@@ -24,6 +24,8 @@ https://www.uradmonitor.com/?mc_cid=0f4ca37c7a&mc_eid=a265f2cb07
 ### Sustainable Free and Open Source Community (Book):
 https://sfosc.org/
 
+https://www.technologyreview.com/s/612928/one-mans-two-decade-quest-to-suck-greenhouse-gas-out-of-the-sky/
+
 https://tribeawesome.com/project/aeroponics/index.html
 
 https://forum.openag.media.mit.edu/t/hello-open-ag-people-i-had-an-idea-and-i-think-it-may-be-similar-to-your-mission-let-me-know-what-you-think/4277/3
@@ -39,6 +41,8 @@ https://mail.google.com/mail/u/0/#inbox/FMfcgxwBTshfXFHzHZbMNWZHbBkhmrhR
 infarm.de/#what-we-do
 
 biggreen.org/where-were-growing/denver-front-range
+
+https://www.reddit.com/user/PM_ME_YOUR_SHELLCODE
 
 http://aeroponic.net/
 
