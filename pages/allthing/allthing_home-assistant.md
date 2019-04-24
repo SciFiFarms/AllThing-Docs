@@ -19,7 +19,7 @@ https://www.reddit.com/r/homeassistant/comments/auw5xu/home_assistant_new_user_i
 https://old.reddit.com/r/homeassistant/comments/awuvc8/advanced_custom_calendar_card_google_calendar/
 https://www.reddit.com/r/homeassistant/comments/b9vioe/got_home_assistant_to_grab_the_game_info_for_my/
 https://www.reddit.com/r/homeassistant/comments/9ycr63/my_lovelace_frontend/
-
+https://github.com/ljmerza/ha-email-sensor
 
 ## HASS.iokuhh
 ### Reference projects

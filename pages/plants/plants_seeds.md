@@ -66,6 +66,9 @@ Optimizing for flavor: https://www.hortidaily.com/article/9021119/UK-Optimising-
 ### Parsley and Rosemary
 Optimizing for flavor: https://www.hortidaily.com/article/9022560/UK-Optimising-flavour-in-parsley-and-rosemary/
 
+### Onion
+People LOVE Vidalia Onions: https://www.deepsouthventures.com/i-sell-onions-on-the-internet/
+
 ### LED Guide to ornamentals
 https://www.lumigrow.com/applied-researches/led-growers-guide-ornamentals/
 

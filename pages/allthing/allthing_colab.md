@@ -37,6 +37,7 @@ https://cleantechnica.com/2019/04/15/can-indoor-farming-solve-our-agriculture-pr
 https://www.hortidaily.com/article/9093530/canada-using-hydroponics-to-provide-northern-communities-with-fresh-produce-all-year-long/
 https://www.hortidaily.com/article/9034246/video-take-a-look-inside-scotland-s-biggest-vertical-farm/
 https://www.hortidaily.com/article/45271/US-Fast-food-companies-shift-sourcing-to-indoor-farms/
+https://www.deepsouthventures.com/i-sell-onions-on-the-internet/
 
 ### Potential source of ideas
 https://www.hortidaily.com/article/45117/Growing-crops-with-roots-in-the-mist/
@@ -44,6 +45,9 @@ https://www.hortidaily.com/article/45059/Vertical-farm-products-easy-to-construc
 
 ### Great tool for finding local food.
 https://www.localharvest.org
+
+### Very similar project to TechnoCore
+https://github.com/norweeg/self-hosted-docker-server-templates
 
 https://www.hortidaily.com/article/45556/How-the-right-sales-channel-can-make-or-break-your-vertical-farm/
 
