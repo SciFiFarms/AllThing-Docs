@@ -5,17 +5,13 @@ summary: "Summary"
 series: "ACME series"
 weight: 3
 sidebar: allthing_sidebar
-permalink: allthing_testing.html
+permalink: influxdb.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
-
-### Testing containers with Conu (Python):
-https://fedoramagazine.org/test-containers-python-conu/
-
-### Bashcov: Code coverage for bash.
-https://github.com/infertux/bashcov
-
+### High Availability for InfluxDB
+https://www.thumbtack.com/engineering/high-availability-for-influxdb/
+https://www.influxdata.com/blog/multiple-data-center-replication-influxdb/
 
 {% include links.html %}

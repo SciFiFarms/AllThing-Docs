@@ -17,6 +17,8 @@ https://www.home-assistant.io/components/calendar.caldav/
 https://www.reddit.com/r/homeassistant/comments/ato1az/my_slate_dark_theme_fully_complete/
 https://www.reddit.com/r/homeassistant/comments/auw5xu/home_assistant_new_user_interface_and_ui_editor/
 https://old.reddit.com/r/homeassistant/comments/awuvc8/advanced_custom_calendar_card_google_calendar/
+https://www.reddit.com/r/homeassistant/comments/b9vioe/got_home_assistant_to_grab_the_game_info_for_my/
+https://www.reddit.com/r/homeassistant/comments/9ycr63/my_lovelace_frontend/
 
 
 ## HASS.iokuhh
@@ -37,6 +39,7 @@ Testing your security: https://community.home-assistant.io/t/test-your-security-
 Automated window shuttors: https://www.reddit.com/r/homeassistant/comments/ahdmsv/diy_window_shutter_control_and_sensors/
 Lovelace light card: https://github.com/ljmerza/light-entity-card
 Text to speech discussion: https://www.reddit.com/r/homeassistant/comments/an3mys/what_is_your_overall_texttospeech_tts_strategy/
+Best Lovelace cards for Docker: https://www.reddit.com/r/homeassistant/comments/bba6g6/best_lovelace_card_to_host_urls_to_other_docker/
 #### Cool themes and configs
 How to add theme: https://www.juanmtech.com/themes-in-home-assistant/
 https://github.com/SilvrrGIT/HomeAssistant
@@ -147,6 +150,9 @@ https://www.home-assistant.io/cookbook/
 
 ### Custom Tiles:
 https://community.home-assistant.io/t/custom-ui-tiles/29513/2
+
+### Link more multiple Home Assistant instances together
+https://www.reddit.com/r/homeassistant/comments/bci0aj/is_there_a_better_way_to_link_2_homeassistant/
 
 ### Docker Hub
 https://hub.docker.com/r/homeassistant/home-assistant/

@@ -19,6 +19,12 @@ https://opensource.com/article/18/3/manage-workstation-ansible
 ### Deployment Strategies using Ansible
 https://opensource.com/article/19/1/automating-deployment-strategies-ansible
 
+### Ansible automation for system admins
+https://opensource.com/sites/default/files/gated-content/ansible_automation_for_sysadmins_v2.pdf
+
+### Looking into Ansible Performance. Pull mode was particularly interesting. 
+https://opensource.com/article/19/3/ansible-performance
+
 ### Dealing with unreliable connections
 https://www.ansible.com/blog/ansible-tips-and-tricks-dealing-with-unreliable-connections-and-services
 

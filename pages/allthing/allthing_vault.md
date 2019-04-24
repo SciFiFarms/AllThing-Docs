@@ -71,4 +71,7 @@ ask.cronweekly.com/d/19-deploying-an-internal-ca-looking-for-advice
 ### CFSSL good example:
 nomadproject.io/guides/securing-nomad.html
 
+### Simple PKI - an alternative to vault creating certs?
+https://www.reddit.com/r/selfhosted/comments/b9fn9y/simple_pki_a_bash_script_wrapper_for_openssl_that/
+
 {% include links.html %}

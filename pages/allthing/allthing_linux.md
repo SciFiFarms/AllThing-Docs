@@ -10,11 +10,17 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### DriveDroid: Use phone as a live cd 
+https://www.drivedroid.io/
+
 ### The fuck (command line autocorrect)
 https://github.com/nvbn/thefuck
 
 ### Linux Security 101 (For the common geek)
 https://brandonjl.com/linux-security-101/
+
+### How to not do SSH forwarding with a jump box
+https://defn.io/2019/04/12/ssh-forwarding/
 
 ### HUGE list of linux/security resources,tips, and tricks.
 https://github.com/trimstray/awesome-ninja-admins
@@ -102,5 +108,8 @@ https://cockpit-project.org/running.html#fedora
 
 ### Install Skype in Fedora:
 https://www.if-not-true-then-false.com/2012/install-skype-on-fedora-centos-red-hat-rhel-scientific-linux-sl/comment-page-3/
+
+### Linux Device Drivers
+https://lwn.net/Kernel/LDD3/
 
 {% include links.html %}

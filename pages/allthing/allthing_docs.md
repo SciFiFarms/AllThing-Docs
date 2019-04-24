@@ -9,6 +9,16 @@ permalink: allthing_docs.html
 folder: allthing
 ---
 
+### Hugo: Developer Tools
+https://gohugo.io/tools/
+
+### Hugo Documentation
+https://gohugo.io/documentation/
+
+### Forestry - CMS for static pages. 
+https://forestry.io/docs/welcome/
+https://forestry.io/docs/quickstart/tour/
+
 ## How to run Jekyll without the whole TechnoCore
 1. You'll need Docker as well as Docker-Compose
 Fedora Docker install instructions: taken from [Docker documentation](https://docs.docker.com/install/linux/docker-ce/fedora/)
@@ -67,6 +77,15 @@ http://www.docslikecode.com/articles/doc-issues-tracking/
 1. Add page reference in _data/topnav.yml (Optional)
 2. Add page reference in _data/sidebars/name_sidebar.yml
 3. Create page in the sidebar's folder in pages/
+
+### Dillinger: Good way to experiment with Markdown. Live in page.
+https://dillinger.io/
+
+### Markdown cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+### Getting started with Markdown
+https://www.markdownguide.org/getting-started/
 
 ### Great overview of how to scale with Jekyll
 https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/

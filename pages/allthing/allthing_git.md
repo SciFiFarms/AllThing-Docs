@@ -23,6 +23,12 @@ https://www.zenhub.com/product
 ### Git commit workflow (Haven't read):
 https://dev.to/shreyasminocha/how-i-do-my-git-commits-34d
 
+### Git workflow for agile teams
+http://reinh.com/blog/2009/03/02/a-git-workflow-for-agile-teams.html
+
+### Merge vs rebase in the git workflow
+https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
+
 ### Good git rebase --onto explanation
 https://stackoverflow.com/questions/29914052/i-cant-understand-the-behaviour-of-git-rebase-onto
 
@@ -84,6 +90,9 @@ https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
 ### Hardening Git for GitOps
 https://www.weave.works/blog/whitepaper-hardening-git-for-gitops
 
+### Test for secret leakage
+https://blog.acolyer.org/2019/04/08/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/
+
 ### Radicle - Distributed code collaboration (issues, bugs, pull requests, etc...)
 http://www.radicle.xyz/
 
@@ -95,6 +104,12 @@ http://codeprairie.net/blogs/chrisortman/archive/2008/01/14/creating-subversion-
 
 ### Git save vs push (Use push -m "message" -- files)
 https://stackoverflow.com/questions/44680028/whats-the-difference-between-git-stash-save-and-git-stash-push
+
+### can use --allow-empty to create repo without any files.
+https://gist.github.com/stephenhardy/5470814
+
+### --orphan prompts the creation of an orphan branch.
+https://tecadmin.net/delete-commit-history-in-github/
 
 ### Make a branch and pull request at the same time
 https://github.com/Idnan/github-pr

@@ -11,6 +11,8 @@ folder: plants
 
 ### THE BEST guide to building your own LED strip fixtures
 http://ledgardener.com/diy-led-strip-build-designs-samsung-bridgelux/
+http://ledgardener.com/samsung-lm561c-build-finishing-touches/
+http://ledgardener.com/diy-guides/
 
 ### Lighting safety tips
 https://www.reddit.com/r/HandsOnComplexity/comments/18fn67/space_bucket_electrical_safety_tips_posted_to/
@@ -26,6 +28,20 @@ https://www.reddit.com/r/HandsOnComplexity/
 https://www.reddit.com/r/HandsOnComplexity/comments/17nxhd/sags_plant_lighting_guide_linked_together/
 https://www.reddit.com/r/HandsOnComplexity/comments/17nxpy/using_a_lux_meter_as_a_plant_light_meter/
 https://www.reddit.com/r/HandsOnComplexity/comments/1mk7gm/led_and_led_grow_lights_part_3_color_and_white/
+https://www.reddit.com/r/HandsOnComplexity/comments/1cuujk/led_and_led_grow_lights_part_one_heat/
+https://www.reddit.com/r/HandsOnComplexity/comments/3i2gip/how_to_wire_up_the_adjustable_mean_well_power/
+
+### BridgeLux EB - My LEDs
+https://www.bridgelux.com/sites/default/files/resource_media/DS131%20Bridgelux%20EB%20Series%20Gen2%20Data%20Sheet%2020171020%20Rev%20A.pdf
+
+### Hour long talk on LEDs for growers. Had some interesting topics listed
+https://www.hortidaily.com/article/45648/The-newest-technology-in-lighting-your-commercial-grow/
+
+### Cheaper Quantum meters
+https://www.specmeters.com/lightmeters/quantum-meters/
+
+### Red vs blue light
+https://www.youtube.com/watch?v=sfihE4IuFuU
 
 ### How to measure PAR from LDR
 https://forum.openag.media.mit.edu/t/mapping-par-meter-to-analog-ldr/4235/2
@@ -54,7 +70,24 @@ https://bitknitting.wordpress.com/2016/06/19/making-a-par-and-dli-meter-using-an
 ### Daily Light Integrals for Cannabis with and without CO2 enrichment
 https://www.reddit.com/r/microgrowery/comments/a8lr4b/dli_for_cannabis/
 
+### Improve RuBisCO to allow more photosynthesis
+https://www.hortidaily.com/article/9029092/Turbocharging-photosynthesis-increases-plant-biomass/
+
 ### Analysis of what causes LEDs to fail
 https://hackaday.com/2019/02/05/what-happened-to-the-100000-hour-led-bulbs/
+
+### A longer photoperiod at the same DLI results in more (15% - 40%) growth:
+https://www.lumigrow.com/applied-researches/using-a-high-yield-photoperiod-to-increase-lettuce-production-by-40/
+https://hortamericas.com/blog/news/does-it-make-economic-sense-for-you-to-install-grow-lights/
+
+### Effect of continuous lighting
+http://www.globalsciencebooks.info/Online/GSBOnline/images/2010/PS_4(1)/PS_4(1)5-17o.pdf
+
+### Great 7 page write up on what to know about daily light integral (DLI).
+Includes a HUGE table of suggested DLIs for different plants. 
+https://www.extension.purdue.edu/extmedia/HO/HO-238-W.pdf
+
+### Comparison grows
+https://www.reddit.com/r/microgrowery/comments/bavkn8/led_comparison_grow_day_43_final_veg_update/
 
 {% include links.html %}

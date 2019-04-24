@@ -33,6 +33,13 @@ https://help.nextcloud.com/t/gmail-smtp-email-server-config/33126
 ### Give Nextcloud the ability to send emails:
 https://github.com/nextcloud/nextcloudpi/wiki/Email-settings
 
+### How to unban IP from fail2ban - only takes 3 incorrect logins. 
+https://serverfault.com/questions/285256/how-to-unban-an-ip-properly-with-fail2ban
+
+### Subfolders of moved folders don't sync. 
+Solution: Quick client and restart. 
+https://github.com/nextcloud/desktop/issues/1000
+
 ### How to backup
 https://www.reddit.com/r/NextCloud/comments/8yc2ci/how_do_you_backup_your_nextcloud/
 https://ownyourbits.com/2018/10/19/nextcloudpi-backup-strategies/
@@ -51,5 +58,8 @@ https://docs.nextcloud.com/server/15/admin_manual/configuration_server/occ_comma
 
 ### Some thoughts on how to install 2 NextCloud instances on the same server
 https://help.nextcloud.com/t/installation-of-more-than-one-nextcloud-environment-on-the-the-same-virtual-server/31428/2
+
+### SELinux labels
+https://docs.nextcloud.com/server/15/admin_manual/installation/selinux_configuration.html#selinux-config-label
 
 {% include links.html %}

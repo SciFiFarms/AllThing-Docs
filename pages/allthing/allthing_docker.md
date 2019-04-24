@@ -19,6 +19,17 @@ https://docs.docker.com/docker-hub/builds/#understand-the-build-processg
 ### You can overlay production values on top of dev values
 https://docs.docker.com/compose/production/#modify-your-compose-file-for-production
 
+### Variable substitution - env vars with defaults. Super useful.
+https://docs.docker.com/compose/compose-file/#variable-substitution
+
+### Advanced docker-compose configuration - helps to make it DRY:
+https://runnable.com/docker/advanced-docker-compose-configuration
+https://medium.com/@kinghuang/docker-compose-anchors-aliases-extensions-a1e4105d70bd
+https://docs.docker.com/compose/compose-file/#extension-fields
+
+### In docker-compose, $ can be escaped with $$
+https://github.com/docker/compose/issues/1377
+
 ### How to view docker's logs
 https://stackoverflow.com/questions/30969435/where-is-the-docker-daemon-log
 

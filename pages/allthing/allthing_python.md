@@ -28,6 +28,9 @@ https://opensource.com/article/18/8/django-framework
 ### Testing containers with Conu (Python):
 https://fedoramagazine.org/test-containers-python-conu/
 
+### Pyright - Type checking for Python
+https://github.com/Microsoft/pyright
+
 ### Debugging Async
 https://docs.python.org/3/library/asyncio-dev.html
 

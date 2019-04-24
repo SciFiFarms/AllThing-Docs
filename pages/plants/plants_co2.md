@@ -9,6 +9,10 @@ permalink: plants_c02.html
 folder: plants
 ---
 
+### Foliar feeding CO2 helps
+https://www.hortidaily.com/article/45803/Economic-benefits-with-CO2-foliar-spray-integrated-into-irrigation-booms/
+https://www.hortidaily.com/article/9028119/CO2-foliar-spray-leads-to-74-increased-commercial-cannabis-bud-value/
+
 ### CO2 effects on people. REALLY interesting.
 https://www.youtube.com/watch?v=1Nh_vxpycEA
 

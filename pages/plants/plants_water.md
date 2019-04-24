@@ -17,11 +17,33 @@ https://www.reddit.com/r/SpaceBuckets/comments/a1rklz/has_anyone_done_reliable_a
 
 ### Filter 
 https://www.reddit.com/r/interestingasfuck/comments/905g1o/personal_water_filter/
+https://www.hortidaily.com/article/44798/Using-active-carbon-for-water-purification/
+https://www.hortidaily.com/article/44721/In-the-end,-the-water-does-the-hard-work-itself/
+UV works: https://www.hortidaily.com/article/9085792/clean-works-announces-new-way-to-clean-food-products-without-using-water/
+
+### Dosing pump
+https://www.hortidaily.com/article/44508/Smart-dosing-pump-monitors-resources/
+https://blog.growlink.com/how-to-prevent-nutrient-deficiency-in-plants-with-automation
 
 ### Interesting discussion on nozzles... kinda. 
 https://forum.openag.media.mit.edu/t/nozzle-afd-series/4152
 
+### An interesting nozzle. Consider buying
+https://forum.openag.media.mit.edu/t/misting-coverage-and-nozzle-arrangement/3792
+
 ### Testing water quality on a budget:
-https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Corner-Bead/N-5yc1vZc7qn
+
+### Surfactants or thickening in mist or foliar feeding might have an impact on plant growth. 
+https://www.jstor.org/stable/2473193?seq=1#page_scan_tab_contents
+http://extension.uga.edu/publications/detail.html?number=B1319&title=Using%20Surfactants,%20Wetting%20Agents,%20and%20Adjuvants%20in%20the%20Greenhouse
+https://link.springer.com/chapter/10.1007/978-3-642-23394-4_55
+
+### Sources: 
+https://www.modernistpantry.com/polysorbate-80.html
+https://www.foodnavigator.com/Article/2011/04/18/Natural-sugar-ester-shows-potential-as-food-grade-surfactant-Study
+https://www.tandfonline.com/doi/abs/10.1080/01932690902735561
+http://www.lambentcorp.com/consumer-benefits/food-grade
+
+
 
 {% include links.html %}

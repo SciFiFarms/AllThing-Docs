@@ -42,4 +42,7 @@ https://www.wikihow.com/Calculate-Wattage
 ### Stacking TECs aren't efficient:
 https://physics.stackexchange.com/questions/116271/is-it-more-efficient-to-stack-two-peltier-modules-or-to-set-them-side-by-side/116874
 
+### How to make a vacuum chamber, along with some write ups on using a fridge compressor
+https://hackaday.com/2018/08/04/hacked-vacuum-chamber-wont-suck-a-hole-in-your-budget/?mc_cid=e358443942&mc_eid=a265f2cb07
+
 {% include links.html %}

@@ -16,8 +16,19 @@ https://gitlab.com/NickBusey/HomelabOS
 ### Tuning tips:
 https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/
 
+### WireGuard > OpenVPN?
+https://www.wireguard.com/
+https://wiki.dd-wrt.com/wiki/index.php/Wireguard
+
+### Grocy - Groceries and home management solution. 
+https://grocy.info/
+https://github.com/hassio-addons/addon-grocy
+
 ### Plex, filebot, and bittorrent. The dream setup.
 https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/
+
+### Great discussion around how to do music management and streaming with Home Assistant
+https://www.reddit.com/r/homeassistant/comments/bcqacy/best_music_home_server_with_ha_integration/
 
 ### Markdeck - Presentation as code
 https://github.com/arnehilmann/markdeck
@@ -30,6 +41,9 @@ https://unix.stackexchange.com/questions/155551/how-to-debug-a-bash-script
 
 ### Loggly
 https://www.loggly.com/blog/how-to-implement-logging-in-docker-with-a-sidecar-approach/
+
+### Free IPA: Seems like group policy for linux. 
+https://www.freeipa.org/page/Main_Page
 
 ### Ansible
 https://caylent.com/manage-docker-swarm-using-ansible/
@@ -45,6 +59,7 @@ https://github.com/webpro/awesome-dotfiles
 https://github.com/relink2013/Awesome-Self-hosting-for-the-whole-family
 https://github.com/0xInfection/Awesome-WAF
 https://github.com/wesbos/awesome-uses
+https://github.com/stackshareio/awesome-stacks
 http://dotfiles.github.io/
 
 
@@ -56,7 +71,11 @@ https://github.com/codetheweb/tuyapi/issues/49
 https://github.com/SynAckFin/TuyOTA
 https://github.com/kueblc/mocktuyacloud
 Tuya switches with ESPHome - https://www.youtube.com/watch?v=ib0GSRjRnSw&feature=share
+Great Tuya info: https://www.youtube.com/watch?v=q4HrpSORcXA
 
+### Gotify: push notifications for android
+https://chargen.one/steve/self-hosting-portable-notifications
+https://gotify.net/
 
 ### While these aren't exactly software, the projects I follow on hackaday.io is a good list of projects
 https://www.reddit.com/r/microgrowery/comments/awsqxa/how_i_almost_completely_automated_my_growbox_with/
@@ -77,9 +96,11 @@ https://www.awesome-ha.com/#diy-gateways
 https://hackaday.com/2018/12/30/the-very-slow-movie-player-does-it-with-e-ink
 https://hackaday.com/2019/01/01/a-smartwatch-you-can-easily-build-yourself/
 https://hackaday.com/2018/12/30/this-raspberry-pi-is-a-stereo-camera-and-so-much-more/
+https://hackaday.com/2019/03/22/auotmated-cat-feeder-handles-wet-food-with-aplomb/
 https://www.mockingbirdconsulting.co.uk/blog/2019-01-05-hashicorp-at-home/
 https://hackaday.com/2019/03/19/ask-hackaday-how-do-you-draw-schematics/
 https://hackaday.com/2019/01/11/esp8266-ac-controller-shows-whats-possible/
+https://old.reddit.com/r/oddlysatisfying/comments/97gyby/cool_door/
 Project that makes it's own PCB: https://randomnerdtutorials.com/build-an-all-in-one-esp32-weather-station-shield/
 Smart LED strips (Has 12v power supply link + 12v=>5v): https://blog.ktz.me/smart-led-strips-with-no-subscription-required/
 https://www.reddit.com/r/homeassistant/comments/assagi/project_box_with_3_mqtt_controlled_outlets_and_a/
@@ -89,6 +110,13 @@ https://hackaday.com/2019/02/27/hack-my-house-raspberry-pi-as-a-touchscreen-ther
 Sweet aluminum frame build: https://www.youtube.com/watch?v=hGn9uJVQ-X0
     Canadian Source: https://spool3d.ca/2020-aluminum-extrusion/
 Sweet tips on reducing price of esp+dht22: https://www.reddit.com/r/homeassistant/comments/b1isu5/check_out_my_new_video_diy_10_smart_home_wireless/
+Similar to TechnoCore: https://community.home-assistant.io/t/my-docker-stack/43548
+Cheap wireless (battery powered) door and window sensor: https://www.reddit.com/r/homeassistant/comments/b5zpf0/insanely_cheap_diy_wireless_windowdoor_sensors/
+Using ESP32s LoRa radios: https://www.dfrobot.com/blog-1232.html
+Wireless water detector: https://github.com/andres-leon/wireless-water-detector
+Fall detector: https://www.dfrobot.com/blog-1231.html
+$10 WiFi Blinds: https://www.youtube.com/watch?v=1O_1gUFumQM
+Wand as a controller: https://gizmodo.com/magical-smart-home-upgrade-lets-muggles-control-their-h-1833941228
 
 
 ### Email clients
@@ -105,14 +133,33 @@ https://dev.to/vip3rousmango/vs-code-extensions-youll-actually-use-46gp
 ### Digital ocean's starter apps for a business
 https://blog.digitalocean.com/starter-apps-for-any-indie-business/
 
+### Shark: CLI for DigitalOcean
+https://github.com/satyarohith/shark
+
 ### Alternatives to Google Home + Alexa (AKA Steveland): Snips, Mycroft
 https://www.reddit.com/r/homeassistant/comments/b1xvoh/offlineprivate_voice_commands_alternative_to/
 
 ### Anecdata - Citizen scientist data collection
 https://www.anecdata.org/
 
+### Swell.sh: Nicer SSH on phones
+https://github.com/wcchoi/swell.sh
+
+### Regex101: Great interface for testing regex with the flavor you're using
+https://regex101.com/
+
 ### pingu: lets you know when a process has finished
 https://github.com/hoffa/pingu
+
+### Sweet Home 3D: 3D model your home. Walk through in VR!
+https://opensource.com/article/19/3/tool-find-home
+
+### Klaxon: Monitors websites for changes
+https://github.com/themarshallproject/klaxon
+
+### Canarytokens: Put honeypots everywhere
+https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html
+http://canarytokens.org/generate
 
 ### pipenv - New python virtual environments.
 https://opensource.com/article/18/2/why-python-devs-should-use-pipenv
@@ -129,6 +176,9 @@ https://www.troyhunt.com/mmm-pi-hole/
 ### Pivita - Gnome video editing 
 https://fedoramagazine.org/edit-your-videos-with-pitivi-on-fedora/
 
+### Davinci - Video editor
+https://www.linuxuprising.com/2019/04/hollywood-grade-video-editor-davinci.html
+
 ### Guider - Linux CMD tracer/performance monitor
 https://github.com/iipeace/guider
 
@@ -142,6 +192,12 @@ https://github.com/uw-labs/bloomrpc
 https://github.com/joewalnes/websocketd
 
 ## Web bundles
+### Front End Handbook 2019 
+https://github.com/FrontendMasters/front-end-handbook-2019
+
+### Space Cloud: Middle layer between frontend and database - no backend needed
+https://github.com/spaceuptech/space-cloud
+
 ### Jetpack - Webpack and more?
 https://github.com/KidkArolis/jetpack
 
@@ -153,6 +209,9 @@ https://github.com/Webiny/webiny-js
 
 ### web: npm dependencies that run directly in the browser.
 https://github.com/pikapkg/web
+
+### Playroom: Test multiple window sizes at once
+https://github.com/seek-oss/playroom
 ---
 
 ### Home Bank
@@ -179,6 +238,7 @@ Mattermost doesn't have an integration with NextCloud (Yet): https://github.com/
 Mattermost Digital Ocean instructions: http://michaelb.org/how-to-install-mattermost-on-digital-ocean/
 Mattermost production docker instructions: https://docs.mattermost.com/install/prod-docker.html
 Mattermost NextCloud as an external link: https://forum.mattermost.org/t/mattermost-as-an-external-site-in-nextcloud/6724/2
+https://www.reddit.com/r/selfhosted/comments/b81gwa/in_the_light_of_discords_new_censorship_laws_does/
 
 ### Zulip is seriously competitive. Also
 https://zulipchat.com/integrations/
@@ -189,6 +249,10 @@ https://www.reddit.com/r/selfhosted/comments/9lmerc/rocketchat_vs_mattermost/
 ### Skype alternatives
 https://www.reddit.com/r/linuxadmin/comments/axn7cc/opensource_audiovideo_for_meetings_skype/
 https://webrtc.org/
+
+### Mumble?
+https://wiki.mumble.info/wiki/Main_Page
+https://wiki.mumble.info/wiki/3rd_Party_Applications
 
 ### Code Server - VS Code in your web browser. 
 https://github.com/codercom/code-server/
@@ -207,6 +271,7 @@ https://www.balena.io/open/
 
 ### Wekan is a cool open source version of trello... But actually, it seems to have integrations with NextCloud and GitLab/GitHub
 https://wekan.github.io/
+https://help.nextcloud.com/t/please-bring-wekan-to-nextcloud-instead-of-continuing-deck/19072/2
 
 ### Going Google Free:
 https://www.reddit.com/r/LineageOS/comments/8xvzje/going_googlefree_went_better_than_expected/
@@ -224,6 +289,15 @@ https://workflowy.com/demo/embed/
 
 ### Standard Notes (With encryption!)
 https://opensource.com/article/18/8/getting-started-standard-notes
+
+### Joplin: Evernote AND Todoist 
+https://github.com/laurent22/joplin/
+
+### Tiddly wiki: Evernote competitor
+https://tiddlywiki.com/
+
+### Has list of todo.txt supported clients
+http://todotxt.org/
 
 ### Emacs?
 https://notmyfirslanguage.writeas.com/the-road-to-emacs
@@ -262,6 +336,9 @@ https://hackaday.com/2019/01/23/howto-docker-databases-and-dashboards-to-deal-wi
 ### Deepin-screenshot: What I ended up using
 https://www.deepin.org/en/original/deepin-screenshot/
 
+### Myazo: automatically uploads to a server
+https://github.com/migueldemoura/myazo
+
 ### Flameshot: Best for everything but adding text.
 https://computingforgeeks.com/install-flameshot-screenshot-software-on-linux/
 ### Shutter: Overcomplicated interface, otherwise fine.
@@ -275,6 +352,11 @@ https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/
 ### Gitpod (Online IDE for github)
 https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
 
+### Helium a MVP framework for android
+https://medium.com/@joenrv/introducing-helium-a-lightweight-mvp-framework-for-android-78a37a978c3c
+
+### Lots of policy templates
+https://www.sans.org/security-resources/policies/general
 
 ### Software to track expenses
 https://www.reddit.com/r/selfhosted/comments/at0lpt/best_software_to_track_expenses/
@@ -299,6 +381,8 @@ https://solid.inrupt.com/docs
 
 ### Podman - Run docker in userspace
 https://fedoramagazine.org/running-containers-with-podman/
+#### Podman can do health checks
+https://developers.redhat.com/blog/2019/04/18/monitoring-container-vitality-and-availability-with-podman/
 
 ### Record and replay the web
 https://www.rrweb.io
@@ -324,6 +408,9 @@ https://github.com/iodide-project/iodide
 ### ffsend - Firefox send via cmd
 https://github.com/timvisee/ffsend
 
+### DevOps for the Database:
+https://cdn2.hubspot.net/hubfs/498921/eBooks/DevOps%20for%20the%20Database.pdf
+
 # Tutorials:
 ### So you want to learn to code (10 Lessons and online resources)
 https://tim.blog/2019/03/21/learn-to-code/ 
@@ -345,6 +432,12 @@ https://github.com/lorin/resilience-engineering
 
 ### Cheatsheets (Python / Django and JavaScript / React)
 https://github.com/kickstartcoding/cheatsheets
+
+### Caprover - Heroku replacement
+https://github.com/caprover/caprover
+
+### FreedomBox - private cloud
+https://wiki.debian.org/FreedomBox/Features
 
 ### Programming Zines
 https://wizardzines.com/

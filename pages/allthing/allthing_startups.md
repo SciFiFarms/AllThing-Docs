@@ -19,6 +19,9 @@ https://old.reddit.com/r/Entrepreneur/comments/9n8xyj/inventrepreneurship_i_took
 ### Why go all remote:
 https://about.gitlab.com/2018/10/18/the-case-for-all-remote-companies/
 
+### Large lists of applications for each stage of a devops pipeline
+https://opensource.com/article/19/4/devops-pipeline
+
 ### Why and how to avoid hiring for culture fit
 https://opensource.com/open-organization/18/10/reconsider-culture-fit
 
@@ -55,8 +58,22 @@ https://www.feval.fr/posts/microservices/
 ### How to get buy in addressing technical debt
 https://blog.gitprime.com/buy-in-addressing-technical-debt/
 
+## Licenses
 ### Mixing licenses with GPL
 https://softwareengineering.stackexchange.com/questions/204410/how-are-gpl-compatible-licenses-like-mit-usable-in-gpl-programs-without-being-su
+
+### GPL2 vs GPL3
+http://www.ifross.org/en/what-difference-between-gplv2-and-gplv3
+
+### GPL FAQ: Lots of great answers!
+https://www.gnu.org/licenses/gpl-faq.en.html
+
+### GNU Affero GPL: SasS counts as distribution
+https://producingoss.com/en/license-choosing.html#gnu-affero-gpl
+
+### MIT vs Apache vs GPL
+https://exygy.com/which-license-should-i-use-mit-vs-apache-vs-gpl/
+---
 
 ### The Don'ts of Software Engineering: Good list of things to avoid.
 https://www.imaginarycloud.com/blog/the-donts-of-software-engineering/
@@ -84,6 +101,13 @@ https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/
 
 ### DevOps Team structure:
 https://web.devopstopologies.com/
+
+### A discussion on why story points are better than hours estimation.
+My take away was that using story points, we can look at the past and say I can do X story points in 2 weeks. 
+https://www.reddit.com/r/devops/comments/b8sl70/devops_estimating_sprints_with_story_points/
+
+### Book on IT/Dev ops culture
+https://cdn.chrisshort.net/open_org_it_culture.pdf
 
 ### Importance of one on ones:
 https://css-tricks.com/the-importance-of-one-on-ones/
@@ -114,6 +138,22 @@ https://webapplog.com/graphql/
 
 ### Why are we still promoting incompetent men 
 https://hbr.org/ideacast/2019/03/why-are-we-still-promoting-incompetent-men
+
+### 9 open source tools for building a fault tolerant system
+https://opensource.com/article/19/3/tools-fault-tolerant-system
+
+### Canada GAP - Food safety program
+https://www.hortidaily.com/article/9025092/CAN-AB-Vertical-farm-completes-CanadaGAP-audit/
+
+### Newsletters
+https://opensource.com/email-newsletter
+https://devopsish.com/
+https://webopsweekly.com/
+https://www.tldrnewsletter.com/
+https://www.everycloudtech.com/it-pro-tuesdays
+https://www.digitalocean.com/community/newsletter
+
+
 
 {% include links.html %}
 

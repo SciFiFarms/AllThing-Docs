@@ -27,6 +27,9 @@ https://forum.openag.media.mit.edu/t/eliminating-clogging-in-hpa-and-stream-mist
 ### OpenAg Misting Frequency:
 https://forum.openag.media.mit.edu/t/high-pressure-aeroponics-hpa-misting-frequency/1276/5
 
+### Reddit Humidity for misting frequency
+https://www.reddit.com/r/aeroponics/comments/bdw678/optimal_internal_humidity_for_fogponic_system/
+
 ### OpenAg How to go from germination to Aero.
 https://forum.openag.media.mit.edu/t/germination-questions/3230/4
 
@@ -73,6 +76,12 @@ https://www.friendlyaquaponics.com/2017/03/08/raft-discussion/
 
 ### Composting Styrofoam
 http://livingearthsystems.com/mealworms-compost-styrofoam/
+
+### HPA parts list from reddit
+https://www.reddit.com/r/aeroponics/comments/9ldqz7/hpa_parts_list/
+
+### How to prevent clogged nozzles
+https://www.reddit.com/r/aeroponics/comments/bb0qc6/clogging_nozzles/
 
 https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Corner-Bead/N-5yc1vZc7qn
 

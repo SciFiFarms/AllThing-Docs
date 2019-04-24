@@ -16,7 +16,8 @@ https://learnk8s.io/blog/scaling-machine-learning-with-kubeflow-tensorflow
 ### Resources for learning data science
 https://opensource.com/article/19/2/learn-data-science-ai
 
-
+### Automl-gs
+https://github.com/minimaxir/automl-gs
 
 
 {% include links.html %}

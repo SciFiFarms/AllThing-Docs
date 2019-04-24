@@ -35,6 +35,10 @@ https://codedaze.io/how-i-dockerised-my-blog/
 https://medium.com/@mvuksano/how-to-properly-configure-your-nginx-for-tls-564651438fe0
 https://www.bogotobogo.com/DevOps/Docker/Docker-Compose-Nginx-Reverse-Proxy-Multiple-Containers.php
 
+### Use NGINX for auth
+https://developer.okta.com/blog/2018/08/28/nginx-auth-request
+https://zerokspot.com/weblog/2018/06/09/oauth2-for-nginx/
+
 ### LetsEncrypt-proxy-companion
 https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion
 
