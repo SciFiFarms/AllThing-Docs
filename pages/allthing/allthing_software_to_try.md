@@ -16,13 +16,29 @@ https://gitlab.com/NickBusey/HomelabOS
 ### Tuning tips:
 https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/
 
+## VPN
 ### WireGuard > OpenVPN?
 https://www.wireguard.com/
 https://wiki.dd-wrt.com/wiki/index.php/Wireguard
 
+### Sshuttle
+https://news.ycombinator.com/item?id=15773466
+
+### SSH vs OpenVPN
+https://blog.backslasher.net/ssh-openvpn-tunneling.html
+---
+
 ### Grocy - Groceries and home management solution. 
 https://grocy.info/
 https://github.com/hassio-addons/addon-grocy
+
+### Use Authy for 2FA
+https://authy.com/features/secure/
+https://authy.com/blog/why-is-the-authy-2fa-app-free-for-users/
+https://docs.nextcloud.com/server/15/admin_manual/configuration_user/two_factor-auth.html
+https://www.reddit.com/r/CryptoCurrency/comments/8szsbx/authy_is_an_awesome_app_but_there_is_one_major/
+https://authy.com/guides/github/
+https://www.authy.com/integrations/ssh/
 
 ### Plex, filebot, and bittorrent. The dream setup.
 https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/
@@ -34,7 +50,15 @@ https://www.reddit.com/r/homeassistant/comments/bcqacy/best_music_home_server_wi
 https://github.com/arnehilmann/markdeck
 
 ### Loki: Prometheus for logs
+https://grafana.com/loki
 https://github.com/grafana/loki
+https://news.ycombinator.com/item?id=18663996
+https://www.inovex.de/blog/grafana-loki/
+https://blog.giantswarm.io/grafana-logging-using-loki/
+https://github.com/giantswarm/simple-logger
+Integrate with Logstash: https://github.com/grafana/loki/issues/239
+Good intro video: https://www.youtube.com/watch?v=ENM2f1QZam8
+
 
 ### Log4bash
 https://unix.stackexchange.com/questions/155551/how-to-debug-a-bash-script
@@ -61,6 +85,10 @@ https://github.com/0xInfection/Awesome-WAF
 https://github.com/wesbos/awesome-uses
 https://github.com/stackshareio/awesome-stacks
 http://dotfiles.github.io/
+https://github.com/mauhai/awesome-jupyterlab
+https://github.com/markusschanta/awesome-jupyter
+https://github.com/r0f1/datascience
+https://github.com/teoga/awesome-product-design
 
 
 ### Hardware
@@ -93,6 +121,7 @@ https://blog.gopheracademy.com/advent-2018/observability-in-the-kitchen/
 https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck
 https://opensource.com/article/18/12/lightshowpi-raspberry-pi
 https://www.awesome-ha.com/#diy-gateways
+https://selfhostedhome.com/diy-wifi-sprinkler-controller-using-esp8266-part-1/
 https://hackaday.com/2018/12/30/the-very-slow-movie-player-does-it-with-e-ink
 https://hackaday.com/2019/01/01/a-smartwatch-you-can-easily-build-yourself/
 https://hackaday.com/2018/12/30/this-raspberry-pi-is-a-stereo-camera-and-so-much-more/
@@ -117,7 +146,26 @@ Wireless water detector: https://github.com/andres-leon/wireless-water-detector
 Fall detector: https://www.dfrobot.com/blog-1231.html
 $10 WiFi Blinds: https://www.youtube.com/watch?v=1O_1gUFumQM
 Wand as a controller: https://gizmodo.com/magical-smart-home-upgrade-lets-muggles-control-their-h-1833941228
+Nice looking indoor plant lighting: https://soltechsolutions.com/shop/
+IoT Scale: https://learn.adafruit.com/data-logging-iot-weight-scale
 
+## ERP
+
+### Grocy
+https://grocy.info/
+
+### Flectra looked cool
+https://fosspost.org/lists/open-source-erp
+https://gitlab.com/flectra-hq/flectra/tree/master/addons
+
+### Odoo
+https://www.odoo.com/
+https://hub.docker.com/_/odoo/?tab=description
+https://hub.docker.com/r/bitnami/odoo/
+
+### ERPNext
+https://erpnext.com/docs/user/manual/en
+---
 
 ### Email clients
 https://opensource.com/article/19/1/productivity-tool-cypht-email
@@ -214,6 +262,23 @@ https://github.com/pikapkg/web
 https://github.com/seek-oss/playroom
 ---
 
+## Photo galleries
+### Photoswipe
+https://photoswipe.com/
+
+### Sigal: Image gallery software
+https://github.com/saimn/sigal/
+
+### PhotoStructure: Utilizes meta data WAY better than anything else I've seen.
+https://blog.photostructure.com/introducing-photostructure/
+---
+
+## Service Mesh
+### Istio
+https://medium.com/solo-io/istio-the-easy-way-de66e6eba4a1
+https://blog.giantswarm.io/Improving-security-with-Istio/
+---
+
 ### Home Bank
 https://opensource.com/article/19/1/productivity-tools-homebank
 
@@ -249,6 +314,9 @@ https://www.reddit.com/r/selfhosted/comments/9lmerc/rocketchat_vs_mattermost/
 ### Skype alternatives
 https://www.reddit.com/r/linuxadmin/comments/axn7cc/opensource_audiovideo_for_meetings_skype/
 https://webrtc.org/
+
+### Integrate Matrix with LDAP
+https://github.com/kamax-matrix/mxisd
 
 ### Mumble?
 https://wiki.mumble.info/wiki/Main_Page
@@ -286,6 +354,7 @@ https://about.gitlab.com/pricing/#self-hosted
 https://gitlab.com/NickBusey/BulletNotes
 https://abhishekdas.com/HackFlowy/#
 https://workflowy.com/demo/embed/
+Shareable: https://etherpad.org/
 
 ### Standard Notes (With encryption!)
 https://opensource.com/article/18/8/getting-started-standard-notes
@@ -383,6 +452,8 @@ https://solid.inrupt.com/docs
 https://fedoramagazine.org/running-containers-with-podman/
 #### Podman can do health checks
 https://developers.redhat.com/blog/2019/04/18/monitoring-container-vitality-and-availability-with-podman/
+#### Podman can run systemd
+https://developers.redhat.com/blog/2019/04/24/how-to-run-systemd-in-a-container/
 
 ### Record and replay the web
 https://www.rrweb.io
@@ -430,6 +501,9 @@ https://www.evernote.design/
 ### Huge list of Resilience Engineering people and concepts
 https://github.com/lorin/resilience-engineering
 
+### Data Science at UC Berkeley
+https://www.textbook.ds100.org/
+
 ### Cheatsheets (Python / Django and JavaScript / React)
 https://github.com/kickstartcoding/cheatsheets
 
@@ -444,6 +518,9 @@ https://wizardzines.com/
 
 ### Hacker Tools
 https://hacker-tools.github.io/
+
+### Product manager starter pack
+https://pmstarterpack.onfielder.com/
 
 ### Y Combinator's resources for startup devs
 https://ycombinator.dev/

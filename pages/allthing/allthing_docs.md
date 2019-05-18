@@ -94,6 +94,9 @@ https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-
 [prose.io](http://prose.io)
 [Pando](https://github.com/pandao/editor.md)
 
+### Fusuma - Another Markdown thing
+https://github.com/hiroppy/fusuma
+
 ### Jekyll-Reload gem to reload page... Should already be working, but is not.
 [Jekyll-Reload](https://www.rubydoc.info/gems/jekyll-reload/)
 
@@ -122,6 +125,9 @@ https://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
 
 ### How linking in Jekyll works
 https://www.digitalocean.com/community/tutorials/controlling-urls-and-links-in-jekyll
+
+### A better email to link?
+https://mailtoui.com/
 
 ### Pages on what formatting to use
 http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/

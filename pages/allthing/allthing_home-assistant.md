@@ -20,6 +20,8 @@ https://old.reddit.com/r/homeassistant/comments/awuvc8/advanced_custom_calendar_
 https://www.reddit.com/r/homeassistant/comments/b9vioe/got_home_assistant_to_grab_the_game_info_for_my/
 https://www.reddit.com/r/homeassistant/comments/9ycr63/my_lovelace_frontend/
 https://github.com/ljmerza/ha-email-sensor
+Already setup in Jupyter: https://github.com/robmarkcole/HASS-data-detective
+https://www.reddit.com/r/homeassistant/comments/bmenql/local_api_thermostat_recommendations/
 
 ## HASS.iokuhh
 ### Reference projects
@@ -53,6 +55,12 @@ https://community.home-assistant.io/t/slate-a-new-dark-theme/86410/8
 https://community.home-assistant.io/t/my-hass-io-and-lovelace-setup-updated/72902/2
 https://github.com/renemarc/home-assistant-config
 https://github.com/JoshuaGarrison27/Home-Assistant-Configuration
+
+### Home Assistant sensors in InFluxdb
+https://selfhostedhome.com/storing-home-assistant-sensor-data-in-influxdb/
+
+### Viewing Grafana graphs in Home Assistant
+https://community.home-assistant.io/t/complete-guide-on-setting-up-grafana-influxdb-with-home-assistant-using-official-docker-images/42860
 
 ### Android Apps - Home Assistant:
 https://www.smarthomebeginner.com/best-android-apps-for-home-assistant/
@@ -190,4 +198,8 @@ https://www.home-assistant.io/components/python_script/
 
 ### A smaller version of AllThing
 https://github.com/mertenats/Open-Home-Automation
+
+### Best camera for Home Assistant
+https://www.reddit.com/r/homeassistant/comments/bnoi9x/best_camera_for_ha/
+
 {% include links.html %}

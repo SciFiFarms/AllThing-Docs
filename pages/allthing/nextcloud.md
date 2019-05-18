@@ -23,6 +23,9 @@ https://github.com/ReinerNippes/nextcloud
 https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04
 https://www.digitalocean.com/community/tutorials/automating-initial-server-setup-with-ubuntu-18-04
 
+### How to create DO Space (S3) and API key
+https://www.digitalocean.com/community/tutorials/how-to-create-a-digitalocean-space-and-api-key
+
 ### Nextcloud on Linux - Syncs tasks and addresses android apps.
 https://eischmann.wordpress.com/2017/03/10/nextcloud-linux-desktop/
 

@@ -30,6 +30,10 @@ https://www.reddit.com/r/HandsOnComplexity/comments/17nxpy/using_a_lux_meter_as_
 https://www.reddit.com/r/HandsOnComplexity/comments/1mk7gm/led_and_led_grow_lights_part_3_color_and_white/
 https://www.reddit.com/r/HandsOnComplexity/comments/1cuujk/led_and_led_grow_lights_part_one_heat/
 https://www.reddit.com/r/HandsOnComplexity/comments/3i2gip/how_to_wire_up_the_adjustable_mean_well_power/
+https://www.reddit.com/r/HandsOnComplexity/comments/bhmb22/core_concepts_in_horticulture_lighting_theory/
+
+### Some grow specific LED COB colors
+https://www.hortidaily.com/article/9048387/offered-in-eight-colors-new-leds-enable-faster-plant-growth-greater-crop-yield/
 
 ### BridgeLux EB - My LEDs
 https://www.bridgelux.com/sites/default/files/resource_media/DS131%20Bridgelux%20EB%20Series%20Gen2%20Data%20Sheet%2020171020%20Rev%20A.pdf
@@ -42,6 +46,17 @@ https://www.specmeters.com/lightmeters/quantum-meters/
 
 ### Red vs blue light
 https://www.youtube.com/watch?v=sfihE4IuFuU
+
+### Duffuse light
+https://www.hortidaily.com/article/9077318/research-toolbox-expanded-thanks-to-light-with-diffused-glass/
+https://www.hortidaily.com/article/9085686/a-growers-climate-about-diffuse-light/
+---
+
+### Guide to grow lights. Interesting bit about light warmth and crop type
+https://blog.growlink.com/a-quick-guide-to-grow-lights
+
+### Light ratios
+https://www.hortidaily.com/article/9089222/ratios-in-the-light-spectrum-a-brief-overview/
 
 ### How to measure PAR from LDR
 https://forum.openag.media.mit.edu/t/mapping-par-meter-to-analog-ldr/4235/2

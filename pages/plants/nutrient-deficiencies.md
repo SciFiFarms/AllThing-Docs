@@ -18,6 +18,7 @@ https://www.hortidaily.com/article/44862/New-software-to-create-hydroponic-nutri
 ### Cannabis
 https://www.reddit.com/r/microgrowery/comments/8u63qc/deficiency_charts_with_decent_infographics/
 https://www.reddit.com/r/microgrowery/comments/8va4uh/found_a_helpful_chart_for_deficiencies/
+https://www.elysiancanada.ca/articles/what-are-my-leaves-telling-me
 
 ### Lettuce
 https://www.hortidaily.com/article/9091827/inner-leaf-tip-burn-in-lettuce/

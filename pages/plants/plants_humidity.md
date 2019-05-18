@@ -9,10 +9,14 @@ permalink: plants_humidity.html
 folder: plants
 ---
 
+### Basics of temperature and relative humidity
+https://www.hortidaily.com/article/9037462/how-well-do-you-understand-temperature-and-relative-humidity/
+
 ### Research pulling water out of air
 http://advances.sciencemag.org/content/4/6/eaao5323.full
 https://www.wired.com/story/pull-water-out-of-air/?mbid=synd_digg
 http://news.berkeley.edu/2018/06/08/in-desert-trials-next-generation-water-harvester-delivers-fresh-water-from-air/?t=1
+https://www.canadiangeographic.ca/article/canadian-innovation-pulls-drinking-water-out-thin-air
 
 ### A large research for dehumidification
 https://www.desert-aire.com/dehumidifier-information/selection-guide/specs?combine=&page=0%2C1

@@ -143,6 +143,13 @@ https://opensource.com/article/18/8/sysadmins-guide-containers
 ### Swarm vs Kubernetes 
 https://thenewstack.io/kubernetes-vs-docker-swarm-whats-the-difference/
 
+## Run Swarm like Kubernetes
+https://engineering.issuu.com/2018/09/12/confident-deployments
+https://github.com/docker/cli/issues/141
+Rolling updates: https://container-solutions.com/rolling-updates-with-docker-swarm/
+Share volumes across nodes: https://stackoverflow.com/questions/47756029/how-does-docker-swarm-implement-volume-sharing
+---
+
 ### Work with Docker in python
 https://github.com/aio-libs/aiodocker
 

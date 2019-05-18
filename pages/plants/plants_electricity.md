@@ -9,6 +9,9 @@ permalink: plants_electricity.html
 folder: plants
 ---
 
+### How to use a multimeter to test an outlet
+https://mrelectric.com/blog/how-to-use-a-multimeter-to-test-an-outlet
+
 ### Volt, Amp, Ohm explanation 
 https://old.reddit.com/r/EngineeringStudents/comments/an1vjr/not_an_electrical_student_so_this_was_helpful/
 
@@ -20,5 +23,7 @@ https://learn.sparkfun.com/tutorials/voltage-dividers
 
 ### Gravity: I2C Digital Wattmeter (8 Amps)
 https://www.dfrobot.com/product-1827.html
+
+
 
 {% include links.html %}

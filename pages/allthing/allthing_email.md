@@ -108,6 +108,9 @@ http://www.sorbs.net/lookup.shtml
 
 ---
 
+### Home Assistant Email Sensor - 
+https://github.com/ljmerza/ha-email-sensor
+
 ### Phone calendar replacement?
 https://github.com/Etar-Group/Etar-Calendar
 {% include links.html %}

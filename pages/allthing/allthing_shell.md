@@ -21,6 +21,24 @@ https://superuser.com/questions/687348/how-to-persist-gnu-screen-layout-after-re
 lug.fh-swf.de/vim/vim-bash/StyleGuideShell.en.pdf
 unix.stackexchange.com/questions/42847/are-there-naming-conventions-for-variables-in-shell-scripts
 
+### Bash libs
+Best looking: https://github.com/aks/bash-lib
+https://www.tecmint.com/write-custom-shell-functions-and-libraries-in-linux/
+https://bashmenot.mietek.io/reference/#version-control-module
+https://github.com/javier-lopez/learn
+https://stackoverflow.com/questions/11369522/bash-utility-script-library
+http://marcomaggi.github.io/docs/mbfl.html/
+
+### Colorize your shell
+https://codeburst.io/colorize-your-shell-commands-without-any-libraries-or-plugins-2cd4a264a17e
+
+### timeout: Set a timeout for command
+https://yasoob.me/posts/6-tips-before-you-write-your-next-bash-cronjob/
+
+### Doing templates with BASH: envsubst
+https://stackoverflow.com/questions/2914220/bash-templating-how-to-build-configuration-files-from-templates-with-bash
+https://manpages.debian.org/jessie-backports/gettext-base/envsubst.1.en.html
+
 ### Utilities for terminals. 
 https://github.com/k4m4/terminals-are-sexy
 

@@ -17,6 +17,9 @@ https://kencenerelli.wordpress.com/2018/03/25/visual-studio-code-multi-line-and-
 ### Browser Sync:
 https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync
 
+### sshcode - Install code-server on a remote server
+https://github.com/cdr/sshcode
+
 ### Turn off autoReveal in the file explorer
 https://github.com/Microsoft/vscode/issues/5329
 

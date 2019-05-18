@@ -10,22 +10,30 @@ folder: plants
 ---
 
 ### OpenAg Design roundup:
+GREAT design notes: https://forum.openag.media.mit.edu/t/properly-sizing-aeroponics-system/4222/21
 https://forum.openag.media.mit.edu/t/aeroponic-design-guideline-roundup/2601
 https://forum.openag.media.mit.edu/t/aeroponic-system-categorization-flex-vertical-horizontal-trays/1491/3
 https://forum.openag.media.mit.edu/t/building-aeroponic-system-and-full-automation/2348
 https://forum.openag.media.mit.edu/t/need-help-picking-up-the-right-aeroponics-equipment/4272
+https://www.hortidaily.com/article/9063176/with-this-system-we-can-maximize-production-yields-and-product-quality/
 
 reddit.com/r/aeroponics/comments/8mu4s5/fogger_cycles_what_and_how
 
 ### OpenAg Nozzle recs:
 forum.openag.media.mit.edu/t/choosing-appropriate-nozzles-pump-or-other-related-components-for-high-pressure-aeroponics/3512
 https://forum.openag.media.mit.edu/t/hp-aeroponics-exact-spray-without-tank/2901/16
+https://www.reddit.com/r/aeroponics/comments/b4yj96/i_am_planning_on_building_individual_reservoirs/
+https://www.reddit.com/r/aeroponics/comments/bhetrq/filter_size_to_prevent_nozzle_clogging/
 
 ### Nozzle Clogging:
 https://forum.openag.media.mit.edu/t/eliminating-clogging-in-hpa-and-stream-misters/3145/18
 
 ### OpenAg Misting Frequency:
 https://forum.openag.media.mit.edu/t/high-pressure-aeroponics-hpa-misting-frequency/1276/5
+https://www.reddit.com/r/aeroponics/comments/bm3h7y/hpa_water_consumption_drain_to_waste/
+
+### Great CEA class - University of Arizona
+https://www.youtube.com/watch?v=upwQrEJ-ZLY&list=PL7fPr3CuAdvv4ZPJKPvi4U7VblxKJnegD&index=1
 
 ### Reddit Humidity for misting frequency
 https://www.reddit.com/r/aeroponics/comments/bdw678/optimal_internal_humidity_for_fogponic_system/

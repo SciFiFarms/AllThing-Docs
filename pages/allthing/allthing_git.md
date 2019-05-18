@@ -32,6 +32,9 @@ https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
 ### Good git rebase --onto explanation
 https://stackoverflow.com/questions/29914052/i-cant-understand-the-behaviour-of-git-rebase-onto
 
+### Only stash unstaged changes
+https://stackoverflow.com/questions/7650797/stashing-only-un-staged-changes-in-git
+
 ### Use GitFlow as a design pattern:
 danielkummer.github.io/git-flow-cheatsheet
 
@@ -62,6 +65,9 @@ https://stackoverflow.com/questions/40978921/how-to-add-chmod-permissions-to-fil
 
 ### How to clone a single branch, without any of the other branches data/metadata. 
 https://stackoverflow.com/questions/1911109/how-to-clone-a-specific-git-branch
+
+### Good commit message guide
+https://github.com/RomuloOliveira/commit-messages-guide
 
 ### Emojis in git commit messages:
 https://gitmoji.carloscuesta.me/

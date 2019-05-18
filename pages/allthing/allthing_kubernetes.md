@@ -13,6 +13,9 @@ folder: allthing
 ### Seriously. Use OpenShift:
 https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/
 
+### GitOps with Flux
+https://github.com/weaveworks/flux
+
 ### Can use minishift to run openshift locally.
 https://github.com/minishift/minishift
 

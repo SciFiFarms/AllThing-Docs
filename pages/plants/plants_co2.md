@@ -12,9 +12,15 @@ folder: plants
 ### Foliar feeding CO2 helps
 https://www.hortidaily.com/article/45803/Economic-benefits-with-CO2-foliar-spray-integrated-into-irrigation-booms/
 https://www.hortidaily.com/article/9028119/CO2-foliar-spray-leads-to-74-increased-commercial-cannabis-bud-value/
+https://www.hortidaily.com/article/44233/Scientific-proof-of-dissolved-CO2-foliar-spray-plant-benefits-on-lettuce/
+
+### CO2 needs are connected with light levels/transpiration rate
+https://www.hortidaily.com/article/9095316/increasing-profit-through-better-use-of-co2/
+https://www.hortidaily.com/article/44689/How-growers-can-take-advantage-of-CO2-enrichment/
 
 ### CO2 effects on people. REALLY interesting.
 https://www.youtube.com/watch?v=1Nh_vxpycEA
+https://www.nytimes.com/2019/05/06/health/conference-room-air.html
 
 ### ESPHome Documentation: 
 https://esphome.io/components/sensor/mhz19.html?highlight=component
@@ -43,6 +49,12 @@ https://stackoverflow.com/questions/31109021/how-to-find-co2-and-o2-level-using-
 http://microcontrollerslab.com/interfacing-mq-135-gas-sensor-arduino/
 Source: https://www.waveshare.com/mq-135-gas-sensor.htm
 
+### Other sensors
+https://www.hortidaily.com/article/9046439/us-wi-fi-co-monitor-and-grow-controller-for-growers-nationwide/
+https://www.hortidaily.com/article/9089260/us-co2-monitor-and-grow-controller-upgraded-for-current-industry-standards/
+
+### CO2 Capture
+https://electrek.co/2019/03/22/negative-emissions-carbon-tech/
 
 
 {% include links.html %}

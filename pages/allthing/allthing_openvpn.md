@@ -10,6 +10,11 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Try WireGuard
+https://wiki.dd-wrt.com/wiki/index.php/Wireguard
+https://wiki.dd-wrt.com/wiki/index.php/The_Easiest_Tunnel_Ever
+https://restoreprivacy.com/wireguard/
+
 ## Debugging:
 For Gnome, I found that the best way to see what errors were being thrown was to run the following:
 ```journalctl -f -u NetworkManager.service```

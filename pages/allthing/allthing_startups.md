@@ -10,6 +10,14 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Vertical Farming business models
+https://www.hortidaily.com/article/9034753/vertical-farming-does-the-economic-model-work/
+https://www.hortidaily.com/article/9036489/market-for-organic-vegetables-is-nowhere-near-saturated/
+https://www.hortidaily.com/article/9072544/facts-and-figures-about-organic-development/
+https://www.hortidaily.com/article/9096480/when-is-the-best-time-to-sign-a-fixed-contract/
+https://www.hortidaily.com/article/9062846/calculating-how-various-decisions-will-influence-the-climate-in-the-greenhouse/
+https://www.npr.org/sections/thesalt/2019/03/17/700715793/why-are-so-many-farmers-markets-failing-because-the-market-is-saturated
+
 ### Why agile/scrum are terrible:
 https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
 
@@ -24,6 +32,9 @@ https://opensource.com/article/19/4/devops-pipeline
 
 ### Why and how to avoid hiring for culture fit
 https://opensource.com/open-organization/18/10/reconsider-culture-fit
+
+### Managing by consensus
+https://www.ozy.com/rising-stars/the-office-of-happy-hiring-firing-and-promoting-by-consensus/93072
 
 ### A reminder that microservices aren't always the answer.
 https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with

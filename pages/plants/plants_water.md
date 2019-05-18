@@ -20,6 +20,13 @@ https://www.reddit.com/r/interestingasfuck/comments/905g1o/personal_water_filter
 https://www.hortidaily.com/article/44798/Using-active-carbon-for-water-purification/
 https://www.hortidaily.com/article/44721/In-the-end,-the-water-does-the-hard-work-itself/
 UV works: https://www.hortidaily.com/article/9085792/clean-works-announces-new-way-to-clean-food-products-without-using-water/
+#### UV causes problems with iron
+https://www.lenntech.com/processes/iron-manganese/iron/iron-removal-physical-chemical-way.htm
+https://www.ncbi.nlm.nih.gov/pubmed/17243230
+---
+
+### PSI Cutoff switch
+https://filterdirect.com/2100-aquatec-pressure-switch-shut-tubing-p-358.html?osCsid=41526c924094ce121b91da52c7256d33
 
 ### Dosing pump
 https://www.hortidaily.com/article/44508/Smart-dosing-pump-monitors-resources/
@@ -43,6 +50,18 @@ https://www.modernistpantry.com/polysorbate-80.html
 https://www.foodnavigator.com/Article/2011/04/18/Natural-sugar-ester-shows-potential-as-food-grade-surfactant-Study
 https://www.tandfonline.com/doi/abs/10.1080/01932690902735561
 http://www.lambentcorp.com/consumer-benefits/food-grade
+
+### Using a scale to track water
+https://www.hortidaily.com/article/9061695/optimize-the-water-content-in-your-crop/
+
+### Leaf sensor to track water stress
+https://www.smithsonianmag.com/innovation/snap-sensor-could-tell-farmers-exactly-how-much-water-their-crops-180965036/
+https://www.youtube.com/watch?v=wpAA3qeOYiI
+http://www.agrihouse.com/secure/shop/item.aspx?itemid=171
+
+
+### Sweet build
+https://www.hortidaily.com/article/9077406/10-crops-controlled-from-1-water-technology-room/
 
 
 

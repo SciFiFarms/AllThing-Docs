@@ -10,6 +10,14 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### ncdu: Command line applaction to get folder level space usage
+https://superuser.com/questions/9847/linux-utility-for-finding-the-largest-files-directories
+
+### envsubst: use to substitute env vars in templates
+```cat template.cfg | envsubst > whatever.cfg```
+https://stackoverflow.com/questions/2914220/bash-templating-how-to-build-configuration-files-from-templates-with-bash
+Alternative: Sigil https://github.com/gliderlabs/sigil
+
 ### DriveDroid: Use phone as a live cd 
 https://www.drivedroid.io/
 

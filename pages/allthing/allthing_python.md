@@ -16,6 +16,19 @@ https://github.com/aio-libs/aiodocker
 ### Using @property to configure getters and setters:
 https://www.programiz.com/python-programming/property
 
+### PySnooper 
+https://github.com/cool-RR/PySnooper
+
+### Python tools
+https://write.as/chobeat/python-project-tooling-explained
+
+### Pipenv
+https://pipenv.readthedocs.io/en/latest/
+https://opensource.com/article/19/4/managing-python-packages
+
+### pydockenv: pipenv, but ran in a container rather than vertial env.
+https://github.com/se7entyse7en/pydockenv
+
 ### Using decorators:
 https://hackaday.com/2018/08/31/an-introduction-to-decorators-in-python
 
