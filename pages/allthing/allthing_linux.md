@@ -120,4 +120,7 @@ https://www.if-not-true-then-false.com/2012/install-skype-on-fedora-centos-red-h
 ### Linux Device Drivers
 https://lwn.net/Kernel/LDD3/
 
+### System testing distro
+https://netsyms.com/products/testkit/
+
 {% include links.html %}

@@ -18,6 +18,9 @@ https://www.hortidaily.com/article/9096480/when-is-the-best-time-to-sign-a-fixed
 https://www.hortidaily.com/article/9062846/calculating-how-various-decisions-will-influence-the-climate-in-the-greenhouse/
 https://www.npr.org/sections/thesalt/2019/03/17/700715793/why-are-so-many-farmers-markets-failing-because-the-market-is-saturated
 
+### How to contribute to open source projects: Decent list of things outside of programming. Target these specifically. 
+https://www.forbes.com/sites/jasonevangelho/2019/05/13/8-ways-contribute-desktop-linux-community-marketing-documentation-art-testing/
+
 ### Why agile/scrum are terrible:
 https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
 

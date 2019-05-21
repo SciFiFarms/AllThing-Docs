@@ -21,6 +21,9 @@ https://prometheus.io/docs/visualization/grafana/
 ### A REALLY good example of IoT + Prometheus + Grafana
 https://grafana.com/blog/2018/11/01/pro-tips-using-prometheus-and-grafana-for-monitoring-power-usage/
 
+### List of default ports
+https://github.com/prometheus/prometheus/wiki/Default-port-allocations
+
 ### Article about GitLabs use + links to their dashboard
 https://about.gitlab.com/2018/09/27/why-all-organizations-need-prometheus/
 

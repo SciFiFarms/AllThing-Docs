@@ -65,6 +65,9 @@ https://esphome.io/components/esp32_camera.html
 ### Sonoff pin mapping for Teckin SP10:
 The SP10 doesn't do energy monitoring - it is only a switch. 
 https://github.com/arendst/Sonoff-Tasmota/wiki/Teckin-sp10
+
+### Soil sensor calibration discussion:
+https://www.reddit.com/r/homeassistant/comments/bqw3dw/esphome_and_home_assistant_soil_capacitance/
 ---
 
 

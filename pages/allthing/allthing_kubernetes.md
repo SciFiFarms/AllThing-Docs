@@ -31,6 +31,8 @@ https://fedoramagazine.org/deploy-a-django-rest-service-on-openshift/
 ### Prometheus monitoring with openshift
 https://docs.openshift.com/container-platform/3.11/install_config/prometheus_cluster_monitoring.html
 
+### Kubernetes visualizer
+https://github.com/containership/konstellate
 
 ### OpenShift on OpenStack
 https://github.com/redhat-openstack/openshift-on-openstack

@@ -32,6 +32,9 @@ http://marcomaggi.github.io/docs/mbfl.html/
 ### Colorize your shell
 https://codeburst.io/colorize-your-shell-commands-without-any-libraries-or-plugins-2cd4a264a17e
 
+### Get home dir of user that called sudo
+https://stackoverflow.com/questions/7358611/get-users-home-directory-when-they-run-a-script-as-root
+
 ### timeout: Set a timeout for command
 https://yasoob.me/posts/6-tips-before-you-write-your-next-bash-cronjob/
 
@@ -122,6 +125,9 @@ https://zwischenzugs.com/2018/10/12/eleven-bash-tips-you-might-want-to-know/
 
 ### Bash debugging the hard way
 https://zwischenzugs.com/2018/10/09/learn-bash-debugging-techniques-the-hard-way/
+
+### Notify phone with bash
+https://www.reddit.com/r/selfhosted/comments/bqt6eu/get_notified_when_upgrades_are_available_better/
 
 ### Using .vim rather than .vimrc
 https://vimways.org/2018/from-vimrc-to-vim/

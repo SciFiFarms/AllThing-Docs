@@ -59,6 +59,8 @@ https://github.com/giantswarm/simple-logger
 Integrate with Logstash: https://github.com/grafana/loki/issues/239
 Good intro video: https://www.youtube.com/watch?v=ENM2f1QZam8
 
+### Beehive: Interesting take on automation. Integrates with a number of services
+https://github.com/muesli/beehive
 
 ### Log4bash
 https://unix.stackexchange.com/questions/155551/how-to-debug-a-bash-script
@@ -134,6 +136,8 @@ Project that makes it's own PCB: https://randomnerdtutorials.com/build-an-all-in
 Smart LED strips (Has 12v power supply link + 12v=>5v): https://blog.ktz.me/smart-led-strips-with-no-subscription-required/
 https://www.reddit.com/r/homeassistant/comments/assagi/project_box_with_3_mqtt_controlled_outlets_and_a/
 https://hackaday.com/2019/02/08/eight-years-of-partmaking-a-love-story-for-parts/
+https://hackaday.com/2019/05/12/modular-cnc-build-gets-you-both-a-mill-and-a-laser-cutter/?mc_cid=ed545f7813&mc_eid=a265f2cb07
+https://hackaday.com/2019/05/15/an-open-source-esc-for-brushless-motors/?mc_cid=ed545f7813&mc_eid=a265f2cb07
 https://project.seeedstudio.com/Yarosia/arduino-growbox-controller-efb9fa
 https://hackaday.com/2019/02/27/hack-my-house-raspberry-pi-as-a-touchscreen-thermostat/
 Sweet aluminum frame build: https://www.youtube.com/watch?v=hGn9uJVQ-X0
@@ -148,6 +152,8 @@ $10 WiFi Blinds: https://www.youtube.com/watch?v=1O_1gUFumQM
 Wand as a controller: https://gizmodo.com/magical-smart-home-upgrade-lets-muggles-control-their-h-1833941228
 Nice looking indoor plant lighting: https://soltechsolutions.com/shop/
 IoT Scale: https://learn.adafruit.com/data-logging-iot-weight-scale
+IoT blinds: https://www.instructables.com/id/AutoBlinds-DIY-Automation-for-Vertical-Horizontal-/
+2 stage water rocket: http://digg.com/video/building-a-water-rocket
 
 ## ERP
 
@@ -166,6 +172,9 @@ https://hub.docker.com/r/bitnami/odoo/
 ### ERPNext
 https://erpnext.com/docs/user/manual/en
 ---
+
+### Whole home audio
+https://www.reddit.com/r/homeassistant/comments/bnvk3g/best_choice_for_wholehome_audio_system/
 
 ### Email clients
 https://opensource.com/article/19/1/productivity-tool-cypht-email
@@ -227,6 +236,9 @@ https://fedoramagazine.org/edit-your-videos-with-pitivi-on-fedora/
 ### Davinci - Video editor
 https://www.linuxuprising.com/2019/04/hollywood-grade-video-editor-davinci.html
 
+### Nice discussion on self hosted media service. Kodi + MySQL + Jellyfin?
+https://www.reddit.com/r/selfhosted/comments/bq5g5z/jellyfin_vs_streama_vs_dlna_server_or_file_server/
+
 ### Guider - Linux CMD tracer/performance monitor
 https://github.com/iipeace/guider
 
@@ -260,7 +272,13 @@ https://github.com/pikapkg/web
 
 ### Playroom: Test multiple window sizes at once
 https://github.com/seek-oss/playroom
+
+### Vue structure
+https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb
 ---
+
+### Django structure
+https://djangobook.com/mdj2-django-structure/
 
 ## Photo galleries
 ### Photoswipe
@@ -401,7 +419,7 @@ https://www.linuxuprising.com/2018/08/gnome-shell-android-integration.html
 ### Graphana example:
 https://hackaday.com/2019/01/23/howto-docker-databases-and-dashboards-to-deal-with-your-data/
 
-### Screenshot programs
+## Screenshot programs
 ### Deepin-screenshot: What I ended up using
 https://www.deepin.org/en/original/deepin-screenshot/
 
@@ -414,6 +432,11 @@ https://computingforgeeks.com/install-flameshot-screenshot-software-on-linux/
 http://shutter-project.org/
 #### Lightscreen (Greenshot alternative?)
 http://lightscreen.com.ar/
+---
+## Screen recording
+### EasyScreenCast - Gnome
+https://github.com/EasyScreenCast/EasyScreenCast
+---
 
 ### When to use REST, GraphGL, Webhook-grpc
 https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/

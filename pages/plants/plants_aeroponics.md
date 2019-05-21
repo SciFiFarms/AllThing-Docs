@@ -16,6 +16,7 @@ https://forum.openag.media.mit.edu/t/aeroponic-system-categorization-flex-vertic
 https://forum.openag.media.mit.edu/t/building-aeroponic-system-and-full-automation/2348
 https://forum.openag.media.mit.edu/t/need-help-picking-up-the-right-aeroponics-equipment/4272
 https://www.hortidaily.com/article/9063176/with-this-system-we-can-maximize-production-yields-and-product-quality/
+https://www.reddit.com/r/microgrowery/comments/bqxuic/diy_medium_pressure_aeroponic_system/
 
 reddit.com/r/aeroponics/comments/8mu4s5/fogger_cycles_what_and_how
 

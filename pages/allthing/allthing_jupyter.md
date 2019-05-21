@@ -23,6 +23,8 @@ https://hub.docker.com/r/kylerw/hass-data-detective/dockerfile
 https://github.com/kylerw/docker-HASS-Data-Detective/blob/master/Dockerfile
 https://github.com/robmarkcole/HASS-data-detective#simple-query
 
+### How to access InfluxDB
+https://www.influxdata.com/blog/getting-started-python-influxdb/
 
 ### Awesome Datascience
 https://github.com/r0f1/datascience

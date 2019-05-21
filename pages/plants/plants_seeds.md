@@ -32,6 +32,12 @@ https://www.hortidaily.com/article/9079949/south-korea-novel-technology-to-culti
 ### Complete plant based diet
 https://www.hortidaily.com/article/9063205/a-future-proof-diet-with-future-foods/
 
+### Soft berry fruits
+https://www.reddit.com/r/coolguides/comments/bpyj5u/soft_berry_fruits/
+
+### Wheat
+https://heated.medium.com/rethinking-gluten-free-9af692cebe3d
+
 ### Cannabis list
 https://www.reddit.com/r/microgrowery/comments/y7xrv/the_official_microgrowery_seedbank_thread_the/
 http://catnews.org/FREE%20Pot%20Books/

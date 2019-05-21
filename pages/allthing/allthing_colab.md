@@ -25,6 +25,8 @@ https://www.uradmonitor.com/?mc_cid=0f4ca37c7a&mc_eid=a265f2cb07
 https://sfosc.org/
 
 ### Similar Business model
+https://www.kickstarter.com/projects/1654415778/iharvest
+https://www.mmjdaily.com/article/9104634/can-on-video-tour-of-an-ontario-based-cannabis-operation/
 https://www.hortidaily.com/article/9076667/us-mn-the-future-of-farming-is-up-in-the-air/
 https://www.hortidaily.com/article/9050452/advancements-in-automated-commercial-scale-vertical-farming/
 https://www.hortidaily.com/article/9046412/parisian-supermarket-becomes-self-sufficient-with-indoor-herb-farm/
@@ -245,6 +247,10 @@ https://forum.openag.media.mit.edu/t/peter-webb-backround-ama/3678
 http://alexgrowsup.com/2018/06/03/amis-farm-lab/
 
 https://www.spacebandits.io/
+
+https://www.reddit.com/r/aeroponics/comments/bqypdg/pump_suggestions_and_an_idea_for_self_cleaning/
+
+https://knowledge.farm/
 
 ### Articles about farming of the future
 https://grist.org/article/the-open-source-movement-to-hack-your-arugula/

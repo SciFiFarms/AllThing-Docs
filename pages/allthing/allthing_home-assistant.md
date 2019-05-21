@@ -22,6 +22,7 @@ https://www.reddit.com/r/homeassistant/comments/9ycr63/my_lovelace_frontend/
 https://github.com/ljmerza/ha-email-sensor
 Already setup in Jupyter: https://github.com/robmarkcole/HASS-data-detective
 https://www.reddit.com/r/homeassistant/comments/bmenql/local_api_thermostat_recommendations/
+Auto apply theme: https://community.home-assistant.io/t/make-a-theme-stay-after-reboot-broke-again/106751/13
 
 ## HASS.iokuhh
 ### Reference projects
@@ -55,6 +56,7 @@ https://community.home-assistant.io/t/slate-a-new-dark-theme/86410/8
 https://community.home-assistant.io/t/my-hass-io-and-lovelace-setup-updated/72902/2
 https://github.com/renemarc/home-assistant-config
 https://github.com/JoshuaGarrison27/Home-Assistant-Configuration
+https://www.reddit.com/r/homeassistant/comments/bq3l7v/featurescomponents_in_home_assistant_you_wish/
 
 ### Home Assistant sensors in InFluxdb
 https://selfhostedhome.com/storing-home-assistant-sensor-data-in-influxdb/
