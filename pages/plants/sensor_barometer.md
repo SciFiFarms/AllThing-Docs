@@ -17,4 +17,7 @@ https://platformio.org/lib/show/166/Adafruit%20BME280%20Library
 ### BME680 ($20: temp, hubidity, pressure, and VOC gas)
 http://wiki.seeedstudio.com/Grove-Temperature_Humidity_Pressure_Gas_Sensor_BME680/
 
+### Paper sleeves
+https://www.hortidaily.com/article/9101285/paper-sleeves-added-to-greensleeve-product-range/
+
 {% include links.html %}

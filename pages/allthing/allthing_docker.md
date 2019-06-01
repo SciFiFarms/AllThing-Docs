@@ -87,6 +87,9 @@ https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/
 https://github.com/waisbrot/docker-wait
 https://medium.com/@edgar/how-to-wait-for-a-container-to-be-ready-before-starting-another-container-using-docker-compose-92bab2fc1633
 
+### Dockerfile best practices
+https://dev.to/azure/improve-your-dockerfile-best-practices-5ll
+
 ### Docker swarm control restart of containers:
 https://docs.docker.com/compose/compose-file/#restart_policy
 

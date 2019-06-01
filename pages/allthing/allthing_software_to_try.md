@@ -19,6 +19,7 @@ https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/
 ## VPN
 ### WireGuard > OpenVPN?
 https://www.wireguard.com/
+https://docs.sweeting.me/s/wireguard#
 https://wiki.dd-wrt.com/wiki/index.php/Wireguard
 
 ### Sshuttle
@@ -91,6 +92,7 @@ https://github.com/mauhai/awesome-jupyterlab
 https://github.com/markusschanta/awesome-jupyter
 https://github.com/r0f1/datascience
 https://github.com/teoga/awesome-product-design
+https://github.com/0xInfection/Awesome-WAF
 
 
 ### Hardware
@@ -121,6 +123,7 @@ https://hackaday.com/2018/12/17/tired-of-killing-houseplants-try-using-wifi/
 Battery powered projects: https://hackaday.com/2018/12/17/a-deep-dive-into-low-power-wifi-microcontrollers/
 https://blog.gopheracademy.com/advent-2018/observability-in-the-kitchen/
 https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck
+https://grafana.com/blog/2018/11/01/pro-tips-using-prometheus-and-grafana-for-monitoring-power-usage/
 https://opensource.com/article/18/12/lightshowpi-raspberry-pi
 https://www.awesome-ha.com/#diy-gateways
 https://selfhostedhome.com/diy-wifi-sprinkler-controller-using-esp8266-part-1/
@@ -139,6 +142,7 @@ https://hackaday.com/2019/02/08/eight-years-of-partmaking-a-love-story-for-parts
 https://hackaday.com/2019/05/12/modular-cnc-build-gets-you-both-a-mill-and-a-laser-cutter/?mc_cid=ed545f7813&mc_eid=a265f2cb07
 https://hackaday.com/2019/05/15/an-open-source-esc-for-brushless-motors/?mc_cid=ed545f7813&mc_eid=a265f2cb07
 https://project.seeedstudio.com/Yarosia/arduino-growbox-controller-efb9fa
+https://blog.notexpectedyet.com/octoprint-node-red-influxdb-and-grafana/
 https://hackaday.com/2019/02/27/hack-my-house-raspberry-pi-as-a-touchscreen-thermostat/
 Sweet aluminum frame build: https://www.youtube.com/watch?v=hGn9uJVQ-X0
     Canadian Source: https://spool3d.ca/2020-aluminum-extrusion/
@@ -154,6 +158,8 @@ Nice looking indoor plant lighting: https://soltechsolutions.com/shop/
 IoT Scale: https://learn.adafruit.com/data-logging-iot-weight-scale
 IoT blinds: https://www.instructables.com/id/AutoBlinds-DIY-Automation-for-Vertical-Horizontal-/
 2 stage water rocket: http://digg.com/video/building-a-water-rocket
+Kobo was the ereader to hack: https://www.reddit.com/r/linux/comments/bs2vnr/do_you_know_of_any_hackableopensource_based_ebook/
+Cloud lights: https://www.youtube.com/watch?v=07m0e7NwzKc&feature=youtu.be
 
 ## ERP
 
@@ -171,6 +177,15 @@ https://hub.docker.com/r/bitnami/odoo/
 
 ### ERPNext
 https://erpnext.com/docs/user/manual/en
+---
+
+## Medical Records
+
+### OwnHealthRecord
+https://github.com/petrk94/ownhealthrecord/blob/master/DeveloperLog.md
+
+### OpenMRS
+https://openmrs.org/demo/
 ---
 
 ### Whole home audio
@@ -248,6 +263,9 @@ https://fedoramagazine.org/mind-map-yourself-using-freemind-and-fedora/
 ### BloomRPC - Postman for GraphQL?
 https://github.com/uw-labs/bloomrpc
 
+### Beam GraphQL for knowledge graphs
+https://www.ebayinc.com/stories/blogs/tech/beam-a-distributed-knowledge-graph-store/
+
 ### Websocketd - Connect to a terminal via WebSockets.
 https://github.com/joewalnes/websocketd
 
@@ -276,6 +294,9 @@ https://github.com/seek-oss/playroom
 ### Vue structure
 https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb
 ---
+
+### Gitfolio - Portfolio for git repos
+https://github.com/imfunniee/gitfolio
 
 ### Django structure
 https://djangobook.com/mdj2-django-structure/
@@ -440,6 +461,7 @@ https://github.com/EasyScreenCast/EasyScreenCast
 
 ### When to use REST, GraphGL, Webhook-grpc
 https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/
+https://blog.graphqleditor.com/graphql-code-generator/
 
 ### Gitpod (Online IDE for github)
 https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
@@ -496,6 +518,9 @@ https://www.bluematador.com/blog/what-to-expect-from-a-next-gen-monitoring-tool-
 ### Books that every programmer (of every type) should read
 https://medium.com/@shvetsovdm/essential-books-that-every-programmer-should-read-a61565095781
 
+### Manager's path: highly recommended about startup best practices?
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+
 ### Iodide: Interesting collaborative graphing and notebook building
 https://github.com/iodide-project/iodide
 
@@ -521,6 +546,9 @@ https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-c
 https://2uts.com/
 https://www.evernote.design/
 
+### Undesign - Lots of good resources for many difference design subjectsI and fields.
+https://undesign.learn.uno/
+
 ### Huge list of Resilience Engineering people and concepts
 https://github.com/lorin/resilience-engineering
 
@@ -539,8 +567,12 @@ https://wiki.debian.org/FreedomBox/Features
 ### Programming Zines
 https://wizardzines.com/
 
+### Packit: Automating .rpm package creation and inclusion with fedora's repos.
+https://fedoramagazine.org/packit-packaging-in-fedora-with-minimal-effort/
+
 ### Hacker Tools
 https://hacker-tools.github.io/
+https://github.com/yadox666/The-Hackers-Hardware-Toolkit
 
 ### Product manager starter pack
 https://pmstarterpack.onfielder.com/

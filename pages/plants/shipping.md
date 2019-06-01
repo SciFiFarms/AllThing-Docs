@@ -20,4 +20,10 @@ https://www.hortidaily.com/article/9083448/cotton-nets-will-become-established-i
 ### Cardboard clamshells
 https://www.hortidaily.com/article/9098442/california-giant-conducts-testing-on-cardboard-strawberry-clamshells/
 
+### More cardboard
+https://www.hortidaily.com/article/9102002/cardboard-is-being-used-more-often-to-replace-plastic-packaging/
+
+### Zero waste packaging
+https://www.hortidaily.com/article/9106043/loop-the-supermarket-with-zero-packaging-waste/
+
 {% include links.html %}

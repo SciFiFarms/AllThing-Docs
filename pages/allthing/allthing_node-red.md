@@ -26,6 +26,10 @@ Docs http://docs.jsonata.org/index.html
 https://github.com/Spartan-II-117/node-red-contrib-home-assistant
 #### Examples https://www.reddit.com/r/homeassistant/comments/7c5v63/anyone_else_using_nodered_with_home_assistant/
 
+### Great video on using Home Assistant components:
+https://www.youtube.com/watch?v=dYN1Lp-XYKA
+
+
 ### Context Browser
 https://github.com/sbarwe/node-red-contrib-contextbrowser
 

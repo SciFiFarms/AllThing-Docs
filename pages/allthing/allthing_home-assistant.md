@@ -43,6 +43,7 @@ Automated window shuttors: https://www.reddit.com/r/homeassistant/comments/ahdms
 Lovelace light card: https://github.com/ljmerza/light-entity-card
 Text to speech discussion: https://www.reddit.com/r/homeassistant/comments/an3mys/what_is_your_overall_texttospeech_tts_strategy/
 Best Lovelace cards for Docker: https://www.reddit.com/r/homeassistant/comments/bba6g6/best_lovelace_card_to_host_urls_to_other_docker/
+
 #### Cool themes and configs
 How to add theme: https://www.juanmtech.com/themes-in-home-assistant/
 https://github.com/SilvrrGIT/HomeAssistant

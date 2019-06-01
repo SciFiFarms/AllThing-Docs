@@ -10,6 +10,29 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+## Dashboards
+### Prometheus
+https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana
+
+### Nextcloud
+https://grafana.com/dashboards/9632
+
+### VerneMQ
+https://github.com/vernemq/vernemq/blob/master/metrics_scripts/grafana/VerneMQ%20Node%20Metrics.json
+
+### node-exporter and cadvisor
+https://grafana.com/dashboards/893
+
+### node-exporter
+https://grafana.com/dashboards/6490
+---
+
+## Datasources (Used for [provisioning](https://grafana.com/docs/administration/provisioning/#datasources))
+### Prometheus 
+https://grafana.com/docs/features/datasources/prometheus/
+
+---
+
 ### Importing Prometheus dashboards into Grafana
 https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana
 https://grafana.com/blog/2018/11/01/pro-tips-using-prometheus-and-grafana-for-monitoring-power-usage/

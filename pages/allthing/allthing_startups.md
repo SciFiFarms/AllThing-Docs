@@ -18,11 +18,34 @@ https://www.hortidaily.com/article/9096480/when-is-the-best-time-to-sign-a-fixed
 https://www.hortidaily.com/article/9062846/calculating-how-various-decisions-will-influence-the-climate-in-the-greenhouse/
 https://www.npr.org/sections/thesalt/2019/03/17/700715793/why-are-so-many-farmers-markets-failing-because-the-market-is-saturated
 
+
+## Farmer's markets
+https://www.profitableplantsdigest.com/9-tips-for-selling-your-crops-at-farmers-markets/
+---
+
+
+## Restraunts
+https://www.profitableplantsdigest.com/selling-your-fresh-produce-to-restaurants/
+https://www.thebalancesmb.com/how-to-sell-organic-farm-goods-to-local-restaurants-2538100
+---
+
+
+## Market research
+https://www.hortidaily.com/article/9103958/top-us-commodities-featured-this-week/
+https://www.hortidaily.com/article/9108109/us-2018-production-of-fresh-vegetables-decreased/
+https://www.restaurantnewsresource.com/HNR-category-category-Trends.html
+https://www.uaf.edu/files/snre/MP_06_02.pdf
+---
+
+
 ### How to contribute to open source projects: Decent list of things outside of programming. Target these specifically. 
 https://www.forbes.com/sites/jasonevangelho/2019/05/13/8-ways-contribute-desktop-linux-community-marketing-documentation-art-testing/
 
 ### Why agile/scrum are terrible:
 https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
+
+### Fake Agile
+https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/
 
 ### Inventrepreneurship: I took an idea to mass production with less than $6,000 (including biz filing and website fees) and turned it into a $5k/week profit business in 10 months. Here's MY process to get a simple invention from idea to mass production.
 https://old.reddit.com/r/Entrepreneur/comments/9n8xyj/inventrepreneurship_i_took_an_idea_to_mass/
@@ -60,6 +83,9 @@ https://hackernoon.com/why-do-startups-fail-a-postmortem-of-256-failed-startups-
 ### DevOps myths (Culture and collaboration)
 https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/The-DevOps-encompasses-culture-and-collaboration-myth-destroyed
 
+### Design systems (DevOps for graphic design?)
+https://medium.com/code-build/why-design-systems-are-going-to-shape-the-internet-b87dfa2657e3
+
 ### The Neomonolith
 https://inconshreveable.com/10-07-2015/the-neomonolith/
 
@@ -92,6 +118,12 @@ https://exygy.com/which-license-should-i-use-mit-vs-apache-vs-gpl/
 ### The Don'ts of Software Engineering: Good list of things to avoid.
 https://www.imaginarycloud.com/blog/the-donts-of-software-engineering/
 
+### Consider Accessibility in web designs
+https://www.w3.org/standards/webdesign/accessibility
+
+### DataOps
+https://towardsdatascience.com/the-rise-of-dataops-from-the-ashes-of-data-governance-da3e0c3ac2c4
+
 ### Learning Agility 
 https://focus.kornferry.com/leadership-and-talent/the-organisational-x-factor-learning-agility/
 
@@ -123,6 +155,15 @@ https://www.reddit.com/r/devops/comments/b8sl70/devops_estimating_sprints_with_s
 ### Book on IT/Dev ops culture
 https://cdn.chrisshort.net/open_org_it_culture.pdf
 
+### Thoughts on incident severity levels
+https://www.adaptivecapacitylabs.com/blog/2019/05/20/the-negotiability-of-severity-levels/
+
+### Vertical farms improve the area
+https://www.gavop.com/b/vertical-farming-urban-areas-are-adding-value-real-estate-cm922/
+
+### Information on junk science
+https://thewalrus.ca/the-rise-of-junk-science/
+
 ### Importance of one on ones:
 https://css-tricks.com/the-importance-of-one-on-ones/
 
@@ -149,6 +190,9 @@ https://hbr.org/2019/02/making-learning-a-part-of-everyday-work
 
 ### Why Use GraphQL:
 https://webapplog.com/graphql/
+
+### Wellbeing budget
+https://thehill.com/policy/international/446254-new-zealand-government-to-prioritize-well-being-over-economic-growth-in
 
 ### Why are we still promoting incompetent men 
 https://hbr.org/ideacast/2019/03/why-are-we-still-promoting-incompetent-men

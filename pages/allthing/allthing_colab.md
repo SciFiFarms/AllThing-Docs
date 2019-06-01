@@ -85,6 +85,7 @@ https://www.hortidaily.com/article/44861/Miniature-greenhouse-enters-star-restau
 https://www.hortidaily.com/article/9090278/us-nj-hydroponic-farm-helps-adults-with-autism-find-jobs/
 https://www.hortidaily.com/article/9089799/us-co-how-an-urban-farm-is-turning-lawns-into-lettuce/
 https://www.hortidaily.com/article/9088447/china-rapid-price-increase-for-peppers-is-due-to-declining-import-volumes/
+https://www.hortidaily.com/article/9107080/us-nc-vertical-farm-in-former-factory-site-doubling-in-production-capacity/
 
 ### Potential source of ideas
 https://www.hortidaily.com/article/45117/Growing-crops-with-roots-in-the-mist/
@@ -95,6 +96,10 @@ https://www.localharvest.org
 
 ### Very similar project to TechnoCore
 https://github.com/norweeg/self-hosted-docker-server-templates
+https://www.instructables.com/id/Cube-Farm-a-Modular-Open-Source-Agriculture-Platfo/
+https://andrewaadland.me/2018/01/18/hosting-your-own-cloud/
+https://github.com/imixs/imixs-cloud
+https://github.com/stefanprodan/swarmprom
 
 ## Grants
 https://innovation.wfp.org/apply
@@ -108,6 +113,10 @@ https://www.hortidaily.com/article/9074568/ca-on-governments-set-date-for-fundin
 https://www.hortidaily.com/article/9065309/can-on-provincial-government-helps-young-growers-start-business/
 https://www.hortidaily.com/article/9091870/us-14-million-available-to-help-train-the-next-generation-of-farmers/
 https://www.hortidaily.com/article/9090257/new-high-tech-consortium-develops-crops-for-indoor-agriculture/
+---
+
+### CO2 Capture
+https://news.engineering.utoronto.ca/out-of-thin-air-new-electrochemical-process-shortens-the-path-to-capturing-and-recycling-co2/
 ---
 
 https://forum.openag.media.mit.edu/t/proof-of-concept-for-how-kids-could-program-food-computers/4801
@@ -136,6 +145,10 @@ https://www.hortidaily.com/article/9096367/can-on-u-of-t-centennial-college-part
 
 https://www.hortidaily.com/article/9070054/autonomous-cultivation-is-going-to-be-the-basis-of-climate-control/
 
+https://osseeds.org/about/
+https://blog.strainly.io/2018/11/11/open_source_cannabis_breeding-part-2/
+https://www.reddit.com/r/linux/comments/bnhqlt/open_source_botany/
+
 https://www.hortidaily.com/article/9097813/astronauts-might-soon-grow-space-tomatoes/
 
 https://interestingengineering.com/13-vertical-farming-innovations-that-could-revolutionize-agriculture
@@ -157,6 +170,10 @@ https://mail.google.com/mail/u/0/#inbox/FMfcgxwBTshfXFHzHZbMNWZHbBkhmrhR
 http://www.autonomousgreenhouses.com/
 
 infarm.de/#what-we-do
+
+https://www.feedthefuture.gov/
+
+https://arstechnica.com/science/2019/05/chemically-treated-wood-could-send-excess-heat-to-space/
 
 biggreen.org/where-were-growing/denver-front-range
 
@@ -242,6 +259,14 @@ wur.nl/en/Education-Programmes/Current-Students/Student-Challenge/Could-you-desi
 
 https://www.indiegogo.com/projects/growstrip-by-grow-computer?secret_perk_token=065fb779#/updates/all
 
+https://drive.google.com/file/d/1rqabGWPq5gtiMcj5I6mA4vhUrffrM_K2/view
+
+http://climatesmartfarming.org/
+
+https://www.frogponics.com/
+
+https://hort.cals.cornell.edu/about/
+
 https://forum.openag.media.mit.edu/t/peter-webb-backround-ama/3678
 
 http://alexgrowsup.com/2018/06/03/amis-farm-lab/
@@ -253,6 +278,7 @@ https://www.reddit.com/r/aeroponics/comments/bqypdg/pump_suggestions_and_an_idea
 https://knowledge.farm/
 
 ### Articles about farming of the future
+https://www.precht.at/the-farmhouse/
 https://grist.org/article/the-open-source-movement-to-hack-your-arugula/
 https://www.theatlantic.com/business/archive/2018/02/vertical-farming-houston/552665/
 https://www.ryanmercer.com/ryansthoughts/2018/7/8/tackling-the-problem-of-food-production
@@ -268,6 +294,9 @@ https://www.hortidaily.com/article/9084108/innovating-for-controlled-environment
 https://www.hortidaily.com/article/9095738/optimising-the-modern-farm-with-leds/
 https://blog.growlink.com/growing-up-instead-of-out
 https://www.dezeen.com/2019/03/07/vertical-farming-agriculture-architecture-cities-chris-precht/
+https://citi.io/2019/04/08/three-ways-cities-can-help-feed-the-world-without-costing-the-earth/
+https://www.hortidaily.com/article/9102799/growing-up-instead-of-out/
+https://www.hortidaily.com/article/9108440/a-full-view-of-your-farm-all-on-one-platform/
 
 
 

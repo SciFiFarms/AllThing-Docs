@@ -44,6 +44,12 @@ https://www.hortidaily.com/article/45648/The-newest-technology-in-lighting-your-
 ### Cheaper Quantum meters
 https://www.specmeters.com/lightmeters/quantum-meters/
 
+### Good example on how to test lights
+https://ledgardener.com/hands-on-review-elr-45/
+
+### Calculating lighting costs/savings
+https://cals.arizona.edu/research/kubota/Site/Publications_files/Kubota%20Poster%20ISHS%202016%20light.pdf
+
 ### Red vs blue light
 https://www.youtube.com/watch?v=sfihE4IuFuU
 
@@ -104,5 +110,8 @@ https://www.extension.purdue.edu/extmedia/HO/HO-238-W.pdf
 
 ### Comparison grows
 https://www.reddit.com/r/microgrowery/comments/bavkn8/led_comparison_grow_day_43_final_veg_update/
+
+### Light level impacts on melatonin supression
+https://www.pnas.org/content/early/2019/05/20/1901824116
 
 {% include links.html %}

@@ -13,22 +13,77 @@ folder: allthing
 ### Homepage
 https://prometheus.io/
 
-### Monitoring Vernemq with Prometheus
-https://vernemq.com/docs/monitoring/prometheus.html
+### Github
+https://github.com/prometheus/prometheus
+Dockerfile: https://github.com/prometheus/prometheus/blob/master/Dockerfile
+
+## Settings
+### external-url: Modify path (Add /health/)
+https://www.robustperception.io/using-external-urls-and-proxies-with-prometheus
+---
+
+## Exporters
+### Vernemq
+https://docs.vernemq.com/monitoring/prometheus
+
+### Nextcloud
+https://hub.docker.com/r/xperimental/nextcloud-exporter
+
+### cAdvisor (Containers)
+https://prometheus.io/docs/guides/cadvisor/
+
+### SNMP
+https://github.com/prometheus/snmp_exporter
+Old, but ddwrt specific: https://github.com/daenney/ddwrt-snmp_exporter
+https://povilasv.me/prom-node-exporter-on-a-router/
+
+### Home Assistant
+https://www.home-assistant.io/components/prometheus/
+
+### OpenLDAP
+https://github.com/tomcz/openldap_exporter
+
+### Swarm (cAdvisor, node-exporter, others)
+https://ralph.blog.imixs.com/2019/01/29/monitoring-docker-swarm/
+https://github.com/stefanprodan/swarmprom
+https://medium.com/@DazWilkin/docker-swarm-and-prometheus-fd19462f1bf8
+
+### Docker - requires experimental
+https://docs.docker.com/config/thirdparty/prometheus/
+---
 
 ### Grafana - Visualizer
 https://prometheus.io/docs/visualization/grafana/
 ### A REALLY good example of IoT + Prometheus + Grafana
 https://grafana.com/blog/2018/11/01/pro-tips-using-prometheus-and-grafana-for-monitoring-power-usage/
 
+### Cortex brings some interesting offerings to Prometheus
+https://www.cncf.io/blog/2018/12/18/cortex-a-multi-tenant-horizontally-scalable-prometheus-as-a-service/
+
+### Thanos is another solution to scale Prometheus
+https://improbable.io/blog/thanos-prometheus-at-scale
+
 ### List of default ports
 https://github.com/prometheus/prometheus/wiki/Default-port-allocations
+
+### Example Prometheus exporter written in go
+https://github.com/ejhsu/go-prometheus-exporter
+
+### A good example of how to use metadata to scrape with prometheus
+https://www.elastic.co/blog/elasticsearch-observability-embracing-prometheus-and-openmetrics-standards-for-metrics
 
 ### Article about GitLabs use + links to their dashboard
 https://about.gitlab.com/2018/09/27/why-all-organizations-need-prometheus/
 
 ### Getting started with Prometheus
 https://opensource.com/article/18/12/introduction-prometheus
+
+### Using InfluxDB with Prometheus
+https://www.percona.com/live/e17/sessions/using-prometheus-with-influxdb-for-metrics-storage
+https://docs.influxdata.com/influxdb/v1.7/supported_protocols/prometheus/
+
+### Blog has some good examples of HA designs
+https://prometheus.io/blog/
 
 ### High Availability:
 https://blog.timescale.com/prometheus-ha-postgresql-8de68d19b6f5
@@ -45,12 +100,7 @@ https://itnext.io/prometheus-with-alertmanager-f2a1f7efabd6
 ### Monitoring Prometheus with Ansible
 https://itnext.io/monitoring-with-prometheus-using-ansible-812bf710ef43
 
-
-
-
-
 ### Monitoring microservices with Prometheus
 https://container-solutions.com/microservice-monitoring-with-prometheus/
-
 
 {% include links.html %}

@@ -12,6 +12,9 @@ folder: plants
 ### GREAT overview of considerations and stages of seedlings
 https://university.upstartfarmers.com/blog/achieve-your-best-ever-hydroponic-germination-rates
 
+### Coco coir vs rockwoll
+https://www.mmjdaily.com/article/9102892/coco-coir-vs-rockwool/
+
 ### Reddit's favorite seed company
 https://www.reddit.com/r/gardening/comments/5jdibg/favorite_seed_companies/
 
@@ -38,20 +41,36 @@ https://www.reddit.com/r/coolguides/comments/bpyj5u/soft_berry_fruits/
 ### Wheat
 https://heated.medium.com/rethinking-gluten-free-9af692cebe3d
 
+### Corn
+https://www.hortidaily.com/article/9107354/turkey-tomato-grower-makes-lucrative-switch-to-greenhouse-corn/
+
 ### Cannabis list
 https://www.reddit.com/r/microgrowery/comments/y7xrv/the_official_microgrowery_seedbank_thread_the/
 http://catnews.org/FREE%20Pot%20Books/
 https://blog.growlink.com/keepingthebugsatbay-0?utm_campaign=Blogs&utm_source=hs_email&utm_medium=email&utm_content=70541104&_hsenc=p2ANqtz-_4HT_T7i41nS-mrLX9unIpzbR6jcvE7ffC7vBhBWXmGSVkJSPriS3GSzUxbdC7OCB7u-YmhI8tCjCFzHCC0wmiKCLlArn4SN_9gkZraBsOrP1KP1k&_hsmi=70541104
 https://www.hortidaily.com/article/9063176/with-this-system-we-can-maximize-production-yields-and-product-quality/
+https://www.reddit.com/r/SpaceBuckets/comments/bs2xnq/strains_for_a_confined_space/
+https://www.youtube.com/watch?v=ip3_OskSeOg&feature=youtu.be
+https://www.reddit.com/r/microgrowery/comments/btpk66/final_list_review_before_purchasing_indoor_tent/
+https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/12125/Stemeroff_Jonathan_201712_Msc_with_erratum.pdf?sequence=8&isAllowed=y
 
 ### Growing seasons for many foods
 https://www.reddit.com/r/coolguides/comments/bnjm4z/peak_growing_seasons_for_fruits_and_vegetables/
+
+### Potatoes
+http://digg.com/video/worlds-most-expensive-potatoes
+https://vcru.wisc.edu/spoonerlab/pdf/Potato%20Atlas%20Final.pdf
+http://www.curzio.com/N/PotatoCatalog.htm
+https://www.potatopro.com/news/2009/create-your-own-bonnotte-and-charge-potato-price-you-want
+https://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=search&rurl=translate.google.com&sl=fr&sp=nmt4&u=https://www.lanoirmoutier.com/la-primeur/les-varietes/la-bonnotte-de-noirmoutier/&xid=17259,15700002,15700021,15700186,15700190,15700256,15700259&usg=ALkJrhgaKDBIxMo4LasznyV3I_T5DL8d2Q
+https://www.tribuneindia.com/news/haryana/karnal-research-centre-to-grow-potato-without-soil/777062.html
 
 ### Tomatos
 https://www.hortidaily.com/article/44304/Tomatoes-with-a-Western-Asian-background/
 https://www.hortidaily.com/article/9093848/meet-the-willy-wonka-of-tomatoes/
 Prices going up: https://www.hortidaily.com/article/9097376/tomato-prices-could-shoot-up-40-to-85-if-u-s-puts-duties-on-mexican-tomatoes/
 https://www.hortidaily.com/article/45035/US-(IL)-University-researches-health-benefits-of-heirloom-tomatoes/
+https://www.hortidaily.com/article/9108131/saturation-of-the-tomato-market/
 
 ### Dock - Related to rhubarb
 https://www.thespruceeats.com/everything-to-know-dock-rumex-species-3984477
@@ -75,6 +94,9 @@ https://www.hortidaily.com/article/9032286/research-with-blackberries-and-raspbe
 https://www.hortidaily.com/article/9089762/to-grow-in-bags-or-in-containers-that-s-the-question/
 
 ### Strawberries
+GREAT resource | How the strawberry became America’s most unsustainable fruit: https://www.youtube.com/watch?v=jw450vkIwQE&feature=youtu.be 
+https://extension.unh.edu/resources/files/Resource007429_Rep10703.pdf
+https://www.hortidaily.com/article/9101258/essentials-for-growing-hydroponic-strawberries-successfully/
 https://www.thenational.ae/uae/environment/new-farming-method-to-grow-strawberries-in-dubai-bears-fruit-1.775255
 https://www.hortidaily.com/article/9066985/multilayer-strawberry-cultivation-growing-300-more-strawberries-all-year-round/
 https://www.hortidaily.com/article/9020348/Cutting-two-hectares-of-strawberry-plants-in-one-day/
@@ -92,12 +114,20 @@ https://www.hortidaily.com/article/9063057/focus-on-light-at-four-layer-strawber
 https://www.hortidaily.com/article/9087863/grocery-store-secrets-techniques-for-year-round-strawberries-in-britain/
 https://www.hortidaily.com/article/9085272/strategies-based-on-the-consumer-to-enhance-the-value-of-made-in-italy-strawberry/
 https://www.hortidaily.com/article/9098424/chinese-white-strawberries-sold-for-record-price/
+https://www.hortidaily.com/article/9099649/us-strawberry-establishment-and-production-enterprise-budget/
+https://www.hortidaily.com/article/9103377/overview-global-strawberry-market/
+https://www.hortidaily.com/article/9103436/italy-shortage-of-labor-in-the-strawberry-sector/
+https://www.hortidaily.com/article/9105911/timelapse-scottish-strawberries-in-a-vertical-farm/
+https://www.hortidaily.com/article/9107675/rains-will-put-pressure-on-california-strawberry-supplies/
+https://www.hortidaily.com/article/9100748/russia-novosibirsk-scientists-grow-strawberries-with-aeroponics/
+https://www.hortidaily.com/article/9102317/benefits-of-growing-strawberries-under-low-tunnels/
 
 ###
 https://www.hortidaily.com/article/9071669/new-generation-of-substrate-pots-helps-to-meet-global-demand-for-soft-fruit/
 
 ### Cucumbers
 https://www.hortidaily.com/article/45112/Can-artificial-intelligence-do-as-well-as-farmers-in-the-future/
+https://www.hortidaily.com/article/9108293/urea-addition-promotes-metabolism-and-utilization-of-nitrogen-in-cucumber/
 
 ### Lettuce
 Has sqft and production amount: https://www.hortidaily.com/article/44570/Inside-Chinas-smart-vegetable-farm/
@@ -107,6 +137,7 @@ https://www.hortidaily.com/article/9062625/uk-diseases-of-lettuce-crops-guide/
 https://www.hortidaily.com/article/9078716/automating-photoperiod-and-dli-for-perfect-baby-greens-year-round/
 https://www.hortidaily.com/article/44233/Scientific-proof-of-dissolved-CO2-foliar-spray-plant-benefits-on-lettuce/
 https://www.hortidaily.com/article/9087905/ikea-harvest-first-lettuce-from-stores-helsingborg-and-malmoe/
+https://www.hortidaily.com/article/9108287/exogenous-application-of-amino-acids-improves-growth-and-yield-of-lettuce/
 
 ### Rocket
 https://www.hortidaily.com/article/9057724/we-actually-just-followed-along-with-the-growth-of-the-market/
@@ -164,12 +195,29 @@ https://agfstorage.blob.core.windows.net/misc/FP_com/2019/04/23/Mush460000.jpg
 https://forum.openag.media.mit.edu/t/mushrooms-shroom-farm/4794
 https://github.com/futureag/blog/wiki/Growing_Mushrooms
 https://github.com/futureag/blog/wiki/Shroom-Farm
+https://www.greenmatters.com/news/2017/10/04/EoNOt/plastic-mushroom-waste
+https://www.youtube.com/watch?v=gajEtR--GCg
+https://www.wired.com/2014/12/mini-farm-produces-food-plastic-eating-mushrooms/
+https://www.hortidaily.com/article/9105877/netherlands-short-course-growing-edible-mushrooms/
+https://www.hortidaily.com/article/9109918/smallhold-distributing-fresh-produce/
+http://smallfarms.cornell.edu/2019/05/30/upcoming-mushroom-webinar-to-feature-budget-tools-and-more/
+https://thegreentemple.net/articles/mycelium-the-future-is-fungi
+
 
 ### Asian herbs
 https://www.hortidaily.com/article/9053943/popularity-of-asian-cuisine-drives-demand-for-asiatic-herbs/
 
+### Cycad
+http://digg.com/video/cycad-poison-japan
+
 ### Bok Choy is a strong market
 https://www.hortidaily.com/article/9097087/planting-gaps-will-strain-california-bok-choy-supplies/
+
+### Coriander
+https://www.hortidaily.com/article/9099288/optimization-of-photosynthetic-photon-flux-density-and-root-zone-temperature-in-coriander/
+
+### Saffron
+https://www.hortidaily.com/article/9102333/testing-saffron-in-hydroponic-cultivation/
 
 ### LED Guide to ornamentals
 https://www.lumigrow.com/applied-researches/led-growers-guide-ornamentals/

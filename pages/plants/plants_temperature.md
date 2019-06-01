@@ -16,4 +16,7 @@ https://platformio.org/lib/show/782/Adafruit%20MLX90614%20Library
 https://platformio.org/lib/show/4078/Digital%20Infrared%20Temperature%20Sensor%20MLX90615
 https://platformio.org/lib/show/2084/SparkFun%20MLX90632%20Noncontact%20Infrared%20Temperature
 
+### Importance of heat mapping
+https://www.hortidaily.com/article/9100690/climate-heat-mapping-for-indoor-growing-environments/
+
 {% include links.html %}

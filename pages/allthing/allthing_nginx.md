@@ -84,4 +84,7 @@ https://www.nginx.com/blog/nginx-and-iot-adding-protocol-awareness-for-mqtt/
 http://pankajmalhotra.com/Websockets-SSL-TLS-Termination-Using-NGINX-Proxy
 http://nginx.org/en/docs/http/websocket.html
 
+### Alternatives to NGINX (Traefik, HAProxy)
+https://caylent.com/kubernetes-top-ingress-controllers/
+
 {% include links.html %}

@@ -16,6 +16,9 @@ https://www.ansible.com/blog/getting-started-writing-your-first-playbook
 ### Manage workstation with Ansible
 https://opensource.com/article/18/3/manage-workstation-ansible
 
+### The book for using Ansible
+https://www.ansiblefordevops.com/
+
 ### Deployment Strategies using Ansible
 https://opensource.com/article/19/1/automating-deployment-strategies-ansible
 
