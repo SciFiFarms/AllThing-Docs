@@ -29,4 +29,7 @@ https://www.clearpvcpipe.com/
 https://www.usplastic.com/
 https://www.plumbingsupply.com/
 
+### Some thoughts on framing with PVC
+https://www.reddit.com/r/DIY/comments/bvj573/attaching_a_board_inbetween_pipes_without/
+
 {% include links.html %}

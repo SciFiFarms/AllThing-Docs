@@ -10,8 +10,12 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Swarm is not dead!
+https://www.bretfisher.com/is-swarm-dead-answered-by-a-docker-captain/
+
 ### Seriously. Use OpenShift:
 https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/
+https://developers.redhat.com/books/openshift-developers-guide-impatient-beginners/
 
 ### GitOps with Flux
 https://github.com/weaveworks/flux

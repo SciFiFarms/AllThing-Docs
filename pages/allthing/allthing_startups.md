@@ -37,6 +37,8 @@ https://www.restaurantnewsresource.com/HNR-category-category-Trends.html
 https://www.uaf.edu/files/snre/MP_06_02.pdf
 ---
 
+### YC Playbook
+https://playbook.samaltman.com/
 
 ### How to contribute to open source projects: Decent list of things outside of programming. Target these specifically. 
 https://www.forbes.com/sites/jasonevangelho/2019/05/13/8-ways-contribute-desktop-linux-community-marketing-documentation-art-testing/
@@ -46,6 +48,12 @@ https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-a
 
 ### Fake Agile
 https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/
+
+### How to detect agile BS
+https://thenewstack.io/the-u-s-department-of-defense-on-how-to-detect-agile-bs/
+
+### Why working for a startup doesn't make sense
+https://jatins.gitlab.io/me/why-startup/
 
 ### Inventrepreneurship: I took an idea to mass production with less than $6,000 (including biz filing and website fees) and turned it into a $5k/week profit business in 10 months. Here's MY process to get a simple invention from idea to mass production.
 https://old.reddit.com/r/Entrepreneur/comments/9n8xyj/inventrepreneurship_i_took_an_idea_to_mass/
@@ -61,6 +69,9 @@ https://opensource.com/open-organization/18/10/reconsider-culture-fit
 
 ### Managing by consensus
 https://www.ozy.com/rising-stars/the-office-of-happy-hiring-firing-and-promoting-by-consensus/93072
+
+### Role of a tech lead (Project owner)
+https://github.com/webflow/leadership/blob/master/tech_lead.md
 
 ### A reminder that microservices aren't always the answer.
 https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with
@@ -191,8 +202,17 @@ https://hbr.org/2019/02/making-learning-a-part-of-everyday-work
 ### Why Use GraphQL:
 https://webapplog.com/graphql/
 
+
+## Good Policies
 ### Wellbeing budget
 https://thehill.com/policy/international/446254-new-zealand-government-to-prioritize-well-being-over-economic-growth-in
+
+### Housing first
+https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness
+---
+
+### Thoughts on how to make a self managed service people actually like
+https://www.cloudforecast.io/blog/interview-gitlab-self-managed-saas/
 
 ### Why are we still promoting incompetent men 
 https://hbr.org/ideacast/2019/03/why-are-we-still-promoting-incompetent-men

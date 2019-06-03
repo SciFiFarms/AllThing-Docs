@@ -93,6 +93,7 @@ https://github.com/markusschanta/awesome-jupyter
 https://github.com/r0f1/datascience
 https://github.com/teoga/awesome-product-design
 https://github.com/0xInfection/Awesome-WAF
+https://medium.com/@writetomiglani/how-to-ace-the-certified-kubernetes-administrator-exam-in-7-days-e4603ac40746
 
 
 ### Hardware
@@ -160,6 +161,7 @@ IoT blinds: https://www.instructables.com/id/AutoBlinds-DIY-Automation-for-Verti
 2 stage water rocket: http://digg.com/video/building-a-water-rocket
 Kobo was the ereader to hack: https://www.reddit.com/r/linux/comments/bs2vnr/do_you_know_of_any_hackableopensource_based_ebook/
 Cloud lights: https://www.youtube.com/watch?v=07m0e7NwzKc&feature=youtu.be
+Monitor a dryer: https://www.reddit.com/r/homeassistant/comments/bwa12n/the_new_ct_clamp_sensor_in_esphome_makes_this_easy/
 
 ## ERP
 
@@ -273,6 +275,9 @@ https://github.com/joewalnes/websocketd
 ### Front End Handbook 2019 
 https://github.com/FrontendMasters/front-end-handbook-2019
 
+### Microsoft Frontend Bootcamp
+https://github.com/Microsoft/frontend-bootcamp
+
 ### Space Cloud: Middle layer between frontend and database - no backend needed
 https://github.com/spaceuptech/space-cloud
 
@@ -302,6 +307,12 @@ https://github.com/imfunniee/gitfolio
 https://djangobook.com/mdj2-django-structure/
 
 ## Photo galleries
+### Digikam (Desktop & Docker)
+https://hub.docker.com/r/rpufky/digikam
+
+### OwnPhotos
+https://github.com/hooram/ownphotos
+
 ### Photoswipe
 https://photoswipe.com/
 

@@ -224,4 +224,8 @@ https://www.lumigrow.com/applied-researches/led-growers-guide-ornamentals/
 
 ### Roses
 https://www.hortidaily.com/article/9095769/russian-greenhouse-switches-from-vegetables-to-roses/
+
+### Dye garden
+https://trello.com/b/I22pmK2M/gardening-dyeing
+
 {% include links.html %}

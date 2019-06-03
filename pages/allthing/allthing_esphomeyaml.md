@@ -101,7 +101,7 @@ https://esphomelib.com/esphomeyaml/guides/faq.html?highlight=include
 Here is a page about them:
 https://www.home-assistant.io/docs/configuration/splitting_configuration/
 
-### Teckin with EspHome - GREAT 
+### Teckin with ESPHome - GREAT 
 https://blog.quindorian.org/2019/02/home-assistant-10-wifi-energy-meter-with-esphome.html/
 
 
