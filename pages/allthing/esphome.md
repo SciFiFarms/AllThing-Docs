@@ -5,19 +5,19 @@ summary: "Summary"
 series: "ACME series"
 weight: 3
 sidebar: allthing_sidebar
-permalink: allthing_esphomeyaml.htm
+permalink: esphome.htm
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
 ### Creating your own HAL templates
-You'll need to mount the /config folder to esphomeyaml/config. There is already 
-an entry in .env, you'll just have to comment out the bottom reference esphomeyaml_live_mount. 
-In production, the esphomeyaml/config folder isn't created, so you'll have to run ```mkdir -p esphomeyaml/config``` 
+You'll need to mount the /config folder to esphome/config. There is already 
+an entry in .env, you'll just have to comment out the bottom reference esphome_live_mount. 
+In production, the esphome/config folder isn't created, so you'll have to run ```mkdir -p esphome/config``` 
 from the technocore folder. 
 
 ### Repo
-https://github.com/OttoWinter/esphomeyaml
+https://github.com/esphome/esphome
 
 ---
 ## Useful Docs pages
@@ -81,7 +81,7 @@ https://esphome.io/components/sensor/index.html#sensor-filter-calibrate-linear
 https://esphome.io/components/sensor/homeassistant.html
 ---
 
-### Introduction on using esphomeyaml with Home Assistant
+### Introduction on using ESPHome with Home Assistant
 https://www.home-assistant.io/blog/2018/06/05/esphomelib/
 
 ### I needed to increase the number of inotify watchers in order to get Guard to work: 
@@ -93,10 +93,10 @@ https://esphomelib.com/esphomeyaml/components/sensor/hx711.html?highlight=calibr
 ### How to use specific esphome-core version.
 https://esphome.io/components/esphomeyaml#esphomeyaml-esphomelib-version
 
-### A little about setting up esphomeyaml as a stand alone service.
+### A little about setting up ESPHome as a stand alone service.
 https://community.home-assistant.io/t/esphomelib-help-docker/62383/10
 
-### Esphomeyaml supports most of Home Assistant's !directives (!include, !secret... etc.). 
+### ESPHome supports most of Home Assistant's !directives (!include, !secret... etc.). 
 https://esphomelib.com/esphomeyaml/guides/faq.html?highlight=include
 Here is a page about them:
 https://www.home-assistant.io/docs/configuration/splitting_configuration/
