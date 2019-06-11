@@ -61,6 +61,9 @@ https://old.reddit.com/r/Entrepreneur/comments/9n8xyj/inventrepreneurship_i_took
 ### Why go all remote:
 https://about.gitlab.com/2018/10/18/the-case-for-all-remote-companies/
 
+### Benefits and const of corporate open source
+https://increment.com/open-source/the-benefits-and-costs-of-corporate-open-source/
+
 ### Large lists of applications for each stage of a devops pipeline
 https://opensource.com/article/19/4/devops-pipeline
 
@@ -159,6 +162,11 @@ https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/
 ### DevOps Team structure:
 https://web.devopstopologies.com/
 
+### What is DevOps:
+https://queue.acm.org/detail.cfm?ref=rss&id=3338532
+https://devopsish.com/what-is-devops/?utm_source=DevOps%27ish&utm_campaign=800ec54a93-DEVOPSISH_131&utm_medium=email&utm_term=0_eab566bc9f-800ec54a93-46457727
+https://opensource.com/article/19/5/defining-devops-layers?utm_source=DevOps%27ish&utm_campaign=7a15035235-DEVOPSISH_130&utm_medium=email&utm_term=0_eab566bc9f-7a15035235-46457727
+
 ### A discussion on why story points are better than hours estimation.
 My take away was that using story points, we can look at the past and say I can do X story points in 2 weeks. 
 https://www.reddit.com/r/devops/comments/b8sl70/devops_estimating_sprints_with_story_points/
@@ -209,6 +217,9 @@ https://thehill.com/policy/international/446254-new-zealand-government-to-priori
 
 ### Housing first
 https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness
+
+### Paying to convert farm land to forest
+https://www.intelligentliving.co/costa-rica-forest-cover/
 ---
 
 ### Thoughts on how to make a self managed service people actually like

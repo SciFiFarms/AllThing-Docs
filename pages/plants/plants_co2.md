@@ -21,6 +21,7 @@ https://www.hortidaily.com/article/44689/How-growers-can-take-advantage-of-CO2-e
 ### CO2 effects on people. REALLY interesting.
 https://www.youtube.com/watch?v=1Nh_vxpycEA
 https://www.nytimes.com/2019/05/06/health/conference-room-air.html
+https://www.washingtonpost.com/business/2019/06/06/why-crowded-meetings-conference-rooms-make-you-so-so-tired/
 
 ### ESPHome Documentation: 
 https://esphome.io/components/sensor/mhz19.html?highlight=component

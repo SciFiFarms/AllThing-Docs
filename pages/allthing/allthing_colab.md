@@ -115,8 +115,21 @@ https://www.hortidaily.com/article/9091870/us-14-million-available-to-help-train
 https://www.hortidaily.com/article/9090257/new-high-tech-consortium-develops-crops-for-indoor-agriculture/
 ---
 
+## Far out technology
 ### CO2 Capture
 https://news.engineering.utoronto.ca/out-of-thin-air-new-electrochemical-process-shortens-the-path-to-capturing-and-recycling-co2/
+
+### Acoustic cooling
+https://www.aster-thermoacoustics.com/?p=1455
+---
+
+## IoT/Maker Contests
+https://www.google.com/search?client=firefox-b-1-d&q=iot+contests
+https://www.instructables.com/contest/
+https://www.instructables.com/contest/sensors2019/
+https://www.instructables.com/contest/1Hour/
+https://www.instructables.com/contest/classroomscience/
+https://www.instructables.com/contest/iot2019/
 ---
 
 https://forum.openag.media.mit.edu/t/proof-of-concept-for-how-kids-could-program-food-computers/4801
@@ -148,6 +161,9 @@ https://www.hortidaily.com/article/9070054/autonomous-cultivation-is-going-to-be
 https://osseeds.org/about/
 https://blog.strainly.io/2018/11/11/open_source_cannabis_breeding-part-2/
 https://www.reddit.com/r/linux/comments/bnhqlt/open_source_botany/
+
+### Guy from IoT Meetup
+https://yadafaber.com/
 
 https://www.hortidaily.com/article/9097813/astronauts-might-soon-grow-space-tomatoes/
 
@@ -197,6 +213,8 @@ https://www.astroplant.io/join-us/
 community.home-assistant.io/t/my-docker-stack/43548/2
 
 hortidaily.com/article/43684/The-quest-for-knowledge-in-indoor-farming-and-new-crops
+
+https://openthings.io/
 
 hortidaily.com/article/43605/Give-employees-the-chance-to-get-shares-in-the-company
 

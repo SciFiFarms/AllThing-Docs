@@ -90,6 +90,9 @@ https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers
 ### Example calibrating a sensor
 https://esphomelib.com/esphomeyaml/components/sensor/hx711.html?highlight=calibrate
 
+### A sensor with a "baseline" built in for calibration
+https://esphome.io/components/sensor/ccs811.html?highlight=i2c
+
 ### How to use specific esphome-core version.
 https://esphome.io/components/esphomeyaml#esphomeyaml-esphomelib-version
 
@@ -103,7 +106,6 @@ https://www.home-assistant.io/docs/configuration/splitting_configuration/
 
 ### Teckin with ESPHome - GREAT 
 https://blog.quindorian.org/2019/02/home-assistant-10-wifi-energy-meter-with-esphome.html/
-
 
 ### Custom SPI 
 https://esphome.io/custom/spi.html?highlight=spi

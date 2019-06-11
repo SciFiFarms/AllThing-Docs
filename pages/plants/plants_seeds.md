@@ -71,6 +71,10 @@ https://www.hortidaily.com/article/9093848/meet-the-willy-wonka-of-tomatoes/
 Prices going up: https://www.hortidaily.com/article/9097376/tomato-prices-could-shoot-up-40-to-85-if-u-s-puts-duties-on-mexican-tomatoes/
 https://www.hortidaily.com/article/45035/US-(IL)-University-researches-health-benefits-of-heirloom-tomatoes/
 https://www.hortidaily.com/article/9108131/saturation-of-the-tomato-market/
+https://www.reddit.com/r/aeroponics/comments/bweqtw/help_with_tomatoes/
+
+### Bananas
+https://www.reddit.com/r/interestingasfuck/comments/byk0rs/this_is_the_blue_java_banana_famed_for_its/
 
 ### Dock - Related to rhubarb
 https://www.thespruceeats.com/everything-to-know-dock-rumex-species-3984477

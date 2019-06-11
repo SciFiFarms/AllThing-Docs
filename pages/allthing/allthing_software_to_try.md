@@ -77,6 +77,7 @@ https://caylent.com/manage-docker-swarm-using-ansible/
 https://blog.ruanbekker.com/blog/2018/06/14/deploy-docker-swarm-using-ansible/
 https://opensource.com/article/18/12/testing-ansible-roles-molecule
 https://github.com/mdlayher/homelab
+PoleMarch: Ansible GUI: https://www.reddit.com/r/ansible/comments/bxhn52/polemarch_web_gui_for_managing_ansible_playbooks/
 
 ### Awesome Lists
 HUGE list of images: https://github.com/Kickball/awesome-selfhosted
@@ -162,6 +163,7 @@ IoT blinds: https://www.instructables.com/id/AutoBlinds-DIY-Automation-for-Verti
 Kobo was the ereader to hack: https://www.reddit.com/r/linux/comments/bs2vnr/do_you_know_of_any_hackableopensource_based_ebook/
 Cloud lights: https://www.youtube.com/watch?v=07m0e7NwzKc&feature=youtu.be
 Monitor a dryer: https://www.reddit.com/r/homeassistant/comments/bwa12n/the_new_ct_clamp_sensor_in_esphome_makes_this_easy/
+ESP8266 ran watering: https://www.reddit.com/r/DIY/comments/byehfs/how_to_build_a_diy_automatic_plant_watering/
 
 ## ERP
 
@@ -215,6 +217,9 @@ https://www.reddit.com/r/homeassistant/comments/b1xvoh/offlineprivate_voice_comm
 
 ### Anecdata - Citizen scientist data collection
 https://www.anecdata.org/
+
+### OpenFaaS: Opensource serverless 
+https://www.openfaas.com/blog/serverless-single-page-app/
 
 ### Swell.sh: Nicer SSH on phones
 https://github.com/wcchoi/swell.sh
@@ -526,6 +531,9 @@ https://opensource.com/article/19/2/manipulating-pdfs-linux
 ### List of features to look for in a monitoring tool:
 https://www.bluematador.com/blog/what-to-expect-from-a-next-gen-monitoring-tool-blue-matador-2018-review
 
+### Monitoring books:
+https://www.reddit.com/r/devops/comments/bymsut/devops_dashboard_best_practices/
+
 ### Books that every programmer (of every type) should read
 https://medium.com/@shvetsovdm/essential-books-that-every-programmer-should-read-a61565095781
 
@@ -542,6 +550,10 @@ https://github.com/timvisee/ffsend
 https://cdn2.hubspot.net/hubfs/498921/eBooks/DevOps%20for%20the%20Database.pdf
 
 # Tutorials:
+
+### Large list of educational content
+https://www.reddit.com/r/coolguides/comments/bytt8o/the_last_ultimate_guide_looked_outdated_so_i/
+
 ### So you want to learn to code (10 Lessons and online resources)
 https://tim.blog/2019/03/21/learn-to-code/ 
 ### Open Source CS degree:

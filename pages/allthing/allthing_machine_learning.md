@@ -10,6 +10,9 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Collection of ML models, tips, tricks, etc
+https://github.com/rasbt/deeplearning-models
+
 ### ML version of Pi
 https://project.seeedstudio.com/SeeedStudio/caffe-in-jetson-nano-9f4335
 
@@ -22,6 +25,9 @@ https://learnk8s.io/blog/scaling-machine-learning-with-kubeflow-tensorflow
 ### Resources for learning data science
 https://opensource.com/article/19/2/learn-data-science-ai
 https://github.com/machinelearningmindset/machine-learning-course
+
+### Kendro: Standardized and versioned data pipelines. 
+https://github.com/quantumblacklabs/kedro
 
 ### Automl-gs
 https://github.com/minimaxir/automl-gs

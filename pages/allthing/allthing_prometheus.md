@@ -17,6 +17,9 @@ https://prometheus.io/
 https://github.com/prometheus/prometheus
 Dockerfile: https://github.com/prometheus/prometheus/blob/master/Dockerfile
 
+### Naming things
+https://prometheus.io/docs/practices/naming/
+
 ## Settings
 ### external-url: Modify path (Add /health/)
 https://www.robustperception.io/using-external-urls-and-proxies-with-prometheus
@@ -48,9 +51,17 @@ https://ralph.blog.imixs.com/2019/01/29/monitoring-docker-swarm/
 https://github.com/stefanprodan/swarmprom
 https://medium.com/@DazWilkin/docker-swarm-and-prometheus-fd19462f1bf8
 
+### Discovery
+https://github.com/bborysenko/prometheus-swarm-discovery
+https://hub.docker.com/r/cuigh/prometheus/tags
+https://github.com/prometheus/prometheus/pull/3687/files
+
 ### Docker - requires experimental
 https://docs.docker.com/config/thirdparty/prometheus/
 ---
+
+### Definitive Guide to Prometheus
+http://devconnected.com/the-definitive-guide-to-prometheus-in-2019/
 
 ### Grafana - Visualizer
 https://prometheus.io/docs/visualization/grafana/

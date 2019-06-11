@@ -10,6 +10,12 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Git best practices
+https://sethrobertson.github.io/GitBestPractices/
+
+### Gitslave: manage multiple repos with 1 command
+http://gitslave.sourceforge.net/
+
 ### Link to specific lines of code:
 https://help.github.com/articles/creating-a-permanent-link-to-a-code-snippet/
 
@@ -25,6 +31,9 @@ https://dev.to/shreyasminocha/how-i-do-my-git-commits-34d
 
 ### Git workflow for agile teams
 http://reinh.com/blog/2009/03/02/a-git-workflow-for-agile-teams.html
+
+### How to organize your git branches
+https://dev.to/hardkoded/how-to-organize-your-git-branches-4dci
 
 ### Merge vs rebase in the git workflow
 https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
@@ -125,5 +134,9 @@ https://blog.openshift.com/private-git-repositories-part-1-best-practices/
 
 ### Git for computer scientists (Graphs and algorithms)
 http://eagain.net/articles/git-for-computer-scientists/
+
+### Adding images to GitHub
+Link relative image: \!\[Alt text\]\(relative/path/to/img.jpg?raw=true "Title"\)
+https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 
 {% include links.html %}

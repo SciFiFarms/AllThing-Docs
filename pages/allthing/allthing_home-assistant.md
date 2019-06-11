@@ -23,6 +23,7 @@ https://github.com/ljmerza/ha-email-sensor
 Already setup in Jupyter: https://github.com/robmarkcole/HASS-data-detective
 https://www.reddit.com/r/homeassistant/comments/bmenql/local_api_thermostat_recommendations/
 Auto apply theme: https://community.home-assistant.io/t/make-a-theme-stay-after-reboot-broke-again/106751/13
+Thermostat + heating: https://community.home-assistant.io/t/heaty-a-flexible-heating-control-facilitating-schedules-and-manual-intervention/34958
 
 ## HASS.iokuhh
 ### Reference projects

@@ -10,6 +10,10 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Docker anti-patterns
+https://codefresh.io/containers/docker-anti-patterns/
+https://www.reddit.com/r/devops/comments/bxrz4u/docker_antipatterns/
+
 ### Issue for adding usb device support to Swarm (It's gonna happen!)
 https://github.com/docker/swarmkit/issues/2682
 

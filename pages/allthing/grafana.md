@@ -33,6 +33,15 @@ https://grafana.com/docs/features/datasources/prometheus/
 
 ---
 
+
+## Tips I needed
+Set a specific dashboard as home page: https://stackoverflow.com/questions/48164754/how-to-set-a-dashboards-on-grafana-home-page
+Use $tag_whatever to alias labels in graph: https://stackoverflow.com/questions/42397891/how-to-use-a-influxdb-tag-value-in-a-grafana-legend
+https://github.com/grafana/grafana/issues/525
+Using WHERE LIKE (=~): https://cmikavac.net/2018/03/30/how-to-use-where-like-clause-in-influxdb/
+---
+
+
 ### Importing Prometheus dashboards into Grafana
 https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana
 https://grafana.com/blog/2018/11/01/pro-tips-using-prometheus-and-grafana-for-monitoring-power-usage/
