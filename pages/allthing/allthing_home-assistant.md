@@ -17,6 +17,7 @@ https://www.home-assistant.io/components/calendar.caldav/
 https://www.reddit.com/r/homeassistant/comments/ato1az/my_slate_dark_theme_fully_complete/
 https://www.reddit.com/r/homeassistant/comments/auw5xu/home_assistant_new_user_interface_and_ui_editor/
 https://old.reddit.com/r/homeassistant/comments/awuvc8/advanced_custom_calendar_card_google_calendar/
+https://github.com/danielwelch/coc-homeassistant
 https://www.reddit.com/r/homeassistant/comments/b9vioe/got_home_assistant_to_grab_the_game_info_for_my/
 https://www.reddit.com/r/homeassistant/comments/9ycr63/my_lovelace_frontend/
 https://github.com/ljmerza/ha-email-sensor
@@ -25,7 +26,7 @@ https://www.reddit.com/r/homeassistant/comments/bmenql/local_api_thermostat_reco
 Auto apply theme: https://community.home-assistant.io/t/make-a-theme-stay-after-reboot-broke-again/106751/13
 Thermostat + heating: https://community.home-assistant.io/t/heaty-a-flexible-heating-control-facilitating-schedules-and-manual-intervention/34958
 
-## HASS.iokuhh
+## HASS.io
 ### Reference projects
 Configurator: https://github.com/danielperna84/hass-configurator
 Floorplan with lights that turn on and off: https://community.home-assistant.io/t/floorplan-with-many-lights-in-one-area-say-hello-to-transparent-png-files/90006/14
@@ -71,6 +72,9 @@ https://www.smarthomebeginner.com/best-android-apps-for-home-assistant/
 
 ### Home Assistant JupyterLab:
 https://data.home-assistant.ioouo/docs/quick_start_index
+
+### Stateful automations
+https://webworxshop.com/home-assistant-automation-in-depth-fusing-sensors-together-for-stateful-automations/?pk_campaign=reddit
 
 ## MQTT Sensors
 ### Espurna Integration

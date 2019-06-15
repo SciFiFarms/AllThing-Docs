@@ -12,15 +12,77 @@ folder: allthing
 ### You can comment in markdown! [//] # (You're comment goes here)
 https://grantwinney.com/cool-markdown-tricks-for-github/
 
+## Grav
+### Docs
+https://learn.getgrav.org/16/basics/what-is-grav
+
+### Skeletons: Packages of themes, configs, plugins etc.
+https://getgrav.org/downloads/skeletons
+
+### Themes
+https://rockettheme.com/grav/themes
+https://getgrav.org/downloads/themes
+https://demo.getgrav.org/woo-skeleton/#
+Not exactly a Grav theme, but I liked it: https://bootswatch.com/darkly/
+Another element I liked: https://vue-particles.netlify.com/
+
+### Add Ons
+User management: https://github.com/david-szabo97/grav-plugin-admin-addon-user-manager
+Oauth2: https://github.com/trilbymedia/grav-plugin-login-oauth2
+
+### Hosting
+https://www.kualo.com/webhosting/grav-hosting
+https://www.a2hosting.com/grav-hosting
+---
+
+### Website launching checklists
+https://www.reddit.com/r/coolguides/comments/b4ucou/website_pre_launch_checklist/
+https://www.checklist.design/
+
+## Hugo
 ### Hugo: Developer Tools
 https://gohugo.io/tools/
 
 ### Hugo Documentation
 https://gohugo.io/documentation/
+Templates: https://gohugo.io/templates/introduction/
+
+### Themes
+https://themes.gohugo.io/
+https://github.com/themefisher/meghna-hugo
+https://themefisher.com/products/meghna-free-responsive-one-page-business-template/k
+https://themes.gohugo.io/silhouette-hugo/
+https://themes.gohugo.io/docdock/
+https://themes.gohugo.io/hugo-theme-hello-friend-ng/
+https://themes.gohugo.io/foundation-theme/
+ahttps://themefisher.com/products/phantom-best-bootstrap-portfolio-template/
+
+### Netlify CMS
+https://github.com/netlify/netlify-cms
 
 ### Forestry - CMS for static pages. 
 https://forestry.io/docs/welcome/
 https://forestry.io/docs/quickstart/tour/
+https://github.com/forestryio/forestry.io
+---
+
+
+## Knowledge collection
+### HackMd
+https://github.com/hackmdio/codimd
+https://hackmd.io/
+
+### WikiJS
+https://wiki.js.org/
+https://github.com/Requarks/wiki
+
+### BookStack (Paragraph references?)
+https://www.bookstackapp.com/
+
+### Zettlr
+https://github.com/Zettlr/Zettlr
+---
+
 
 ## How to run Jekyll without the whole TechnoCore
 1. You'll need Docker as well as Docker-Compose
@@ -131,6 +193,9 @@ https://www.digitalocean.com/community/tutorials/controlling-urls-and-links-in-j
 
 ### A better email to link?
 https://mailtoui.com/
+
+### Also Vuepress, but limited themeing
+https://github.com/visualfanatic/vuepress-theme-dark
 
 ### Pages on what formatting to use
 http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/

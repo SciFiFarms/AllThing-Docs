@@ -21,6 +21,8 @@ https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/
 https://www.wireguard.com/
 https://docs.sweeting.me/s/wireguard#
 https://wiki.dd-wrt.com/wiki/index.php/Wireguard
+https://staaldraad.github.io/2017/04/17/nat-to-nat-with-wireguard/
+https://www.linux.org/threads/how-to-create-a-vpn-tunnel-with-wireguard.21496/
 
 ### Sshuttle
 https://news.ycombinator.com/item?id=15773466
@@ -43,6 +45,7 @@ https://www.authy.com/integrations/ssh/
 
 ### Plex, filebot, and bittorrent. The dream setup.
 https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/
+https://www.reddit.com/r/PleX/comments/8t0dyl/how_to_rename_audiobooks_files_and_meta_tags/
 
 ### Great discussion around how to do music management and streaming with Home Assistant
 https://www.reddit.com/r/homeassistant/comments/bcqacy/best_music_home_server_with_ha_integration/
@@ -71,6 +74,8 @@ https://www.loggly.com/blog/how-to-implement-logging-in-docker-with-a-sidecar-ap
 
 ### Free IPA: Seems like group policy for linux. 
 https://www.freeipa.org/page/Main_Page
+https://hub.docker.com/r/freeipa/freeipa-server
+https://www.freeipa.org/page/Dovecot_IMAPS_Integration_with_FreeIPA_using_Single_Sign_On
 
 ### Ansible
 https://caylent.com/manage-docker-swarm-using-ansible/
@@ -146,6 +151,7 @@ https://hackaday.com/2019/05/15/an-open-source-esc-for-brushless-motors/?mc_cid=
 https://project.seeedstudio.com/Yarosia/arduino-growbox-controller-efb9fa
 https://blog.notexpectedyet.com/octoprint-node-red-influxdb-and-grafana/
 https://hackaday.com/2019/02/27/hack-my-house-raspberry-pi-as-a-touchscreen-thermostat/
+https://www.reddit.com/r/DIY/comments/c0lbzb/build_a_diy_self_watering_pot_with_wifi_that/
 Sweet aluminum frame build: https://www.youtube.com/watch?v=hGn9uJVQ-X0
     Canadian Source: https://spool3d.ca/2020-aluminum-extrusion/
 Sweet tips on reducing price of esp+dht22: https://www.reddit.com/r/homeassistant/comments/b1isu5/check_out_my_new_video_diy_10_smart_home_wireless/
@@ -192,6 +198,9 @@ https://github.com/petrk94/ownhealthrecord/blob/master/DeveloperLog.md
 https://openmrs.org/demo/
 ---
 
+### Self hosted setups of 2019. HUGE list of ideas.
+https://www.reddit.com/r/selfhosted/comments/a9r5ux/share_your_self_hosted_setup_2019_edition/
+
 ### Whole home audio
 https://www.reddit.com/r/homeassistant/comments/bnvk3g/best_choice_for_wholehome_audio_system/
 
@@ -214,6 +223,7 @@ https://github.com/satyarohith/shark
 
 ### Alternatives to Google Home + Alexa (AKA Steveland): Snips, Mycroft
 https://www.reddit.com/r/homeassistant/comments/b1xvoh/offlineprivate_voice_commands_alternative_to/
+https://mycroft.ai/
 
 ### Anecdata - Citizen scientist data collection
 https://www.anecdata.org/
@@ -280,6 +290,10 @@ https://github.com/joewalnes/websocketd
 ### Front End Handbook 2019 
 https://github.com/FrontendMasters/front-end-handbook-2019
 
+### CodeSandbox
+https://codesandbox.io/
+https://www.netlify.com/blog/2019/03/26/deploy-codesandbox-to-netlify/
+
 ### Microsoft Frontend Bootcamp
 https://github.com/Microsoft/frontend-bootcamp
 
@@ -304,6 +318,9 @@ https://github.com/seek-oss/playroom
 ### Vue structure
 https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb
 ---
+
+### HTTP Headers for the Responsible Developer
+https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
 
 ### Gitfolio - Portfolio for git repos
 https://github.com/imfunniee/gitfolio
@@ -427,6 +444,13 @@ http://todotxt.org/
 https://notmyfirslanguage.writeas.com/the-road-to-emacs
 
 ## Backup Solutions
+### Borgbackup - Dedups the best
+https://borgbackup.readthedocs.io/en/stable/
+https://github.com/witten/borgmatic
+https://docs.borgbase.com/backup-strategy/steps-with-template/
+Interface to use: https://github.com/borgbase/vorta
+https://www.reddit.com/r/linux/comments/ahpdzk/borgbackup_frontends/
+
 ### 13 Open Source Backup Solutions
 https://opensource.com/article/19/3/backup-solutions
 
@@ -603,6 +627,8 @@ https://pmstarterpack.onfielder.com/
 ### Y Combinator's resources for startup devs
 https://ycombinator.dev/
 
+#### Getting into DevOps Thread June 2019
+https://www.reddit.com/r/devops/comments/bvqyrw/monthly_getting_into_devops_thread_201906/
 
 
 

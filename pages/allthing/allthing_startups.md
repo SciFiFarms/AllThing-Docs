@@ -37,6 +37,25 @@ https://www.restaurantnewsresource.com/HNR-category-category-Trends.html
 https://www.uaf.edu/files/snre/MP_06_02.pdf
 ---
 
+## Crowd funding
+
+### Advice
+https://github.com/nayafia/lemonade-stand
+http://digg.com/2019/patreon-creator-plans-user-interviews
+
+### Platforms
+https://www.bountysource.com/
+https://devflight.com/
+https://www.buymeacoffee.com/robconnolly
+https://github.com/users/TheHackmeister/sponsors/waitlist
+https://opencollective.com/
+
+### Examples
+https://en.tipeee.com/zemarmot
+https://www.patreon.com/zemarmot
+https://www.buymeacoffee.com/robconnolly
+---
+
 ### YC Playbook
 https://playbook.samaltman.com/
 
@@ -138,6 +157,12 @@ https://www.w3.org/standards/webdesign/accessibility
 ### DataOps
 https://towardsdatascience.com/the-rise-of-dataops-from-the-ashes-of-data-governance-da3e0c3ac2c4
 
+### IoT Design Manifesto
+https://www.iotmanifesto.com/
+
+### Automation levels of vertical farming
+https://agfstorage.blob.core.windows.net/misc/HD_com/2019/04/29/opo2big.jpg
+
 ### Learning Agility 
 https://focus.kornferry.com/leadership-and-talent/the-organisational-x-factor-learning-agility/
 
@@ -221,6 +246,12 @@ https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-s
 ### Paying to convert farm land to forest
 https://www.intelligentliving.co/costa-rica-forest-cover/
 ---
+
+### The Mindfulness Conspiracy: Capitalist Spirituality
+https://www.theguardian.com/lifeandstyle/2019/jun/14/the-mindfulness-conspiracy-capitalist-spirituality
+
+### Map of indigenous tribes
+https://www.reddit.com/r/coolguides/comments/c0xlel/indigenous_people_of_north_and_central_america/
 
 ### Thoughts on how to make a self managed service people actually like
 https://www.cloudforecast.io/blog/interview-gitlab-self-managed-saas/

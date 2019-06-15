@@ -10,14 +10,26 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 ## Selfhosted stacks
+### Mailcow
+https://blog.rogs.me/2019/03/22/de-google-my-life-part-2-of-_-tu-_-servers-and-emails/
+On implementing LDAP: https://github.com/mailcow/mailcow-dockerized/issues/684
+Backup (with borgbackup): https://github.com/asifbacchus/MailcowBackup
+
 ### Homebox
 https://homebox.readthedocs.io/en/latest/
 External Accounts: https://homebox.readthedocs.io/en/latest/external-accounts/
 
-### Mailcow
-https://blog.rogs.me/2019/03/22/de-google-my-life-part-2-of-_-tu-_-servers-and-emails/
+### Mail in a Box
+https://github.com/mail-in-a-box/mailinabox
 
+### Mailpile
+https://www.mailpile.is/
 
+### iRedMail
+https://www.iredmail.org/
+
+### Sovereign
+https://github.com/sovereign/sovereign
 ---
 
 
@@ -105,6 +117,11 @@ http://rfc-clueless.org/
 
 https://sendgrid.com/docs/glossary/blacklists/
 http://www.sorbs.net/lookup.shtml
+
+### Spam score
+https://spamcheck.postmarkapp.com/
+https://www.unlocktheinbox.com/spamscore/
+http://www.isnotspam.com/
 
 ---
 

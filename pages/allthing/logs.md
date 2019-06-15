@@ -24,6 +24,9 @@ https://github.com/grafana/loki/blob/master/production/README.md
 ### Loki plugin for Fluentd
 https://github.com/grafana/loki/tree/master/fluentd/fluent-plugin-loki
 
+### Loki plugin for Docker
+https://github.com/grafana/loki/pull/663
+
 ### Troubleshooting
 https://github.com/grafana/loki/blob/master/docs/troubleshooting.md
 
