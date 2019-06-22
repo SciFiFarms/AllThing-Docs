@@ -234,6 +234,7 @@ https://hbr.org/2019/02/making-learning-a-part-of-everyday-work
 
 ### Why Use GraphQL:
 https://webapplog.com/graphql/
+https://blog.graphqleditor.com/the-state-of-graphql-by-reddit/
 
 
 ## Good Policies

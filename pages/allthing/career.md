@@ -19,12 +19,14 @@ Oct 21 (But needs work done before that! ) http://www.noconet.org/?q=content/noc
 https://fortcollins.craigslist.org/d/computer-gigs/search/cpg
 https://www.fcgov.com/jobs/
 https://www.reddit.com/r/FortCollins/comments/bblugc/databusiness_analyst_jobs/
+https://andrewhudsonsjobslist.com/
 
 ### Denver & Boulder
 https://jobs.techstars.com/
 https://expectllc.com/job-listings/
 https://www.builtincolorado.com/
 https://www.reddit.com/r/Denver/comments/3zkf5h/it_staffing_andor_recruiting_firms/
+https://andrewhudsonsjobslist.com/
 
 ### Remote 
 https://stackoverflow.com/jobs?r=true&sort=p
@@ -80,6 +82,24 @@ https://x-team.com/remote-devops-engineer-jobs/
 https://www.toptal.com/talent/apply
 ---
 
+## Interview Advice
+### General 
+https://enterprisersproject.com/article/2019/1/it-job-interview-tips-12-ways-win-2019
+https://opensource.com/article/19/1/job-interviewing-tips
+
+### Talking about past pay
+https://www.reddit.com/r/personalfinance/comments/bb2lxo/should_i_lie_about_my_pay_rate_when_i_go_into_my/
+
+### Large list of possible questions. Bad answers.
+https://i.redd.it/3q7by69lyrz21.jpg
+
+### DevOps specifc
+https://www.reddit.com/r/devops/comments/b8mfdl/follow_up_devops_onsite_interview_prep/
+https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre
+---
+
+### Job hunting etiquette
+https://enterprisersproject.com/article/2019/3/job-hunt-etiquette-6-tricky-situations
 
 ### IoT
 https://www.hackerearth.com/hackathon/explore/field/iot-internet-of-things/

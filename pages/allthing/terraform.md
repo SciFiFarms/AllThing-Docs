@@ -10,7 +10,56 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+## Providers
+### Hetzner Cloud
+https://www.terraform.io/docs/providers/hcloud/
+https://medium.com/@gtrafimenkov/how-to-manage-hetzner-cloud-with-terraform-25308fab6c22
 
+### DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-use-terraform-with-digitalocean
+DNS Record: https://www.terraform.io/docs/providers/do/r/record.html
+---
+
+## Tips
+### Use `terraform init` after adding providers or new kinds of resourcesj
+
+### Store state in Wasabi
+https://wasabi-support.zendesk.com/hc/en-us/articles/360003362071-How-I-do-use-Terraform-with-Wasabi-
+
+### You can use prevent_destroy to stop a volume from being destroyed
+https://github.com/hashicorp/terraform/issues/17599
+
+### Installing plugins
+https://www.terraform.io/docs/plugins/basics.html#installing-a-plugin
+
+### Loops, if-statements, and gotchas
+https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9
+
+### Modules
+https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d
+https://www.terraform.io/docs/modules/
+
+### Lists and maps
+https://learn.hashicorp.com/terraform/getting-started/variables.html#lists
+---
+
+### Composition and multicloud abstraction
+https://www.terraform.io/docs/modules/composition.html
+
+### Ansible and Terraform
+https://github.com/scarolan/ansible-terraform
+https://alex.dzyoba.com/blog/terraform-ansible/
+
+### Creating a provider
+https://www.hashicorp.com/resources/creating-terraform-provider-for-anything
+
+### Secrets in Terraform :/
+https://www.linode.com/docs/applications/configuration-management/secrets-management-with-terraform/
+
+
+### Trouble with Terraform
+https://www.schibsted.pl/blog/9-reasons-why-terraform-is-a-pain-and-1-why-you-should-still-care/
+https://itnext.io/things-i-wish-i-knew-about-terraform-before-jumping-into-it-43ee92a9dd65
 
 
 {% include links.html %}

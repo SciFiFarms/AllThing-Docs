@@ -10,6 +10,11 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Use anytree to build parts list, prices, electric usage, etc for modeling
+https://stackoverflow.com/questions/2358045/how-can-i-implement-a-tree-in-python-are-there-any-built-in-data-structures-in
+https://anytree.readthedocs.io/en/latest/intro.html#overview
+https://pypi.org/project/anytree/
+
 ### Work with Docker in python
 https://github.com/aio-libs/aiodocker
 

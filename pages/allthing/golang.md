@@ -13,9 +13,13 @@ folder: allthing
 ### Roadmap or outline of go tools
 https://github.com/Alikhll/golang-developer-roadmap
 
+### Go + rust training plan
+https://github.com/pingcap/talent-plan
+
 ### Writing high performance Go
 https://github.com/dgryski/go-perfbook
 
-
+### Visualizing Go
+https://divan.dev/posts/visual_programming_go/
 
 {% include links.html %}

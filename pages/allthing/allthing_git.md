@@ -90,6 +90,7 @@ https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
 ### GitOps FAQ
 https://www.weave.works/blog/the-official-gitops-faq
 https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops
+https://www.weave.works/blog/automate-kubernetes-with-gitops
 
 ### How to use github via ssh (Passwordless)
 https://stackoverflow.com/questions/14762034/push-to-github-without-password-using-ssh-key

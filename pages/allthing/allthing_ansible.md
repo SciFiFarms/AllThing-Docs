@@ -10,11 +10,19 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+## Roles
+### Docker
+https://github.com/geerlingguy/ansible-role-docker
+---
+
 ### Writing your first playbook
 https://www.ansible.com/blog/getting-started-writing-your-first-playbook
 
 ### Manage workstation with Ansible
 https://opensource.com/article/18/3/manage-workstation-ansible
+
+### Ansible and Terraform
+https://github.com/scarolan/ansible-terraform
 
 ### The book for using Ansible
 https://www.ansiblefordevops.com/
@@ -70,6 +78,16 @@ https://opensource.com/article/19/3/developing-ansible-modules
 
 ### Great article on comparing pretty much all the configuration management applications. 
 https://medium.com/@echohack/configuration-management-application-automation-and-the-future-92507891289d
+
+## Tips
+### Check if a file exists
+http://www.mydailytutorials.com/check-filedirectory-exists-ansible/
+https://stackoverflow.com/questions/35654286/how-check-a-file-exists-in-ansible
+
+### It sure didn't seem like I could use ansible to run docker-compose up
+https://www.reddit.com/r/ansible/comments/9k09ad/dockercompose_and_ansible/
+https://docs.ansible.com/ansible/latest/modules/docker_compose_module.html
+---
 
 {% include links.html %}
 

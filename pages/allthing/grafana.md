@@ -25,6 +25,9 @@ https://grafana.com/dashboards/893
 
 ### node-exporter
 https://grafana.com/dashboards/6490
+
+### SNMP
+https://grafana.com/dashboards?dataSource=prometheus&search=snmp
 ---
 
 ## Datasources (Used for [provisioning](https://grafana.com/docs/administration/provisioning/#datasources))

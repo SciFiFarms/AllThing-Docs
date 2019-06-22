@@ -133,6 +133,8 @@ https://www.instructables.com/contest/classroomscience/
 https://www.instructables.com/contest/iot2019/
 ---
 
+https://forum.openag.media.mit.edu/t/air-conditioner-temperature-humidity-co2/4950
+
 https://forum.openag.media.mit.edu/t/proof-of-concept-for-how-kids-could-program-food-computers/4801
 
 https://philhawthorne.com/homeautomation/
@@ -146,6 +148,10 @@ https://www.hortidaily.com/article/45556/How-the-right-sales-channel-can-make-or
 https://www.technologyreview.com/s/612928/one-mans-two-decade-quest-to-suck-greenhouse-gas-out-of-the-sky/
 
 https://forum.openag.media.mit.edu/t/hpa-aeroponics-vertical-system-build/3856/3
+
+https://banshee.mxlogin.com:2083/cpsess0449661812/frontend/manager/mail/dkimtutorial.html
+
+https://www.youtube.com/watch?v=UTGEQXTiHwE
 
 https://forum.openag.media.mit.edu/t/would-like-to-share-information/4659/2
 

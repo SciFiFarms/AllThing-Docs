@@ -120,6 +120,9 @@ https://stackoverflow.com/questions/59895/getting-the-source-directory-of-a-bash
 ### 10 Handy BASH aliases
 https://opensource.com/article/18/9/handy-bash-aliases
 
+### 7 surprising BASH variables
+https://zwischenzugs.com/2019/05/11/seven-surprising-bash-variables/
+
 ### 11 bash tips
 https://zwischenzugs.com/2018/10/12/eleven-bash-tips-you-might-want-to-know/
 
@@ -131,6 +134,9 @@ https://www.reddit.com/r/selfhosted/comments/bqt6eu/get_notified_when_upgrades_a
 
 ### Using .vim rather than .vimrc
 https://vimways.org/2018/from-vimrc-to-vim/
+
+## Vim tips
+https://www.hillelwayne.com/post/intermediate-vim/#organization
 
 ### How to get which interface is connected to the internet via bash. Linux AND OSX:
 https://unix.stackexchange.com/questions/14961/how-to-find-out-which-interface-am-i-using-for-connecting-to-the-internet

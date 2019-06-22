@@ -114,4 +114,7 @@ https://www.reddit.com/r/microgrowery/comments/bavkn8/led_comparison_grow_day_43
 ### Light level impacts on melatonin supression
 https://www.pnas.org/content/early/2019/05/20/1901824116
 
+### If I need more red, this review mentions some other products
+https://ledgardener.com/hands-on-review-red-shift-pcb-anthelion/
+
 {% include links.html %}

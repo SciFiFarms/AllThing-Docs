@@ -21,10 +21,12 @@ https://github.com/danielwelch/coc-homeassistant
 https://www.reddit.com/r/homeassistant/comments/b9vioe/got_home_assistant_to_grab_the_game_info_for_my/
 https://www.reddit.com/r/homeassistant/comments/9ycr63/my_lovelace_frontend/
 https://github.com/ljmerza/ha-email-sensor
+https://www.reddit.com/r/homeassistant/comments/c14wu9/home_assistant_community_store/
 Already setup in Jupyter: https://github.com/robmarkcole/HASS-data-detective
 https://www.reddit.com/r/homeassistant/comments/bmenql/local_api_thermostat_recommendations/
 Auto apply theme: https://community.home-assistant.io/t/make-a-theme-stay-after-reboot-broke-again/106751/13
 Thermostat + heating: https://community.home-assistant.io/t/heaty-a-flexible-heating-control-facilitating-schedules-and-manual-intervention/34958
+Manual data entry (Using API): https://www.reddit.com/r/homeassistant/comments/c1om01/how_to_use_siri_shortcuts_to_speak_a_sensor_value/
 
 ## HASS.io
 ### Reference projects

@@ -99,6 +99,9 @@ https://esphome.io/components/esphomeyaml#esphomeyaml-esphomelib-version
 ### A little about setting up ESPHome as a stand alone service.
 https://community.home-assistant.io/t/esphomelib-help-docker/62383/10
 
+### Thoughts on using YAML well
+https://www.redhat.com/sysadmin/yaml-tips
+
 ### ESPHome supports most of Home Assistant's !directives (!include, !secret... etc.). 
 https://esphomelib.com/esphomeyaml/guides/faq.html?highlight=include
 Here is a page about them:

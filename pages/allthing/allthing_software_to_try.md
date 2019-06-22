@@ -100,6 +100,7 @@ https://github.com/r0f1/datascience
 https://github.com/teoga/awesome-product-design
 https://github.com/0xInfection/Awesome-WAF
 https://medium.com/@writetomiglani/how-to-ace-the-certified-kubernetes-administrator-exam-in-7-days-e4603ac40746
+https://github.com/vinta/awesome-python
 
 
 ### Hardware
@@ -117,6 +118,7 @@ https://chargen.one/steve/self-hosting-portable-notifications
 https://gotify.net/
 
 ### While these aren't exactly software, the projects I follow on hackaday.io is a good list of projects
+https://www.dfrobot.com/blog-1283.html
 https://www.reddit.com/r/microgrowery/comments/awsqxa/how_i_almost_completely_automated_my_growbox_with/
 https://hackaday.io/TheHackmeister
 https://hackaday.com/2018/11/06/add-nest-functionality-to-your-thermostat-for-5/
@@ -170,6 +172,8 @@ Kobo was the ereader to hack: https://www.reddit.com/r/linux/comments/bs2vnr/do_
 Cloud lights: https://www.youtube.com/watch?v=07m0e7NwzKc&feature=youtu.be
 Monitor a dryer: https://www.reddit.com/r/homeassistant/comments/bwa12n/the_new_ct_clamp_sensor_in_esphome_makes_this_easy/
 ESP8266 ran watering: https://www.reddit.com/r/DIY/comments/byehfs/how_to_build_a_diy_automatic_plant_watering/
+Buildable linux tablet: https://hackaday.com/2019/06/06/the-finest-linux-tablet-you-can-build/
+
 
 ## ERP
 
@@ -189,6 +193,7 @@ https://hub.docker.com/r/bitnami/odoo/
 https://erpnext.com/docs/user/manual/en
 ---
 
+
 ## Medical Records
 
 ### OwnHealthRecord
@@ -197,6 +202,13 @@ https://github.com/petrk94/ownhealthrecord/blob/master/DeveloperLog.md
 ### OpenMRS
 https://openmrs.org/demo/
 ---
+
+
+## Document scanning and searching
+### OpenPaper.work
+https://openpaper.work/en-us/
+---
+
 
 ### Self hosted setups of 2019. HUGE list of ideas.
 https://www.reddit.com/r/selfhosted/comments/a9r5ux/share_your_self_hosted_setup_2019_edition/
@@ -450,6 +462,8 @@ https://github.com/witten/borgmatic
 https://docs.borgbase.com/backup-strategy/steps-with-template/
 Interface to use: https://github.com/borgbase/vorta
 https://www.reddit.com/r/linux/comments/ahpdzk/borgbackup_frontends/
+https://borgbackup.readthedocs.io/en/stable/faq.html
+Using Wasabi (S3) as a backup: https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-
 
 ### 13 Open Source Backup Solutions
 https://opensource.com/article/19/3/backup-solutions
@@ -520,6 +534,9 @@ https://developer.android.com/things/versions/things-1.0
 
 ### Guacamole: X windows to HTML5 for containers. 
 https://blog.openshift.com/put-ide-container-guacamole/
+
+### GoAlert: on-call scheduling, automated escalations, and notifications
+https://github.com/target/goalert
 
 ### Gaia: Flexible pipeline creator
 https://github.com/gaia-pipeline/gaia
@@ -605,6 +622,9 @@ https://www.textbook.ds100.org/
 ### Cheatsheets (Python / Django and JavaScript / React)
 https://github.com/kickstartcoding/cheatsheets
 
+### rga: grep EVERYTHING pdfs, subtitles, sqlite...
+https://github.com/phiresky/ripgrep-all
+
 ### Caprover - Heroku replacement
 https://github.com/caprover/caprover
 
@@ -613,6 +633,9 @@ https://wiki.debian.org/FreedomBox/Features
 
 ### Programming Zines
 https://wizardzines.com/
+
+### Developer roadmap
+https://github.com/kamranahmedse/developer-roadmap
 
 ### Packit: Automating .rpm package creation and inclusion with fedora's repos.
 https://fedoramagazine.org/packit-packaging-in-fedora-with-minimal-effort/

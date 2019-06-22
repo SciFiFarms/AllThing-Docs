@@ -9,6 +9,9 @@ permalink: allthing_docs.html
 folder: allthing
 ---
 
+### CSS Layouts for webpages
+https://every-layout.dev/
+
 ### You can comment in markdown! [//] # (You're comment goes here)
 https://grantwinney.com/cool-markdown-tricks-for-github/
 

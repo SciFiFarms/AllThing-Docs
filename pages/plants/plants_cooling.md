@@ -32,6 +32,8 @@ https://electronics.stackexchange.com/questions/118536/thermistor-control-of-pel
 ### Where to get
 $12 - https://www.adafruit.com/product/1330
 
+### Interesting breakdown of AC units. minisplit? Propane?
+http://digg.com/video/portable-ac-units-explained
 
 ### Playing with peltier element. Has a sweet build. $20. 
 https://www.youtube.com/watch?v=f-a7iWbFtNg

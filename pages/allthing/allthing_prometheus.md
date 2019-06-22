@@ -17,8 +17,17 @@ https://prometheus.io/
 https://github.com/prometheus/prometheus
 Dockerfile: https://github.com/prometheus/prometheus/blob/master/Dockerfile
 
+### Query basics
+https://prometheus.io/docs/prometheus/latest/querying/basics/
+https://stackoverflow.com/questions/49135746/prometheus-grouping-metrics-by-metric-names
+
 ### Naming things
 https://prometheus.io/docs/practices/naming/
+
+### Modifying labels
+https://www.robustperception.io/relabel_configs-vs-metric_relabel_configs
+https://medium.com/quiq-blog/prometheus-relabeling-tricks-6ae62c56cbda
+https://prometheus.io/docs/prometheus/latest/configuration/configuration/#relabel_config
 
 ## Settings
 ### external-url: Modify path (Add /health/)
@@ -37,7 +46,9 @@ https://prometheus.io/docs/guides/cadvisor/
 
 ### SNMP
 https://github.com/prometheus/snmp_exporter
-Old, but ddwrt specific: https://github.com/daenney/ddwrt-snmp_exporter
+https://medium.com/@openmohan/snmp-monitoring-and-easing-it-with-prometheus-b157c0a42c0c
+https://hub.docker.com/r/ricardbejarano/snmp_exporter
+https://daenney.github.io/2017/04/22/monitoring-wifi-with-prometheus
 https://povilasv.me/prom-node-exporter-on-a-router/
 
 ### Home Assistant

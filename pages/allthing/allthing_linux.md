@@ -97,6 +97,9 @@ https://opensource.com/article/19/3/virtual-filesystems-linux
 ### WiFi in Linux:
 https://geekodour.github.io/post/wifi-in-linux/
 
+### Tool cheatsheet
+https://wizardzines.com/networking-tools-poster/
+
 ### Mount dir over ssh: 
 https://unix.stackexchange.com/questions/467081/sshfs-with-on-demand-mounting
 https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh

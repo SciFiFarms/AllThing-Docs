@@ -9,6 +9,9 @@ permalink: plants_.html
 folder: plants
 ---
 
+### LPS35HW Water Resistant Pressure Sensor
+https://www.adafruit.com/product/4258
+
 ### BME280:
 https://www.adafruit.com/product/2652
 https://platformio.org/lib/show/5348/Grove%20-%20Barometer%20Sensor%20BME280

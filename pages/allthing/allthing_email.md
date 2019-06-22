@@ -14,6 +14,10 @@ folder: allthing
 https://blog.rogs.me/2019/03/22/de-google-my-life-part-2-of-_-tu-_-servers-and-emails/
 On implementing LDAP: https://github.com/mailcow/mailcow-dockerized/issues/684
 Backup (with borgbackup): https://github.com/asifbacchus/MailcowBackup
+Install: https://mailcow.github.io/mailcow-dockerized-docs/i_u_m_install/
+Multiple domains: https://mailcow.github.io/mailcow-dockerized-docs/firststeps-ssl/#additional-domain-names
+API Usage: https://github.com/mailcow/mailcow-dockerized/issues/1374#issuecomment-404868546
+Catch-all: https://mailcow.github.io/mailcow-dockerized-docs/model-sender_rcv/
 
 ### Homebox
 https://homebox.readthedocs.io/en/latest/
@@ -61,6 +65,8 @@ https://cypht.org/modules.html
 ### MXRoute
 https://mxroute.com/
 https://community.mxroute.com/t/how-do-i-to-setup-a-catch-all/38/2
+Using DKIM: https://mxroute.helpscoutdocs.com/article/23-how-do-i-use-dkim
+Knowledge Base: https://mxroute.helpscoutdocs.com/
 
 ### Mailbox.org
 https://userforum-en.mailbox.org/topic/anti-spoofing-for-custom-domains-spf-dkim-dmarc
@@ -103,8 +109,14 @@ https://www.ventureharbour.com/transactional-email-service-best-mandrill-vs-send
 
 
 ## Tools
-### Mail-Tester: Best tool I found
+### Mail-Tester: Best tool I found, but limited to 3 runs in a day. 
 https://www.mail-tester.com/
+
+### DKIM validator. Not scored, but can help you see whats wrong and when its fixed. Run as many times as you'd like
+https://dkimvalidator.com/
+
+### IsMyEmailWorking: Great test for seeing what is going on from the sending end
+https://ismyemailworking.com/AdvancedTest/
 
 ### MXToolBox
 https://mxtoolbox.com/
@@ -123,6 +135,17 @@ https://spamcheck.postmarkapp.com/
 https://www.unlocktheinbox.com/spamscore/
 http://www.isnotspam.com/
 
+### DKIM Validator (DKIM, SPF, SpamAssasin)
+https://dkimvalidator.com/
+https://www.mailjet.com/blog/news/setting-up-dkim-step-by-step-a7d0a0ec-c4aa-4b5b-aeb5-a06361aa2e51/
+https://support.dnsimple.com/articles/dkim-record/
+https://banshee.mxlogin.com:2083/cpsess0449661812/frontend/manager/mail/auth.html
+https://banshee.mxlogin.com:2083/cpsess0449661812/frontend/manager/mail/dkimtutorial.html
+
+
+
+### SPF
+https://emailstuff.org/spf/check/
 ---
 
 ### Home Assistant Email Sensor - 

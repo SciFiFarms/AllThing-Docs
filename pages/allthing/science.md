@@ -13,5 +13,7 @@ folder: allthing
 ### Did the universe have a beginning?
 https://www.quantamagazine.org/physicists-debate-hawkings-idea-that-the-universe-had-no-beginning-20190606/
 
+### Experiments
+Liquid sand: https://www.reddit.com/r/interestingasfuck/comments/c1jd67/this_aerated_sand_demonstrating_the_properties_of/
 
 {% include links.html %}
