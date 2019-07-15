@@ -35,6 +35,9 @@ https://www.reddit.com/r/HandsOnComplexity/comments/bhmb22/core_concepts_in_hort
 ### Some grow specific LED COB colors
 https://www.hortidaily.com/article/9048387/offered-in-eight-colors-new-leds-enable-faster-plant-growth-greater-crop-yield/
 
+### A nice looking COB
+https://ledgardener.com/hands-on-review-migro-200-plus/
+
 ### BridgeLux EB - My LEDs
 https://www.bridgelux.com/sites/default/files/resource_media/DS131%20Bridgelux%20EB%20Series%20Gen2%20Data%20Sheet%2020171020%20Rev%20A.pdf
 
@@ -108,6 +111,9 @@ http://www.globalsciencebooks.info/Online/GSBOnline/images/2010/PS_4(1)/PS_4(1)5
 Includes a HUGE table of suggested DLIs for different plants. 
 https://www.extension.purdue.edu/extmedia/HO/HO-238-W.pdf
 
+### Testing light recipies
+https://www.hortidaily.com/article/9122677/how-to-test-different-light-recipes/
+
 ### Comparison grows
 https://www.reddit.com/r/microgrowery/comments/bavkn8/led_comparison_grow_day_43_final_veg_update/
 
@@ -116,5 +122,8 @@ https://www.pnas.org/content/early/2019/05/20/1901824116
 
 ### If I need more red, this review mentions some other products
 https://ledgardener.com/hands-on-review-red-shift-pcb-anthelion/
+
+### Ideal lighting
+https://www.hortidaily.com/article/9112755/supporting-oems-to-create-ideal-led-based-horticulture-lighting/
 
 {% include links.html %}

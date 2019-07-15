@@ -13,6 +13,13 @@ folder: allthing
 ### Swarm is not dead!
 https://www.bretfisher.com/is-swarm-dead-answered-by-a-docker-captain/
 
+### Darshan Chaudhary's notes on cloud/orchistrators
+https://github.com/darshanime/notes/blob/master/cloud.org
+https://github.com/darshanime/notes/blob/master/kubernetes.org
+
+### Sanic: an all-in-one tool to develop, build, and deploy your Docker/Kubernetes projects.
+https://github.com/distributed-containers-inc/sanic
+
 ### Seriously. Use OpenShift:
 https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/
 https://developers.redhat.com/books/openshift-developers-guide-impatient-beginners/

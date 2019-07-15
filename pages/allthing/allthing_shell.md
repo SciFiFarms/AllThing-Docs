@@ -9,6 +9,10 @@ permalink: allthing_shell.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+
+### Easy flags
+https://dev.to/quinncuatro/fun-with-flags-4cm0
+
 ### Parsing command line options
 https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash
 

@@ -67,6 +67,7 @@ https://mxroute.com/
 https://community.mxroute.com/t/how-do-i-to-setup-a-catch-all/38/2
 Using DKIM: https://mxroute.helpscoutdocs.com/article/23-how-do-i-use-dkim
 Knowledge Base: https://mxroute.helpscoutdocs.com/
+Custom hostnames for imap, smtp: https://mxroute.helpscoutdocs.com/article/42-how-so-i-use-custom-hostnames-for-smtp-imap-pop-and-webmail
 
 ### Mailbox.org
 https://userforum-en.mailbox.org/topic/anti-spoofing-for-custom-domains-spf-dkim-dmarc

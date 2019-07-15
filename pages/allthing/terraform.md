@@ -23,6 +23,9 @@ DNS Record: https://www.terraform.io/docs/providers/do/r/record.html
 ## Tips
 ### Use `terraform init` after adding providers or new kinds of resourcesj
 
+### Patterns and tricks
+https://medium.com/@pavloosadchyi/terraform-patterns-and-tricks-i-use-every-day-117861531173
+
 ### Store state in Wasabi
 https://wasabi-support.zendesk.com/hc/en-us/articles/360003362071-How-I-do-use-Terraform-with-Wasabi-
 
@@ -38,6 +41,8 @@ https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-
 ### Modules
 https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d
 https://www.terraform.io/docs/modules/
+#### Working around missing count in modules
+https://serialseb.com/blog/2016/05/11/terraform-working-around-no-count-on-module/
 
 ### Lists and maps
 https://learn.hashicorp.com/terraform/getting-started/variables.html#lists
@@ -49,6 +54,12 @@ https://www.terraform.io/docs/modules/composition.html
 ### Ansible and Terraform
 https://github.com/scarolan/ansible-terraform
 https://alex.dzyoba.com/blog/terraform-ansible/
+
+### Terraform, Ansible, Puppet, Chef comparison
+https://www.ibm.com/cloud/blog/chef-ansible-puppet-terraform
+
+### When to use Terraform
+https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c
 
 ### Creating a provider
 https://www.hashicorp.com/resources/creating-terraform-provider-for-anything

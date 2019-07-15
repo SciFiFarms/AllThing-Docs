@@ -46,9 +46,42 @@ https://www.authy.com/integrations/ssh/
 ### Plex, filebot, and bittorrent. The dream setup.
 https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/
 https://www.reddit.com/r/PleX/comments/8t0dyl/how_to_rename_audiobooks_files_and_meta_tags/
+https://www.reddit.com/r/NextCloud/comments/c8t8jg/anyone_going_to_fork_the_epub_app_or_know_of/
+
+## gpodder: Syncable podcasts
+### Docker build
+https://hub.docker.com/r/gpbenton/gpodder
+https://github.com/gpbenton/gpodder
+
+### mygpo (Sync service)
+https://github.com/gpodder/mygpo
+
+### Syncs with Voice
+https://f-droid.org/en/packages/de.ph1b.audiobook/
+https://play.google.com/store/apps/details?id=de.ph1b.audiobook&hl=en_US
+
+### Desire:
+Way to send youtube videos and playlists to a server that will then download, convert, and upload as a new podcast. 
+Should also support regular mp3 files. 
+---
+
+## Multi room audio
+
+### Indoor and Outdoor Audio with Snapcast and Mopidy (2019)
+https://webworxshop.com/multi-room-audio-system-indoor-and-outdoor-audio-with-snapcast-and-mopidy/?pk_campaign=reddit-hass
+
+### Snapcast, Mopidy, and Home Assistant (2016)
+https://www.home-assistant.io/blog/2016/02/18/multi-room-audio-with-snapcast/
+
+### Multilister music server
+https://www.reddit.com/r/selfhosted/comments/cbnmn8/selfhosted_multilistener_music_server/
 
 ### Great discussion around how to do music management and streaming with Home Assistant
 https://www.reddit.com/r/homeassistant/comments/bcqacy/best_music_home_server_with_ha_integration/
+---
+
+### Lazydocker: CLI interface for docker stats and stuff
+https://github.com/jesseduffield/lazydocker
 
 ### Markdeck - Presentation as code
 https://github.com/arnehilmann/markdeck
@@ -62,6 +95,9 @@ https://blog.giantswarm.io/grafana-logging-using-loki/
 https://github.com/giantswarm/simple-logger
 Integrate with Logstash: https://github.com/grafana/loki/issues/239
 Good intro video: https://www.youtube.com/watch?v=ENM2f1QZam8
+
+### Some thoughts on protecting self hosted apps
+https://www.reddit.com/r/selfhosted/comments/c8j3jd/protecting_self_hosted_apps/
 
 ### Beehive: Interesting take on automation. Integrates with a number of services
 https://github.com/muesli/beehive
@@ -173,6 +209,8 @@ Cloud lights: https://www.youtube.com/watch?v=07m0e7NwzKc&feature=youtu.be
 Monitor a dryer: https://www.reddit.com/r/homeassistant/comments/bwa12n/the_new_ct_clamp_sensor_in_esphome_makes_this_easy/
 ESP8266 ran watering: https://www.reddit.com/r/DIY/comments/byehfs/how_to_build_a_diy_automatic_plant_watering/
 Buildable linux tablet: https://hackaday.com/2019/06/06/the-finest-linux-tablet-you-can-build/
+Good demo of sealing across plastic middle (Water reservoir): https://www.youtube.com/watch?v=_chYY76KQbY
+GREAT whole home power monitoring. Cool usage of clamps and precision readings: https://www.youtube.com/watch?v=BOgy6QbfeZk&feature=youtu.be
 
 
 ## ERP
@@ -215,6 +253,7 @@ https://www.reddit.com/r/selfhosted/comments/a9r5ux/share_your_self_hosted_setup
 
 ### Whole home audio
 https://www.reddit.com/r/homeassistant/comments/bnvk3g/best_choice_for_wholehome_audio_system/
+https://www.vittoriomonaco.de/home-automation-part-7.html
 
 ### Email clients
 https://opensource.com/article/19/1/productivity-tool-cypht-email
@@ -329,7 +368,17 @@ https://github.com/seek-oss/playroom
 
 ### Vue structure
 https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb
+
+### Gantry: Themes that work in Grav, Joomla, WordPress
+http://gantry.org/
+https://github.com/gantry/gantry5
+
+### Flask & Docker
+https://github.com/tiangolo/flask-frontend-docker
 ---
+
+### Heimdall: Dashboard/launching self-hosted apps
+https://github.com/linuxserver/Heimdall
 
 ### HTTP Headers for the Responsible Developer
 https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
@@ -356,6 +405,9 @@ https://github.com/saimn/sigal/
 ### PhotoStructure: Utilizes meta data WAY better than anything else I've seen.
 https://blog.photostructure.com/introducing-photostructure/
 ---
+
+### Photopea: Photoshop alternative... Can open all the formats.
+https://www.photopea.com/
 
 ## Service Mesh
 ### Istio
@@ -425,6 +477,15 @@ https://www.balena.io/open/
 https://wekan.github.io/
 https://help.nextcloud.com/t/please-bring-wekan-to-nextcloud-instead-of-continuing-deck/19072/2
 
+### Wekan vs Restaboard vs Trello
+https://github.com/wekan/wekan/wiki/Wekan-vs-Trello-vs-Restyaboard
+
+## Restyaboard: Looks even slicker than Wekan? But I should double check that NextCloud GitHub compatibility. 
+Docker: https://github.com/RestyaPlatform/board/wiki/Docker:-Build-and-Install
+https://hub.docker.com/r/restyaplatform/restyaboard
+List of apps: https://github.com/RestyaPlatform/board-apps
+OAuth: https://restya.com/board/developers
+
 ### Going Google Free:
 https://www.reddit.com/r/LineageOS/comments/8xvzje/going_googlefree_went_better_than_expected/
 
@@ -456,6 +517,10 @@ http://todotxt.org/
 https://notmyfirslanguage.writeas.com/the-road-to-emacs
 
 ## Backup Solutions
+### Restic (Go version of borg)
+https://restic.net/
+Seems to support S3... https://forum.restic.net/t/comparison-with-borg-shortcomings-in-restic/1690
+
 ### Borgbackup - Dedups the best
 https://borgbackup.readthedocs.io/en/stable/
 https://github.com/witten/borgmatic
@@ -464,6 +529,7 @@ Interface to use: https://github.com/borgbase/vorta
 https://www.reddit.com/r/linux/comments/ahpdzk/borgbackup_frontends/
 https://borgbackup.readthedocs.io/en/stable/faq.html
 Using Wasabi (S3) as a backup: https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-
+https://torsion.org/borgmatic/
 
 ### 13 Open Source Backup Solutions
 https://opensource.com/article/19/3/backup-solutions
@@ -619,6 +685,9 @@ https://github.com/lorin/resilience-engineering
 ### Data Science at UC Berkeley
 https://www.textbook.ds100.org/
 
+### Darshan Chaudhary's Computer Science notes (And a little on operations)
+https://github.com/darshanime/notes
+
 ### Cheatsheets (Python / Django and JavaScript / React)
 https://github.com/kickstartcoding/cheatsheets
 
@@ -652,6 +721,9 @@ https://ycombinator.dev/
 
 #### Getting into DevOps Thread June 2019
 https://www.reddit.com/r/devops/comments/bvqyrw/monthly_getting_into_devops_thread_201906/
+
+### SOC2 compliance git best practices
+https://pages.datree.io/hubfs/SOC2-compliance-Git-guide-Datree.pdf
 
 
 

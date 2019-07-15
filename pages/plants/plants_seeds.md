@@ -27,6 +27,12 @@ https://www.homefortheharvest.com/seeds-for-sale/
 ### Good overview of pollination 
 https://www.hortidaily.com/article/9093869/bumble-bees-in-greenhouse-vegetable-production/
 
+### Microbial Symbionts to Enhance Plant Health & Productivity
+https://www.youtube.com/watch?v=7g32E41pVoU&list=PL7fPr3CuAdvsRbyUiiV9qRf2aWr_ZZMq4&index=1
+
+### Thoughts on labor market
+http://www.choicesmagazine.org/choices-magazine/submitted-articles/innovations-for-a-shrinking-agricultural-workforce
+
 ### Crisper modified
 https://www.hortidaily.com/article/9062828/the-big-five-of-genetically-modified-fruit/
 https://www.hortidaily.com/article/9063387/plant-peptide-helps-roots-to-branch-out-in-the-right-places/
@@ -37,6 +43,7 @@ https://www.hortidaily.com/article/9063205/a-future-proof-diet-with-future-foods
 
 ### Soft berry fruits
 https://www.reddit.com/r/coolguides/comments/bpyj5u/soft_berry_fruits/
+https://www.hortidaily.com/article/9117234/opportunities-for-berry-improvements-through-gene-editing/
 
 ### Wheat
 https://heated.medium.com/rethinking-gluten-free-9af692cebe3d
@@ -53,6 +60,8 @@ https://www.reddit.com/r/SpaceBuckets/comments/bs2xnq/strains_for_a_confined_spa
 https://www.youtube.com/watch?v=ip3_OskSeOg&feature=youtu.be
 https://www.reddit.com/r/microgrowery/comments/btpk66/final_list_review_before_purchasing_indoor_tent/
 https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/12125/Stemeroff_Jonathan_201712_Msc_with_erratum.pdf?sequence=8&isAllowed=y
+https://www.reddit.com/r/microgrowery/comments/bxbctq/a_guide/
+http://grownetics.co/wp-content/uploads/2018/07/AgOps-Vol1-web.pdf
 
 ### Growing seasons for many foods
 https://www.reddit.com/r/coolguides/comments/bnjm4z/peak_growing_seasons_for_fruits_and_vegetables/
@@ -64,6 +73,7 @@ http://www.curzio.com/N/PotatoCatalog.htm
 https://www.potatopro.com/news/2009/create-your-own-bonnotte-and-charge-potato-price-you-want
 https://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=search&rurl=translate.google.com&sl=fr&sp=nmt4&u=https://www.lanoirmoutier.com/la-primeur/les-varietes/la-bonnotte-de-noirmoutier/&xid=17259,15700002,15700021,15700186,15700190,15700256,15700259&usg=ALkJrhgaKDBIxMo4LasznyV3I_T5DL8d2Q
 https://www.tribuneindia.com/news/haryana/karnal-research-centre-to-grow-potato-without-soil/777062.html
+https://www.hortidaily.com/article/9114931/agronico-a-lot-of-people-know-that-we-produce-seed-but-don-t-know-that-we-do-minitubers/
 
 ### Tomatos
 https://www.hortidaily.com/article/44304/Tomatoes-with-a-Western-Asian-background/
@@ -72,6 +82,8 @@ Prices going up: https://www.hortidaily.com/article/9097376/tomato-prices-could-
 https://www.hortidaily.com/article/45035/US-(IL)-University-researches-health-benefits-of-heirloom-tomatoes/
 https://www.hortidaily.com/article/9108131/saturation-of-the-tomato-market/
 https://www.reddit.com/r/aeroponics/comments/bweqtw/help_with_tomatoes/
+https://hortamericas.com/blog/science/daily-light-integral-how-much-light-do-i-need/
+https://www.hortidaily.com/article/9122176/us-new-greenhouse-tomato-handbook-published/
 
 ### Bananas
 https://www.reddit.com/r/interestingasfuck/comments/byk0rs/this_is_the_blue_java_banana_famed_for_its/
@@ -125,13 +137,42 @@ https://www.hortidaily.com/article/9105911/timelapse-scottish-strawberries-in-a-
 https://www.hortidaily.com/article/9107675/rains-will-put-pressure-on-california-strawberry-supplies/
 https://www.hortidaily.com/article/9100748/russia-novosibirsk-scientists-grow-strawberries-with-aeroponics/
 https://www.hortidaily.com/article/9102317/benefits-of-growing-strawberries-under-low-tunnels/
+https://www.hortidaily.com/article/9110247/greenhouse-strawberry-growers-will-have-to-think-about-the-future/
+https://www.hortidaily.com/article/9117149/more-and-more-strawberries-grown-in-greenhouses/
+https://www.hortidaily.com/article/9116722/part-of-the-immune-strategy-of-the-strawberry-plant-is-characterized/
+https://www.hortidaily.com/article/9113107/strawberry-picking-robot-should-soon-be-picking-faster-than-people/
+https://www.hortidaily.com/article/9108315/australian-grower-cultivates-strawberries-with-rockwool-in-hanging-gutters/
+https://hortamericas.com/blog/science/daily-light-integral-how-much-light-do-i-need/
+https://www.hortidaily.com/article/9113051/uk-brewery-plants-vertical-strawberry-farm-in-sustainability-drive/
+https://www.hortidaily.com/article/9122279/strawberry-picking-robots-might-soon-be-servicing-wimbledon/
+https://www.hortidaily.com/article/9120228/can-on-field-strawberry-growers-enjoy-bumper-harvest/
+https://www.hortidaily.com/article/9116925/robotic-strawberry-harvesting/
+https://diagnosis.ces.ncsu.edu/strawberry/disorders
+https://strawberries.ces.ncsu.edu/strawberries-budgets/
+https://www.burpee.com/fruit/strawberry-plants/strawberry-albion-prod000530.html
+https://www.gurneys.com/category/strawberry-plants
+https://www.gurneys.com/product/sparkle_supreme_junebearing_strawberries
+https://www.noursefarms.com/category/strawberry-plants/
+https://www.ufseeds.com/product-category/fruit/strawberries/
+https://www.johnnyseeds.com/fruits/strawberry/
+https://strawberryplants.org/buy-strawberry-seeds/
+https://strawberry.uark.edu/
+https://strawberry.uark.edu/NSSI_Phase_II_EBook_2015.pdf
+https://strawberry.uark.edu/_resources/pdf/nssiweb.pdf
+https://www.youtube.com/watch?v=_9vumIFHTxo
+https://www.youtube.com/channel/UC55G_p_-ZM58goZtu_OYEtA/featured
+
 
 ###
 https://www.hortidaily.com/article/9071669/new-generation-of-substrate-pots-helps-to-meet-global-demand-for-soft-fruit/
 
+### Frisee: Chef favorite?
+https://www.hortidaily.com/article/9111056/chefs-of-high-end-restaurants-love-frisee/
+
 ### Cucumbers
 https://www.hortidaily.com/article/45112/Can-artificial-intelligence-do-as-well-as-farmers-in-the-future/
 https://www.hortidaily.com/article/9108293/urea-addition-promotes-metabolism-and-utilization-of-nitrogen-in-cucumber/
+https://hortamericas.com/blog/science/daily-light-integral-how-much-light-do-i-need/
 
 ### Lettuce
 Has sqft and production amount: https://www.hortidaily.com/article/44570/Inside-Chinas-smart-vegetable-farm/
@@ -142,6 +183,10 @@ https://www.hortidaily.com/article/9078716/automating-photoperiod-and-dli-for-pe
 https://www.hortidaily.com/article/44233/Scientific-proof-of-dissolved-CO2-foliar-spray-plant-benefits-on-lettuce/
 https://www.hortidaily.com/article/9087905/ikea-harvest-first-lettuce-from-stores-helsingborg-and-malmoe/
 https://www.hortidaily.com/article/9108287/exogenous-application-of-amino-acids-improves-growth-and-yield-of-lettuce/
+https://www.hortidaily.com/article/9114431/red-leaf-lettuce-health-benefits-nutritional-value/
+https://hortamericas.com/blog/science/daily-light-integral-how-much-light-do-i-need/
+https://www.hortidaily.com/article/9119618/us-romaine-and-leaf-lettuces-almost-as-popular-as-head-lettuce/
+https://www.hortidaily.com/article/9120906/food-safety-has-a-different-meaning-in-europe-than-in-america/
 
 ### Rocket
 https://www.hortidaily.com/article/9057724/we-actually-just-followed-along-with-the-growth-of-the-market/
@@ -155,6 +200,7 @@ https://www.hortidaily.com/article/9050482/microgreens-more-than-just-a-garnish/
 https://www.hortidaily.com/article/9063228/increasing-taste-and-appearance-of-microgreens-with-light-spectrum/
 https://forum.openag.media.mit.edu/t/microgreenbox-an-open-source-project/4800
 https://www.youtube.com/watch?v=pSPgjQMyBD4
+https://hortamericas.com/blog/science/daily-light-integral-how-much-light-do-i-need/
 
 ###
 https://www.hortidaily.com/article/9047106/we-actually-just-rolled-into-it-and-joined-in-on-the-growth-of-the-market/
@@ -174,6 +220,9 @@ https://www.hortidaily.com/article/9088447/china-rapid-price-increase-for-pepper
 ### Bell Peppers
 https://www.hortidaily.com/article/9066400/the-growth-of-a-classic-crop-the-sweet-pepper/
 https://www.hortidaily.com/article/9083965/how-pepper-seedlings-react-to-supplementary-red-blue-light/
+https://www.hortidaily.com/article/9123669/it-is-difficult-to-meet-the-pepper-demand-this-year/
+https://hortamericas.com/blog/science/daily-light-integral-how-much-light-do-i-need/
+https://www.hortidaily.com/article/9122352/bell-pepper-wins-taste-award/
 
 ### Mint
 Optimizing for flavor: https://www.hortidaily.com/article/9021119/UK-Optimising-flavour-in-mint/
@@ -207,9 +256,23 @@ https://www.hortidaily.com/article/9109918/smallhold-distributing-fresh-produce/
 http://smallfarms.cornell.edu/2019/05/30/upcoming-mushroom-webinar-to-feature-budget-tools-and-more/
 https://thegreentemple.net/articles/mycelium-the-future-is-fungi
 
+### Lions Mane
+The best guide: https://cdn.preterhuman.net/texts/drugs/nansnook3c/tek/Volume1.html#6A
+https://gardening.stackexchange.com/questions/37297/best-way-to-grow-lions-mane-mushrooms
+https://smallfarms.cornell.edu/2015/04/06/lions-mane/t
+https://www.youtube.com/watch?v=42OzkSkMAQs
+https://freshcapmushrooms.com/learn/candidates-for-cultivation-the-lions-mane-mushroom/
+https://fungially.com/grow-lions-mane-mushroom-at-home/
+Buy: https://www.groworganic.com/ds-lions-mane-mushroom-kit.html
+https://fungially.com/sawdust-spawn/
+https://northspore.com/products/grow-your-own-lions-mane
+
 
 ### Asian herbs
 https://www.hortidaily.com/article/9053943/popularity-of-asian-cuisine-drives-demand-for-asiatic-herbs/
+
+### Daikon
+https://www.hortidaily.com/article/9117401/more-california-growers-planting-daikon/
 
 ### Cycad
 http://digg.com/video/cycad-poison-japan

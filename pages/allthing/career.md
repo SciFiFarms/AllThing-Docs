@@ -29,6 +29,7 @@ https://www.reddit.com/r/Denver/comments/3zkf5h/it_staffing_andor_recruiting_fir
 https://andrewhudsonsjobslist.com/
 
 ### Remote 
+https://www.keyvalues.com/
 https://stackoverflow.com/jobs?r=true&sort=p
 https://fortcollins.craigslist.org/search/sof?query=remote
 https://fortcollins.craigslist.org/search/sad?query=remote&postal=80525&search_distance=200
@@ -47,10 +48,12 @@ https://www.bountysource.com/
 https://github.com/nayafia/lemonade-stand
 
 ### General (With some Colorado)
+https://www.keyvalues.com/
 https://github.com/poteto/hiring-without-whiteboards
 https://stackoverflow.com/jobs?sort=p
 https://jobs.adafruit.com/
 https://jobs.github.com/positions
+https://fortune.com/2019/01/17/50-best-workplaces-in-technology/
 
 ### Devops
 https://www.reddit.com/r/devopsjobs/new/
@@ -98,6 +101,11 @@ https://www.reddit.com/r/devops/comments/b8mfdl/follow_up_devops_onsite_intervie
 https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre
 ---
 
+## Workplace advice
+### Maintain a brag document
+https://jvns.ca/blog/brag-documents/
+---
+
 ### Job hunting etiquette
 https://enterprisersproject.com/article/2019/3/job-hunt-etiquette-6-tricky-situations
 
@@ -111,5 +119,32 @@ https://www.hackathon.com/theme/iot
 CompTIA Road map for various fields: https://www.reddit.com/r/coolguides/comments/bkalke/comptia_certification_roadmap/
 Linux/Redhat: https://www.reddit.com/r/linux/comments/8rajlb/anyone_here_think_linux_certification_is_any_good/
 IT: https://enterprisersproject.com/article/2019/3/15-it-certifications-worth-watching
+Top paying: https://enterprisersproject.com/article/2019/3/13-top-paying-it-certifications-2019
+
+## Salary references 
+### DevOps
+https://enterprisersproject.com/article/2019/5/devops-jobs-salaries-10-statistics
+https://enterprisersproject.com/article/2019/4/devops-engineer-salary
+https://enterprisersproject.com/article/2019/5/kubernetes-jobs-11-salary-statistics
+https://www.redhat.com/sysadmin/top-job-markets-sysadmins-2019
+https://www.reddit.com/r/devops/comments/bgh7zt/all_bullshit_aside_how_much_do_you_get_per_hryear/
+
+### Software Engineer
+https://www.glassdoor.com/Salaries/lead-software-development-engineer-salary-SRCH_KO0,34.htm
+https://www.glassdoor.com/Salaries/senior-software-development-engineer-salary-SRCH_KO0,36.htm
+https://www.glassdoor.com/Salaries/software-architect-salary-SRCH_KO0,18.htm
+https://www.glassdoor.com/Salaries/principal-software-engineer-salary-SRCH_KO0,27.htm
+
+### Top paying companies
+https://www.levels.fyi/2018/
+
+### Places to check
+https://enterprisersproject.com/article/2018/11/what-are-best-places-check-it-salaries-online
+https://www.levels.fyi/
+
+### Rate calculator
+https://www.finder.com.au/hourly-rate-calculator
+
+---
 
 {% include links.html %}

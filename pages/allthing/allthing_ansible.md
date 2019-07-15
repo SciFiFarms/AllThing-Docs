@@ -10,13 +10,54 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Darshan Chaudhary's ansible notes
+https://github.com/darshanime/notes/blob/master/ansible.org
+
 ## Roles
 ### Docker
 https://github.com/geerlingguy/ansible-role-docker
 ---
 
+## Modules
+### DigitalOcean domain
+https://docs.ansible.com/ansible/2.3/digital_ocean_domain_module.html
+---
+
+## Tips
+### Secret managment
+https://medium.com/faun/https-medium-com-mikhail-advani-secret-management-with-ansible-3bfdd92472ef
+
+### Loops
+https://docs.ansible.com/ansible/latest/user_guide/playbooks_loops.html
+
+### Inventory
+https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html
+https://ansible-tips-and-tricks.readthedocs.io/en/latest/ansible/inventory/
+https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html#other-inventory-scripts
+https://docs.ansible.com/ansible/latest/plugins/lookup/inventory_hostnames.html
+---
+
+## Hardening with Ansible
+### DevSec project
+https://dev-sec.io/project/
+https://github.com/dev-sec/ansible-os-hardening
+https://github.com/dev-sec/linux-baseline
+
+### Openstack's role
+https://github.com/openstack/ansible-hardening
+https://docs.openstack.org/ansible-hardening/latest/
+
+### Hardening using idempotency
+https://www.linux.com/blog/linux-server-hardening-using-idempotency-ansible-part-2
+
+
+---
+
 ### Writing your first playbook
 https://www.ansible.com/blog/getting-started-writing-your-first-playbook
+
+### Setting env with Ansible
+https://stackoverflow.com/questions/27733511/how-to-set-linux-environment-variables-with-ansible
 
 ### Manage workstation with Ansible
 https://opensource.com/article/18/3/manage-workstation-ansible
@@ -44,6 +85,9 @@ https://github.com/jdumars/agileops
 
 ### Updating Elastic Stack with Ansible
 https://www.toptal.com/ansible/update-elastic-stack-ansible-playbooks
+
+### Using Ansible with GitLab
+https://about.gitlab.com/2019/07/01/using-ansible-and-gitlab-as-infrastructure-for-code/
 
 ### Ansible Vs Puppet
 https://searchsoftwarequality.techtarget.com/tip/Ansible-vs-Puppet-Declarative-DevOps-tools-square-off

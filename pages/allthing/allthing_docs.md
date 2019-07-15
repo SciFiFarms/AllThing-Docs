@@ -19,10 +19,26 @@ https://grantwinney.com/cool-markdown-tricks-for-github/
 ### Docs
 https://learn.getgrav.org/16/basics/what-is-grav
 
+### Docker
+Best?: https://hub.docker.com/r/marvinroman/grav-docker
+It has Learn2 with Git Sync Site, which includes search. Nice. 
+
+https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync
+https://github.com/getgrav/docker-grav
+https://hub.docker.com/r/dsavell/grav
+https://github.com/it-herz/docker-grav/blob/master/Dockerfile
+
+### Old ansible (Has SMTP?)
+https://github.com/afonsoduarte/ansible-grav
+
 ### Skeletons: Packages of themes, configs, plugins etc.
 https://getgrav.org/downloads/skeletons
+https://getgrav.org/downloads/plugins
 
 ### Themes
+The best: https://rockettheme.com/grav/themes/hadron
+https://bootswatch.com/darkly/
+https://vue-particles.netlify.com/
 https://rockettheme.com/grav/themes
 https://getgrav.org/downloads/themes
 https://demo.getgrav.org/woo-skeleton/#
@@ -32,6 +48,16 @@ Another element I liked: https://vue-particles.netlify.com/
 ### Add Ons
 User management: https://github.com/david-szabo97/grav-plugin-admin-addon-user-manager
 Oauth2: https://github.com/trilbymedia/grav-plugin-login-oauth2
+Git sync: https://getgrav.org/blog/git-sync-2.0
+https://github.com/trilbymedia/grav-plugin-git-sync
+GitHub: https://github.com/getgrav/grav-plugin-github/blob/master/README.md
+Search: https://github.com/trilbymedia/grav-plugin-tntsearch
+
+### Deployment
+https://getgrav.org/blog/developing-with-github-part-2
+https://discourse.getgrav.org/t/grav-deploy-best-practice/4459/15
+http://www.azurestack.tips/en/blog/blog-grav-deployment
+
 
 ### Hosting
 https://www.kualo.com/webhosting/grav-hosting
@@ -74,6 +100,9 @@ https://github.com/forestryio/forestry.io
 ### HackMd
 https://github.com/hackmdio/codimd
 https://hackmd.io/
+https://hub.docker.com/r/linuxserver/codimd
+https://hackmd.io/c/codimd-documentation/%2Fs%2Fcodimd-oauth-nextcloud
+https://github.com/hackmdio/codimd/issues/356
 
 ### WikiJS
 https://wiki.js.org/
@@ -124,7 +153,8 @@ You'll need to change the URL you visit similarly: http://localhost:4001
 
 Live reload a page once it has been updated is supposed to be possible, but doesn't seem to work out of the box. 
 
-
+### Nice Readme.md templates
+https://github.com/kefranabg/readme-md-generator
 
 ### Docs Like Code
 https://www.docslikecode.com
@@ -239,6 +269,11 @@ https://tiddlywiki.com/plugins/tiddlywiki/markdown/
 https://tiddlywiki.com/static/How%2520to%2520build%2520a%2520TiddlyWiki5%2520from%2520individual%2520tiddlers.html
 https://tiddlywiki.com/static/Using%2520TiddlyWiki%2520for%2520GitHub%2520project%2520documentation.html
 https://tiddlywiki.com/static/Generating%2520Static%2520Sites%2520with%2520TiddlyWiki.html
+
+### How to clone a website
+https://medium.com/@_jayhill/how-to-clone-host-a-website-c697d3493b68
+https://www.securitynewspaper.com/2018/11/15/clone-any-website-with-httrack/
+https://www.httrack.com/page/2/
 
 {% include links.html %}
 

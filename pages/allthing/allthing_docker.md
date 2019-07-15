@@ -180,6 +180,9 @@ https://pythonspeed.com/articles/activate-virtualenv-dockerfile/
 ### See memory usage with docker stats
 https://docs.docker.com/engine/reference/commandline/stats/
 
+### You have to use -i to pipe into a docker container
+https://stackoverflow.com/questions/35688407/piping-a-file-into-docker-run
+
 {% include links.html %}
 
 

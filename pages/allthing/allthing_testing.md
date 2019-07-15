@@ -10,6 +10,12 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### GoCD
+Download: https://www.gocd.org/download/#zip
+Docker: https://hub.docker.com/r/gocd/gocd-server/
+plugins: https://www.gocd.org/plugins/#task
+
+
 ### Jenkins is integrating with Docker better. 
 https://jenkins.io/doc/book/pipeline/
 

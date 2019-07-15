@@ -86,6 +86,9 @@ https://www.hortidaily.com/article/9090278/us-nj-hydroponic-farm-helps-adults-wi
 https://www.hortidaily.com/article/9089799/us-co-how-an-urban-farm-is-turning-lawns-into-lettuce/
 https://www.hortidaily.com/article/9088447/china-rapid-price-increase-for-peppers-is-due-to-declining-import-volumes/
 https://www.hortidaily.com/article/9107080/us-nc-vertical-farm-in-former-factory-site-doubling-in-production-capacity/
+https://futurism.com/the-byte/iron-ox-robot-farms
+https://www.hortidaily.com/article/9117708/us-fl-aeroponic-tower-gardens-introduced-to-student-learning-experience/
+https://www.hortidaily.com/article/9111437/us-mn-aeroponics-grower-adds-new-lettuce-and-microgreen-offerings/
 
 ### Potential source of ideas
 https://www.hortidaily.com/article/45117/Growing-crops-with-roots-in-the-mist/
@@ -95,6 +98,7 @@ https://www.hortidaily.com/article/45059/Vertical-farm-products-easy-to-construc
 https://www.localharvest.org
 
 ### Very similar project to TechnoCore
+https://dockerswarm.rocks/project-generators/
 https://github.com/norweeg/self-hosted-docker-server-templates
 https://www.instructables.com/id/Cube-Farm-a-Modular-Open-Source-Agriculture-Platfo/
 https://andrewaadland.me/2018/01/18/hosting-your-own-cloud/
@@ -202,11 +206,15 @@ biggreen.org/where-were-growing/denver-front-range
 
 https://www.reddit.com/user/PM_ME_YOUR_SHELLCODE
 
+https://danielvassallo.com/only-intrinsic-motivation-lasts/
+
 http://aeroponic.net/
 
 https://blog.rakearound.com/posts/urban-agriculture-story:-from-nasa-science-to-indoor-gardening-with-vertiponic
 
 hortidaily.com/article/43314/Aeroponic-greenhouse-opens-in-Turin
+
+https://www.hortidaily.com/article/9109587/netherlands-growers-become-shareholders-of-their-cooperative/
 
 wctrib.com/business/agriculture/4440914-lettuce-abound-farms-serves-first-harvest-new-london-aeroponics
 
@@ -261,6 +269,8 @@ openfarm.cc
 
 independent.ie/business/farming/agri-business/companies/is-vertical-farming-the-new-growth-area-for-the-sector-36803060.html
 
+https://www.facebook.com/CEPPTLAB
+
 People capturing carbon in dirt:
 nytimes.com/2018/04/18/magazine/dirt-save-earth-carbon-farming-climate-change.html
 
@@ -283,6 +293,10 @@ thehindubusinessline.com/news/coimbatore-agri-engineer-grows-crops-out-of-thin-a
 wur.nl/en/Education-Programmes/Current-Students/Student-Challenge/Could-you-design-the-ultimate-urban-greenhouse.htm
 
 https://www.indiegogo.com/projects/growstrip-by-grow-computer?secret_perk_token=065fb779#/updates/all
+
+https://www.forbes.com/sites/maggiemcgrath/2018/06/27/the-25-most-innovative-agtech-startups-in-2018/#2f5223192302
+
+https://twitter.com/calebgrowsfood
 
 https://drive.google.com/file/d/1rqabGWPq5gtiMcj5I6mA4vhUrffrM_K2/view
 
@@ -322,6 +336,9 @@ https://www.dezeen.com/2019/03/07/vertical-farming-agriculture-architecture-citi
 https://citi.io/2019/04/08/three-ways-cities-can-help-feed-the-world-without-costing-the-earth/
 https://www.hortidaily.com/article/9102799/growing-up-instead-of-out/
 https://www.hortidaily.com/article/9108440/a-full-view-of-your-farm-all-on-one-platform/
+https://www.popsci.com/big-agriculture-solutions-soil-water-animals/
+https://www.redhat.com/en/open-source-stories/farming-for-the-future
+https://onezero.medium.com/fully-automated-luxury-communism-isnt-our-future-1e4c9fb9c602Gk
 
 
 

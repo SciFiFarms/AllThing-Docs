@@ -10,6 +10,9 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Darshan Chaudhary's git notes
+https://github.com/darshanime/notes/blob/master/git.org
+
 ### Git best practices
 https://sethrobertson.github.io/GitBestPractices/
 

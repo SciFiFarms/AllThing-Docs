@@ -22,6 +22,11 @@ https://www.commercial-industrial-supply.com/documents/schedule40-pipe.pdf
 ### Maybe I have to go 3/4 -> 1/4. 
 https://filterdirect.com/garden-hose-laundry-hose-adapter-rodi-systems-p-106.html
 
+### Glueing PVC
+https://www.familyhandyman.com/plumbing/how-to-glue-and-join-pvc-plastic-pipe/
+https://www.koiphen.com/forums/showthread.php?117414-Proper-Gluing-Techniques-for-PVC
+https://www.youtube.com/watch?v=QQF_XDISuSw
+
 ### Online suppliers
 https://www.pvcfittingsonline.com/
 https://flexpvc.com/cart/agora.cgi?product=PVC-CLEAR-PIPE-NSF-Sch40

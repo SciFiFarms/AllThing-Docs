@@ -10,6 +10,11 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Darshan Chaudhary's python notes
+https://github.com/darshanime/notes/blob/master/django.org
+https://github.com/darshanime/notes/blob/master/python.org
+https://github.com/darshanime/notes/blob/master/python_gotchas.org
+
 ### Use anytree to build parts list, prices, electric usage, etc for modeling
 https://stackoverflow.com/questions/2358045/how-can-i-implement-a-tree-in-python-are-there-any-built-in-data-structures-in
 https://anytree.readthedocs.io/en/latest/intro.html#overview
@@ -30,6 +35,9 @@ https://write.as/chobeat/python-project-tooling-explained
 ### Pipenv
 https://pipenv.readthedocs.io/en/latest/
 https://opensource.com/article/19/4/managing-python-packages
+
+### Pip and docker
+https://pythonspeed.com/articles/pipenv-docker/
 
 ### pydockenv: pipenv, but ran in a container rather than vertial env.
 https://github.com/se7entyse7en/pydockenv

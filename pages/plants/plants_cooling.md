@@ -9,6 +9,9 @@ permalink: plants_cooling.html
 folder: plants
 ---
 
+### Knock out video on evaporative cooling for AC. Consider replacing something like this with peltier for cooling/desiccant heating
+https://www.youtube.com/watch?time_continue=1957&v=R_g4nT4a28U
+
 ## Peltier 
 
 ### Peltier projects

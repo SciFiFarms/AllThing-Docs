@@ -8,6 +8,10 @@ sidebar: plants
 permalink: nutrient-deficiencies.html
 folder: plants
 ---
+
+### Mixing your own nutrients
+https://hortamericas.com/blog/science/considering-mixing-your-own-fertilizer-solutions/
+
 ### How plants get nutrients from microbes
 https://www.hortidaily.com/article/9019921/How-plants-harness-microbes-to-get-nutrients/
 

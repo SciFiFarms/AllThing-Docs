@@ -29,6 +29,8 @@ https://github.com/Spartan-II-117/node-red-contrib-home-assistant
 ### Great video on using Home Assistant components:
 https://www.youtube.com/watch?v=dYN1Lp-XYKA
 
+### How to trigger a Node Red flow from Home Assistant
+https://bonani.tech/how-to-trigger-a-node-red-flow-from-the-home-assistant-ui/
 
 ### Context Browser
 https://github.com/sbarwe/node-red-contrib-contextbrowser

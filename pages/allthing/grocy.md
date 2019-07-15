@@ -10,6 +10,9 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Barcode buddy: Script for working with bar codes!
+https://www.reddit.com/r/grocy/comments/cbxhez/i_created_barcode_buddy_a_barcode_system_for/
+
 ### linuxserver repo
 https://github.com/linuxserver/docker-grocy
 

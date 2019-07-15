@@ -35,6 +35,7 @@ https://www.hortidaily.com/article/9103958/top-us-commodities-featured-this-week
 https://www.hortidaily.com/article/9108109/us-2018-production-of-fresh-vegetables-decreased/
 https://www.restaurantnewsresource.com/HNR-category-category-Trends.html
 https://www.uaf.edu/files/snre/MP_06_02.pdf
+https://www.hortidaily.com/article/9121350/leaf-lettuce-continues-to-be-monterey-county-s-number-one-crop/
 ---
 
 ## Crowd funding
@@ -56,8 +57,25 @@ https://www.patreon.com/zemarmot
 https://www.buymeacoffee.com/robconnolly
 ---
 
+## Accountants
+### In Fort Collins
+https://www.reddit.com/r/FortCollins/comments/5zubmd/accountant_recommendations/
+https://www.reddit.com/r/FortCollins/comments/4e5ihj/recommendations_for_an_accountant/
+https://web.coloradoaccountant.org/Year-Round-Tax-Preparation/Yvette-M-Ruebel,-PA-345
+https://ptallp.com/
+https://www.linkedin.com/company/eks&h/
+https://www.plantemoran.com/get-to-know/offices/fort-collins
+
+### Types of advisers 
+https://www.reddit.com/r/personalfinance/comments/brn3py/need_to_talk_with_a_financial_person_but_not_sure/
+https://www.reddit.com/r/personalfinance/comments/brpxjw/accountant_vs_financial_adviser_vs_doityourself/
+--- 
+
 ### YC Playbook
 https://playbook.samaltman.com/
+
+### Startup checklist
+https://www.defmacro.org/2019/03/26/startup-checklist.html
 
 ### How to contribute to open source projects: Decent list of things outside of programming. Target these specifically. 
 https://www.forbes.com/sites/jasonevangelho/2019/05/13/8-ways-contribute-desktop-linux-community-marketing-documentation-art-testing/
@@ -71,6 +89,9 @@ https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/
 ### How to detect agile BS
 https://thenewstack.io/the-u-s-department-of-defense-on-how-to-detect-agile-bs/
 
+### Delegating to a team
+https://www.annashipman.co.uk/jfdi/delegating-to-a-team.html
+
 ### Why working for a startup doesn't make sense
 https://jatins.gitlab.io/me/why-startup/
 
@@ -80,6 +101,9 @@ https://old.reddit.com/r/Entrepreneur/comments/9n8xyj/inventrepreneurship_i_took
 ### Why go all remote:
 https://about.gitlab.com/2018/10/18/the-case-for-all-remote-companies/
 
+### Well put thoughts on GMOs
+https://undark.org/2019/06/27/monsanto-gmo-crusade/
+
 ### Benefits and const of corporate open source
 https://increment.com/open-source/the-benefits-and-costs-of-corporate-open-source/
 
@@ -88,6 +112,15 @@ https://opensource.com/article/19/4/devops-pipeline
 
 ### Why and how to avoid hiring for culture fit
 https://opensource.com/open-organization/18/10/reconsider-culture-fit
+
+### How to make on-call not suck
+https://dev.to/molly_struve/making-on-call-not-suck-490
+
+### Thoughts on distributed tracing: Oversold?
+https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857dfk
+
+### Python vs Go vs Rust
+http://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/
 
 ### Managing by consensus
 https://www.ozy.com/rising-stars/the-office-of-happy-hiring-firing-and-promoting-by-consensus/93072
@@ -115,6 +148,12 @@ https://hackernoon.com/why-do-startups-fail-a-postmortem-of-256-failed-startups-
 
 ### DevOps myths (Culture and collaboration)
 https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/The-DevOps-encompasses-culture-and-collaboration-myth-destroyed
+
+### Changing minds on DevOps
+https://enterprisersproject.com/article/2019/7/devops-for-doubters-9-tips
+
+### SRE team structures
+https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started
 
 ### Design systems (DevOps for graphic design?)
 https://medium.com/code-build/why-design-systems-are-going-to-shape-the-internet-b87dfa2657e3
@@ -208,6 +247,12 @@ https://www.gavop.com/b/vertical-farming-urban-areas-are-adding-value-real-estat
 ### Information on junk science
 https://thewalrus.ca/the-rise-of-junk-science/
 
+### Motivation
+https://www.ted.com/talks/dan_pink_on_motivation
+
+### Where to plant trees
+https://www.scientificamerican.com/article/massive-forest-restoration-could-greatly-slow-global-warming/
+
 ### Importance of one on ones:
 https://css-tricks.com/the-importance-of-one-on-ones/
 
@@ -246,7 +291,17 @@ https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-s
 
 ### Paying to convert farm land to forest
 https://www.intelligentliving.co/costa-rica-forest-cover/
+
+### Base drug prices on effectiveness
+https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2018.05142?journalCode=hlthaff
 ---
+
+
+### Async communication tips and tricks
+https://circleci.com/blog/how-my-distributed-team-communicates-so-no-context-is-left-behind/
+
+### Trouble with VCs
+https://www.wired.com/story/blitzscaling-is-choking-innovation/
 
 ### The Mindfulness Conspiracy: Capitalist Spirituality
 https://www.theguardian.com/lifeandstyle/2019/jun/14/the-mindfulness-conspiracy-capitalist-spirituality

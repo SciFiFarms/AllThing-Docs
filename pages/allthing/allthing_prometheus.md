@@ -97,6 +97,9 @@ https://www.elastic.co/blog/elasticsearch-observability-embracing-prometheus-and
 ### Article about GitLabs use + links to their dashboard
 https://about.gitlab.com/2018/09/27/why-all-organizations-need-prometheus/
 
+### Example scraping and monitoring stock prices
+https://eliteinformatiker.de/2019/07/03/monitoring-stock-prices-with-prometheus-and-molescrape
+
 ### Getting started with Prometheus
 https://opensource.com/article/18/12/introduction-prometheus
 

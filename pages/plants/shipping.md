@@ -22,8 +22,18 @@ https://www.hortidaily.com/article/9098442/california-giant-conducts-testing-on-
 
 ### More cardboard
 https://www.hortidaily.com/article/9102002/cardboard-is-being-used-more-often-to-replace-plastic-packaging/
+https://www.hortidaily.com/article/9113095/todis-launches-plastic-free-packaging/
+https://www.hortidaily.com/article/9113469/use-of-slip-sheets-results-in-logistic-advantages/
+https://www.hortidaily.com/article/9113913/sustainable-packaging-for-snack-tomatoes/
 
 ### Zero waste packaging
 https://www.hortidaily.com/article/9106043/loop-the-supermarket-with-zero-packaging-waste/
 
+### Cardboard pots
+https://www.hortidaily.com/article/9113008/sustainable-pots-taking-off/
+
+### Automated packaging
+https://www.hortidaily.com/article/9121823/robotized-lettuce-processing-automated-by-24-programmes/
+
 {% include links.html %}
+

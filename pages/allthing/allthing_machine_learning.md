@@ -13,6 +13,9 @@ folder: allthing
 ### Collection of ML models, tips, tricks, etc
 https://github.com/rasbt/deeplearning-models
 
+### Big library of machine learning algorithms in numpy. 
+https://github.com/ddbourgin/numpy-ml
+
 ### ML version of Pi
 https://project.seeedstudio.com/SeeedStudio/caffe-in-jetson-nano-9f4335
 
@@ -32,5 +35,10 @@ https://github.com/quantumblacklabs/kedro
 ### Automl-gs
 https://github.com/minimaxir/automl-gs
 
+### Voice cloning
+https://github.com/CorentinJ/Real-Time-Voice-Cloning
+
+### Working with Jupyter
+https://fedoramagazine.org/jupyter-and-data-science-in-fedora/
 
 {% include links.html %}

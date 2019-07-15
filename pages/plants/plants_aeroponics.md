@@ -21,6 +21,12 @@ https://www.reddit.com/r/microgrowery/comments/bqxuic/diy_medium_pressure_aeropo
 https://www.reddit.com/user/diy-aeroguy?sort=top
 https://www.reddit.com/r/aeroponics/comments/buhiq2/hpa_really_is_amazing/
 https://www.hortidaily.com/article/9100748/russia-novosibirsk-scientists-grow-strawberries-with-aeroponics/
+https://forum.openag.media.mit.edu/t/aeroponic-greenhouse/4976/15
+https://www.reddit.com/r/aeroponics/comments/c1yt88/have_had_some_trouble_with_the_transition_from/
+https://www.reddit.com/r/SpaceBuckets/comments/c32ot7/stability_suggestions/
+https://forum.openag.media.mit.edu/t/my-small-on-the-wall-aero-system-first-experiment/4958/2
+https://www.reddit.com/r/aeroponics/comments/c9219c/steady_improvements_being_made/
+https://www.reddit.com/r/SpaceBuckets/comments/c8cr33/recirculating_aeroponic_spacebucket/
 
 reddit.com/r/aeroponics/comments/8mu4s5/fogger_cycles_what_and_how
 
@@ -30,6 +36,10 @@ https://forum.openag.media.mit.edu/t/hp-aeroponics-exact-spray-without-tank/2901
 https://www.reddit.com/r/aeroponics/comments/b4yj96/i_am_planning_on_building_individual_reservoirs/
 https://www.reddit.com/r/aeroponics/comments/bhetrq/filter_size_to_prevent_nozzle_clogging/
 https://www.mistking.com/
+
+### More nozzles
+https://www.reddit.com/r/aeroponics/comments/c29ue9/question_about_misters_squirting_after_cycle/
+https://www.aeromist.com/misting-nozzles.html
 
 ### Nozzle Clogging:
 https://forum.openag.media.mit.edu/t/eliminating-clogging-in-hpa-and-stream-misters/3145/18
