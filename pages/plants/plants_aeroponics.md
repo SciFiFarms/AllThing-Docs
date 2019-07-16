@@ -36,6 +36,7 @@ https://forum.openag.media.mit.edu/t/hp-aeroponics-exact-spray-without-tank/2901
 https://www.reddit.com/r/aeroponics/comments/b4yj96/i_am_planning_on_building_individual_reservoirs/
 https://www.reddit.com/r/aeroponics/comments/bhetrq/filter_size_to_prevent_nozzle_clogging/
 https://www.mistking.com/
+https://forum.openag.media.mit.edu/t/common-hpa-nozzles-performances-repository/5018
 
 ### More nozzles
 https://www.reddit.com/r/aeroponics/comments/c29ue9/question_about_misters_squirting_after_cycle/

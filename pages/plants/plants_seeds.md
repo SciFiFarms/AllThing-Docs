@@ -263,9 +263,11 @@ https://smallfarms.cornell.edu/2015/04/06/lions-mane/t
 https://www.youtube.com/watch?v=42OzkSkMAQs
 https://freshcapmushrooms.com/learn/candidates-for-cultivation-the-lions-mane-mushroom/
 https://fungially.com/grow-lions-mane-mushroom-at-home/
+https://www.reddit.com/r/Nootropics/comments/cdpkyx/could_lions_mane_hericium_erinaceus_extend_human/
 Buy: https://www.groworganic.com/ds-lions-mane-mushroom-kit.html
 https://fungially.com/sawdust-spawn/
 https://northspore.com/products/grow-your-own-lions-mane
+
 
 
 ### Asian herbs

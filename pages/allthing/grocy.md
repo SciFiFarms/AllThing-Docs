@@ -16,4 +16,7 @@ https://www.reddit.com/r/grocy/comments/cbxhez/i_created_barcode_buddy_a_barcode
 ### linuxserver repo
 https://github.com/linuxserver/docker-grocy
 
+### Integrating with Home Assistant
+https://philhawthorne.com/automating-your-shopping-list-with-home-assistant-and-grocy/
+
 {% include links.html %}

@@ -80,6 +80,7 @@ https://www.defmacro.org/2019/03/26/startup-checklist.html
 ### How to contribute to open source projects: Decent list of things outside of programming. Target these specifically. 
 https://www.forbes.com/sites/jasonevangelho/2019/05/13/8-ways-contribute-desktop-linux-community-marketing-documentation-art-testing/
 
+
 ### Why agile/scrum are terrible:
 https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
 
@@ -131,6 +132,9 @@ https://github.com/webflow/leadership/blob/master/tech_lead.md
 ### A reminder that microservices aren't always the answer.
 https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with
 
+### 8 architectural considerations for microservices
+https://thenewstack.io/8-architectural-considerations-to-keep-in-mind-about-microservices/
+
 ### Typical CI process
 https://developers.redhat.com/blog/2017/09/06/continuous-integration-a-typical-process/
 
@@ -151,6 +155,9 @@ https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Th
 
 ### Changing minds on DevOps
 https://enterprisersproject.com/article/2019/7/devops-for-doubters-9-tips
+
+### Introverted Devops
+https://opensource.com/article/19/7/devops-introverted-people
 
 ### SRE team structures
 https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started
@@ -285,6 +292,9 @@ https://blog.graphqleditor.com/the-state-of-graphql-by-reddit/
 ## Good Policies
 ### Wellbeing budget
 https://thehill.com/policy/international/446254-new-zealand-government-to-prioritize-well-being-over-economic-growth-in
+
+### 4 day work week
+https://blog.30hourjobs.com/an-interview-with-aidan-harper-of-the-4-day-week-campaign/
 
 ### Housing first
 https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness

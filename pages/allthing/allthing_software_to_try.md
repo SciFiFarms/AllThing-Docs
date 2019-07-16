@@ -48,8 +48,9 @@ https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bitt
 https://www.reddit.com/r/PleX/comments/8t0dyl/how_to_rename_audiobooks_files_and_meta_tags/
 https://www.reddit.com/r/NextCloud/comments/c8t8jg/anyone_going_to_fork_the_epub_app_or_know_of/
 
-## gpodder: Syncable podcasts
-### Docker build
+## Podcasts
+###gpodder: Syncable podcasts
+#### Docker build
 https://hub.docker.com/r/gpbenton/gpodder
 https://github.com/gpbenton/gpodder
 
@@ -63,6 +64,15 @@ https://play.google.com/store/apps/details?id=de.ph1b.audiobook&hl=en_US
 ### Desire:
 Way to send youtube videos and playlists to a server that will then download, convert, and upload as a new podcast. 
 Should also support regular mp3 files. 
+
+### Podlove
+https://podlove.org/
+
+### Podcast Generator
+https://github.com/albertobeta/PodcastGenerator
+
+### More thoughts
+https://www.reddit.com/r/selfhosted/comments/cdx33m/self_hosted_podcast/
 ---
 
 ## Multi room audio
@@ -211,6 +221,11 @@ ESP8266 ran watering: https://www.reddit.com/r/DIY/comments/byehfs/how_to_build_
 Buildable linux tablet: https://hackaday.com/2019/06/06/the-finest-linux-tablet-you-can-build/
 Good demo of sealing across plastic middle (Water reservoir): https://www.youtube.com/watch?v=_chYY76KQbY
 GREAT whole home power monitoring. Cool usage of clamps and precision readings: https://www.youtube.com/watch?v=BOgy6QbfeZk&feature=youtu.be
+
+### Plant projects
+http://wiki.seeedstudio.com/Grove_Beginner_Kit_for_Arduino/
+https://forum.openag.media.mit.edu/t/omk2-a-truly-fully-autonomous-hydro-aeroponics-controller-system/4996
+Nute dosing:https://www.youtube.com/watch?v=EDTkIeolY1I
 
 
 ## ERP
@@ -369,6 +384,9 @@ https://github.com/seek-oss/playroom
 ### Vue structure
 https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb
 
+### Template for Vue projects?
+https://sobolevn.me/2019/06/really-typing-vue
+
 ### Gantry: Themes that work in Grav, Joomla, WordPress
 http://gantry.org/
 https://github.com/gantry/gantry5
@@ -440,6 +458,9 @@ Mattermost Digital Ocean instructions: http://michaelb.org/how-to-install-matter
 Mattermost production docker instructions: https://docs.mattermost.com/install/prod-docker.html
 Mattermost NextCloud as an external link: https://forum.mattermost.org/t/mattermost-as-an-external-site-in-nextcloud/6724/2
 https://www.reddit.com/r/selfhosted/comments/b81gwa/in_the_light_of_discords_new_censorship_laws_does/
+
+### Running your own social network
+https://runyourown.social/
 
 ### Zulip is seriously competitive. Also
 https://zulipchat.com/integrations/
@@ -705,6 +726,9 @@ https://wizardzines.com/
 
 ### Developer roadmap
 https://github.com/kamranahmedse/developer-roadmap
+
+### DevOps book list
+https://github.com/chris-short/DevOps-README.md
 
 ### Packit: Automating .rpm package creation and inclusion with fedora's repos.
 https://fedoramagazine.org/packit-packaging-in-fedora-with-minimal-effort/

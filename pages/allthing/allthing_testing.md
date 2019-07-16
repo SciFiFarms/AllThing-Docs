@@ -15,6 +15,9 @@ Download: https://www.gocd.org/download/#zip
 Docker: https://hub.docker.com/r/gocd/gocd-server/
 plugins: https://www.gocd.org/plugins/#task
 
+### Hypothesis: AI assisted unit testing in Python
+https://hypothesis.works/
+
 
 ### Jenkins is integrating with Docker better. 
 https://jenkins.io/doc/book/pipeline/

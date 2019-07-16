@@ -20,6 +20,7 @@ https://github.com/grafana/loki/blob/master/docs/usage.md
 
 ### How to run Loki
 https://github.com/grafana/loki/blob/master/production/README.md
+https://github.com/grafana/loki/blob/master/docs/usage.md
 
 ### Loki plugin for Fluentd
 https://github.com/grafana/loki/tree/master/fluentd/fluent-plugin-loki
