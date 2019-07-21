@@ -47,6 +47,7 @@ https://www.authy.com/integrations/ssh/
 https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/
 https://www.reddit.com/r/PleX/comments/8t0dyl/how_to_rename_audiobooks_files_and_meta_tags/
 https://www.reddit.com/r/NextCloud/comments/c8t8jg/anyone_going_to_fork_the_epub_app_or_know_of/
+https://blog.project-insanity.org/2019/06/14/ebook-reader-app-for-nextcloud/
 
 ## Podcasts
 ###gpodder: Syncable podcasts
@@ -496,7 +497,15 @@ https://www.balena.io/open/
 
 ### Wekan is a cool open source version of trello... But actually, it seems to have integrations with NextCloud and GitLab/GitHub
 https://wekan.github.io/
+https://github.com/wekan/wekan
+https://hub.docker.com/r/wekanteam/wekan
+https://github.com/wekan/wekan/wiki/Install-Wekan-Docker-in-production
 https://help.nextcloud.com/t/please-bring-wekan-to-nextcloud-instead-of-continuing-deck/19072/2
+Dockerfile?: https://github.com/wekan/wekan/blob/master/Dockerfile
+https://www.bountysource.com/teams/wekan
+https://github.com/wekan/wekan/wiki/Settings
+
+
 
 ### Wekan vs Restaboard vs Trello
 https://github.com/wekan/wekan/wiki/Wekan-vs-Trello-vs-Restyaboard
@@ -506,6 +515,9 @@ Docker: https://github.com/RestyaPlatform/board/wiki/Docker:-Build-and-Install
 https://hub.docker.com/r/restyaplatform/restyaboard
 List of apps: https://github.com/RestyaPlatform/board-apps
 OAuth: https://restya.com/board/developers
+
+### High Availability at home: Good walk through on how I might set up HA for TechnoCore
+https://medium.com/@fabrizio2210/high-availability-at-homes-dc01439662b3
 
 ### Going Google Free:
 https://www.reddit.com/r/LineageOS/comments/8xvzje/going_googlefree_went_better_than_expected/

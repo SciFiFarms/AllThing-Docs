@@ -67,6 +67,9 @@ https://www.linuxjournal.com/content/writing-more-compact-bash-code
 ### Bash variable scope examples:
 https://www.thegeekstuff.com/2010/05/bash-variables/
 
+### Working with dynamic variable names
+https://stackoverflow.com/questions/16553089/dynamic-variable-names-in-bash
+
 ### Use expect to dynamically enter information on the command line:
 https://askubuntu.com/questions/269878/how-to-use-expect-with-bash
 https://stackoverflow.com/questions/4780893/use-expect-in-bash-script-to-provide-password-to-ssh-command
@@ -106,7 +109,7 @@ https://github.com/shellfire-dev/shellfire
 ### Graphqurl (Shellfire GraphQL/CURL. Yeah, doesn't make a lot of sense.)
 https://github.com/hasura/graphqurl
 
-### Echo output to stderr >2&
+### Echo output to stderr prepend >2&: ">2& echo ...."
 https://stackoverflow.com/questions/2990414/echo-that-outputs-to-stderr
 
 ### Bash string substitution
@@ -120,6 +123,9 @@ https://stackoverflow.com/questions/3601515/how-to-check-if-a-variable-is-set-in
 
 ### Get the directory of the script being ran.
 https://stackoverflow.com/questions/59895/getting-the-source-directory-of-a-bash-script-from-within
+
+### Get the current directory (without path)
+https://stackoverflow.com/questions/1371261/get-current-directory-name-without-full-path-in-a-bash-script/1371283#1371283
 
 ### 10 Handy BASH aliases
 https://opensource.com/article/18/9/handy-bash-aliases
@@ -159,6 +165,15 @@ https://stackoverflow.com/questions/4598001/how-do-you-find-the-original-user-th
 
 ### BASH Startup explained: .bashrc vs profile vs...
 https://zwischenzugs.com/2019/02/27/bash-startup-explained/
+
+### RegEx
+https://stackoverflow.com/questions/2172352/in-bash-how-can-i-check-if-a-string-begins-with-some-value/2172365
+https://stackoverflow.com/questions/16578497/regex-for-does-not-begin-with
+https://unix.stackexchange.com/questions/251013/bash-regex-capture-group
+https://stackoverflow.com/questions/1891797/capturing-groups-from-a-grep-regex
+
+### Sclice $@: ${@:2}
+https://stackoverflow.com/questions/2701400/remove-first-element-from-in-bash
 
 ### Also see the Linux page.
 

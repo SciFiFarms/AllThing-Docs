@@ -35,6 +35,9 @@ https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html
 https://ansible-tips-and-tricks.readthedocs.io/en/latest/ansible/inventory/
 https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html#other-inventory-scripts
 https://docs.ansible.com/ansible/latest/plugins/lookup/inventory_hostnames.html
+
+### Only run a single task
+https://stackoverflow.com/questions/23945201/how-to-run-only-one-task-in-ansible-playbook
 ---
 
 ## Hardening with Ansible

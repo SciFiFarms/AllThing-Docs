@@ -14,7 +14,23 @@ folder: allthing
 ### Getting Started
 https://docs.traefik.io/basics/
 
+### Docker backend settings
+https://docs.traefik.io/configuration/backends/docker/
+
+### Docker image
+https://hub.docker.com/_/traefik?tab=description
+https://github.com/containous/traefik-library-image/blob/8c0a8508ea75d5a491abadb7fc5bfa33b2beb3d7/scratch/amd64/Dockerfile
+
+### Wildcard domains
+https://docs.traefik.io/configuration/acme/#wildcard-domains
 ---
+
+### DuckDNS does NOT work well when using subdomains
+Only one txt file, and I think each subdomain clobers the previous
+https://github.com/lukas2511/dehydrated/issues/594
+
+### Secure dashboard with password
+https://medium.com/@xavier.priour/secure-traefik-dashboard-with-https-and-password-in-docker-5b657e2aa15f
 
 ### Forwarding auth is supported
 https://github.com/containous/traefik/issues/391

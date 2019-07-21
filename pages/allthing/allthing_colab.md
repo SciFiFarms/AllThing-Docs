@@ -317,6 +317,7 @@ https://www.reddit.com/r/aeroponics/comments/bqypdg/pump_suggestions_and_an_idea
 https://knowledge.farm/
 
 ### Articles about farming of the future
+https://www.nationalgeographic.com/environment/2019/07/how-to-feed-the-world-without-destroying-the-planet/
 https://www.precht.at/the-farmhouse/
 https://grist.org/article/the-open-source-movement-to-hack-your-arugula/
 https://www.theatlantic.com/business/archive/2018/02/vertical-farming-houston/552665/

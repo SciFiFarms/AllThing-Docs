@@ -10,6 +10,9 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Firefox stopped trusting self signed certs entirely?
+https://timleland.com/firefox-allow-self-signed-certificate/
+
 ### How to clear firefox's TLS cache:
 https://www.thesslstore.com/blog/troubleshoot-firefoxs-tls-handshake-message/
 

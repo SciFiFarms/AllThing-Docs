@@ -29,6 +29,12 @@ https://openwrt.org/unsupported/wifi_5ghz?datasrt=%5Eunsupported%20functions
 ### Stock
 https://kb.netgear.com/24340/What-are-the-factory-default-settings-on-my-Nighthawk-R7000-router-and-how-do-I-reset-to-default
 
+### Best routers of 2019:
+https://www.lifewire.com/best-dd-wrt-routers-4160687
+https://www.technadu.com/best-dd-wrt-routers/8914/
+https://www.techradar.com/news/best-vpn-routers
+https://www.flashrouters.com/blog/2019/01/03/most-popular-best-vpn-wifi-wireless-routers-dd-wrt/
+
 ### Different kinds of DD WRT builds
 https://www.stevejenkins.com/blog/2013/08/difference-between-dd-wrt-brainslayer-eko-fractal-and-kong-builds/
 

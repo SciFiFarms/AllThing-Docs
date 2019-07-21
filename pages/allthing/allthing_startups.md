@@ -18,6 +18,10 @@ https://www.hortidaily.com/article/9096480/when-is-the-best-time-to-sign-a-fixed
 https://www.hortidaily.com/article/9062846/calculating-how-various-decisions-will-influence-the-climate-in-the-greenhouse/
 https://www.npr.org/sections/thesalt/2019/03/17/700715793/why-are-so-many-farmers-markets-failing-because-the-market-is-saturated
 
+## Stats
+https://www.nationalgeographic.com/environment/2019/07/how-to-feed-the-world-without-destroying-the-planet/
+---
+
 
 ## Farmer's markets
 https://www.profitableplantsdigest.com/9-tips-for-selling-your-crops-at-farmers-markets/

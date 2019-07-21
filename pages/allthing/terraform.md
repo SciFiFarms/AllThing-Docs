@@ -48,6 +48,10 @@ https://serialseb.com/blog/2016/05/11/terraform-working-around-no-count-on-modul
 https://learn.hashicorp.com/terraform/getting-started/variables.html#lists
 ---
 
+### Terragrunt: Seems like the sane way to manage terraform
+https://github.com/gruntwork-io/terragrunt
+https://www.reddit.com/r/devops/comments/ce1tvc/so_so_confused_on_terraform_directory_structuring/
+
 ### Composition and multicloud abstraction
 https://www.terraform.io/docs/modules/composition.html
 

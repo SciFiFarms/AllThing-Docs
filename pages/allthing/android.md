@@ -70,6 +70,11 @@ https://forum.xda-developers.com/android/apps-games/galaxy-playstore-alternative
 ### Lots of replacement apps
 https://www.reddit.com/r/LineageOS/comments/8xvzje/going_googlefree_went_better_than_expected/
 
+### Interval Timer
+https://f-droid.org/en/packages/org.secuso.privacyfriendlyintervaltimer/
+https://play.google.com/store/apps/details?id=org.secuso.privacyfriendlyintervaltimer
+
+
 ### Here Maps
 https://play.google.com/store/apps/details?id=com.here.app.maps&hl=en_US
 
