@@ -12,6 +12,7 @@ folder: allthing
 
 ### Images
 https://hub.docker.com/_/nextcloud/
+https://github.com/nextcloud/docker/blob/master/.examples/docker-compose/with-nginx-proxy/mariadb-cron-redis/apache/docker-compose.yml
 https://hub.docker.com/r/linuxserver/nextcloud/
 https://github.com/nextcloud/docker
 https://hub.docker.com/u/ownyourbits/
@@ -31,6 +32,16 @@ Checking for changes on every access sounds like a good idea, it results in nons
 ### You can test/scan your nextcloud instance!
 https://scan.nextcloud.com/
 
+### Adding trusted domains
+https://help.nextcloud.com/t/adding-a-new-trusted-domain/26/15
+
+### I found infra scripts enlightening
+https://github.com/nextcloud/docker/tree/master/.examples
+https://github.com/nextcloud/docker/blob/c956cf7fa62e86c722bd44b38b009d70a48e4f1a/16.0/apache/entrypoint.sh
+https://github.com/docker-library/mariadb/blob/52ea3012bb04d8b62f4a6f7792baa07815467173/10.4/docker-entrypoint.sh
+https://github.com/nextcloud/docker/tree/master/16.0/apache/config
+https://github.com/nextcloud/docker/blob/master/16.0/apache/Dockerfile
+
 ### Test your TLS certs
 https://www.ssllabs.com/ssltest
 
@@ -39,7 +50,15 @@ https://docs.nextcloud.com/server/16/admin_manual/issues/general_troubleshooting
 
 ### How Nextcloud's settings work
 https://docs.nextcloud.com/server/16/admin_manual/configuration_server/automatic_configuration.html
+https://github.com/nextcloud/docker#auto-configuration-via-environment-variables
 https://github.com/nextcloud/docker/tree/master/16.0/apache/config
+
+### I tried getting trusted reverse proxies to work, but I was missing something. Maybe something in Traefik?
+https://docs.traefik.io/configuration/entrypoints/#forwarded-header
+https://docs.nextcloud.com/server/15/admin_manual/configuration_server/reverse_proxy_configuration.html
+https://github.com/nextcloud/docker/pull/527
+https://github.com/GuyPaddock/inveniem-nextcloud-azure/commit/d09ee0cf0b50fca726cd87147a3fea782aa33ce1#diff-754ac7f0be091966820161830749036fR35
+https://github.com/nextcloud/docker/issues/401
 ---
 
 
@@ -64,6 +83,8 @@ https://geek-cookbook.funkypenguin.co.nz/recipes/nextcloud/
 https://github.com/nextcloud/docker/issues/577#issuecomment-469279926
 https://andrewaadland.me/2018/11/25/proper-webdav-redirects-for-nextcloud-with-docker-labels/
 
+### Hardening Nextcloud
+https://docs.nextcloud.com/server/16/admin_manual/installation/harden_server.html
 
 ### How to install Nextcloud (Using Ansible!)
 https://github.com/ReinerNippes/nextcloud

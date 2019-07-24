@@ -71,6 +71,9 @@ https://github.com/prometheus/prometheus/pull/3687/files
 https://docs.docker.com/config/thirdparty/prometheus/
 ---
 
+### Alerting
+https://prometheus.io/docs/practices/alerting/
+
 ### Definitive Guide to Prometheus
 http://devconnected.com/the-definitive-guide-to-prometheus-in-2019/
 

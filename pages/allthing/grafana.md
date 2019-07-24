@@ -27,6 +27,7 @@ https://grafana.com/dashboards/893
 https://grafana.com/dashboards/6490
 
 ### SNMP
+Best looking one, would need some work: https://grafana.com/grafana/dashboards/950
 https://grafana.com/dashboards?dataSource=prometheus&search=snmp
 ---
 
@@ -43,6 +44,7 @@ Use $tag_whatever to alias labels in graph: https://stackoverflow.com/questions/
 https://github.com/grafana/grafana/issues/525
 Using WHERE LIKE (=~): https://cmikavac.net/2018/03/30/how-to-use-where-like-clause-in-influxdb/
 ---
+
 
 
 ### Importing Prometheus dashboards into Grafana
@@ -70,6 +72,16 @@ https://grafana.com/docs/administration/provisioning/
 Datasources: https://grafana.com/docs/administration/provisioning/#datasources
 Postgres: https://grafana.com/docs/features/datasources/postgres/
 ---
+
+### SMTP Settings
+https://grafana.com/docs/installation/configuration/#smtp
+https://dzone.com/articles/grafana-alerting-and-email-notifications
+
+### Alerting
+https://grafana.com/docs/alerting/rules/#alerting-engine-rules-guide
+https://medium.com/@rdavix/how-to-export-alerts-from-prometheus-to-grafana-8f1de059a8c8
+https://sysdig.com/blog/kubernetes-monitoring-with-prometheus-alertmanager-grafana-pushgateway-part-2/
+https://github.com/scylladb/scylla-monitoring/wiki/Alerts
 
 ### Ansible for Grafana
 https://github.com/cloudalchemy/ansible-grafana

@@ -94,6 +94,9 @@ https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/
 ### How to detect agile BS
 https://thenewstack.io/the-u-s-department-of-defense-on-how-to-detect-agile-bs/
 
+### Kanban
+https://kanbanize.com/kanban-resources/getting-started/what-is-kanban/
+
 ### Delegating to a team
 https://www.annashipman.co.uk/jfdi/delegating-to-a-team.html
 

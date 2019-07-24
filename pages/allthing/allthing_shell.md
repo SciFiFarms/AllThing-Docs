@@ -13,6 +13,9 @@ folder: allthing
 ### Easy flags
 https://dev.to/quinncuatro/fun-with-flags-4cm0
 
+### Script to auto expand env vars with secret file values
+https://medium.com/@gregb43/huge-thanks-for-this-post-398d5726ed93
+
 ### Parsing command line options
 https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash
 
