@@ -20,6 +20,7 @@ https://www.npr.org/sections/thesalt/2019/03/17/700715793/why-are-so-many-farmer
 
 ## Stats
 https://www.nationalgeographic.com/environment/2019/07/how-to-feed-the-world-without-destroying-the-planet/
+https://online.scu.edu.au/blog/going-green/
 ---
 
 
