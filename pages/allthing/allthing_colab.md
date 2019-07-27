@@ -105,6 +105,7 @@ https://andrewaadland.me/2018/01/18/hosting-your-own-cloud/
 https://github.com/imixs/imixs-cloud
 https://github.com/stefanprodan/swarmprom
 https://yunohost.org/#/
+https://github.com/swarmstack/swarmstack
 
 ## Grants
 https://innovation.wfp.org/apply
@@ -123,6 +124,7 @@ https://www.hortidaily.com/article/9090257/new-high-tech-consortium-develops-cro
 ## Far out technology
 ### CO2 Capture
 https://news.engineering.utoronto.ca/out-of-thin-air-new-electrochemical-process-shortens-the-path-to-capturing-and-recycling-co2/
+https://actu.epfl.ch/news/next-gen-membranes-for-carbon-capture/
 
 ### Acoustic cooling
 https://www.aster-thermoacoustics.com/?p=1455
@@ -146,6 +148,8 @@ https://philhawthorne.com/homeautomation/
 https://opendevelopmentmethod.org/
 
 https://www.sananbious.com/
+
+https://www.reddit.com/r/pics/comments/cigubg/syrian_refugee_cooks_food_on_the_street_to_give/
 
 https://www.hortidaily.com/article/45556/How-the-right-sales-channel-can-make-or-break-your-vertical-farm/
 

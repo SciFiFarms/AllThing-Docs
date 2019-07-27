@@ -25,6 +25,21 @@ https://github.com/containous/traefik-library-image/blob/8c0a8508ea75d5a491abadb
 https://docs.traefik.io/configuration/acme/#wildcard-domains
 ---
 
+## Documentation
+### You can define what fields are reported to the access-log
+https://docs.traefik.io/configuration/logs/#access-logs
+
+### Sometimes order seems to matter in the run flags.
+https://www.reddit.com/r/Traefik/comments/avt1ut/issues_enabling_logs/
+---
+
+### Best guide on running Traefik in Swarm
+https://dockerswarm.rocks/traefik/
+https://medium.com/@tiangolo/docker-swarm-mode-and-traefik-for-a-https-cluster-20328dba6232
+
+### How to run Traefik and Fail2ban together
+https://github.com/crazy-max/docker-fail2ban/tree/master/examples/jails/traefik
+
 ### DuckDNS does NOT work well when using subdomains
 Only one txt file, and I think each subdomain clobers the previous
 https://github.com/lukas2511/dehydrated/issues/594

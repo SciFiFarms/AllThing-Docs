@@ -29,7 +29,12 @@ https://grafana.com/dashboards/6490
 ### SNMP
 Best looking one, would need some work: https://grafana.com/grafana/dashboards/950
 https://grafana.com/dashboards?dataSource=prometheus&search=snmp
+
+### Fail2ban 
+https://github.com/jangrewe/prometheus-fail2ban-exporter
+https://grafana.com/grafana/dashboards/9629
 ---
+
 
 ## Datasources (Used for [provisioning](https://grafana.com/docs/administration/provisioning/#datasources))
 ### Prometheus 

@@ -11,6 +11,7 @@ folder: allthing
 ---
 
 ### Projects and components I want to use:
+High Availability: https://github.com/cvb941/HAHA
 IDE: https://github.com/hassio-addons/addon-ide
 https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810
 https://www.home-assistant.io/components/calendar.caldav/

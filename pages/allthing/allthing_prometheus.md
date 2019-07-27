@@ -69,6 +69,10 @@ https://github.com/prometheus/prometheus/pull/3687/files
 
 ### Docker - requires experimental
 https://docs.docker.com/config/thirdparty/prometheus/
+
+### Fail2ban 
+https://github.com/jangrewe/prometheus-fail2ban-exporter
+https://grafana.com/grafana/dashboards/9629
 ---
 
 ### Alerting
