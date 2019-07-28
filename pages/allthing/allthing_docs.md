@@ -58,6 +58,8 @@ https://getgrav.org/blog/developing-with-github-part-2
 https://discourse.getgrav.org/t/grav-deploy-best-practice/4459/15
 http://www.azurestack.tips/en/blog/blog-grav-deployment
 
+### Rate limiting
+https://learn.getgrav.org/16/admin-panel/security/rate-limiting
 
 ### Hosting
 https://www.kualo.com/webhosting/grav-hosting

@@ -31,6 +31,9 @@ https://docs.traefik.io/configuration/logs/#access-logs
 
 ### Sometimes order seems to matter in the run flags.
 https://www.reddit.com/r/Traefik/comments/avt1ut/issues_enabling_logs/
+
+### Different format for cli vs compose
+https://docs.traefik.io/v1.6/configuration/entrypoints/#cli
 ---
 
 ### Best guide on running Traefik in Swarm

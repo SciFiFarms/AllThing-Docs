@@ -165,6 +165,8 @@ https://forum.openag.media.mit.edu/t/would-like-to-share-information/4659/2
 
 https://www.reddit.com/r/Futurology/comments/bd3ocp/after_10000_years_of_annual_crops_we_are_watching/
 
+http://www.xinhuanet.com/english/2019-07/27/c_138261343.htm
+
 https://tribeawesome.com/project/aeroponics/index.html
 
 https://forum.openag.media.mit.edu/t/hello-open-ag-people-i-had-an-idea-and-i-think-it-may-be-similar-to-your-mission-let-me-know-what-you-think/4277/3

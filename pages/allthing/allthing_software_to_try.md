@@ -504,7 +504,12 @@ https://help.nextcloud.com/t/please-bring-wekan-to-nextcloud-instead-of-continui
 Dockerfile?: https://github.com/wekan/wekan/blob/master/Dockerfile
 https://www.bountysource.com/teams/wekan
 https://github.com/wekan/wekan/wiki/Settings
-
+Not really a great mobile solution? Have to try it and see.
+https://github.com/wekan/wekan/wiki/Friend
+https://github.com/wekan/wekan/issues/480
+https://github.com/wekan/wekan/issues/466
+https://www.bountysource.com/issues/29708770-mobile-apps
+https://medium.com/friendupcloud/with-friend-wekan-707af8d04d9f
 
 
 ### Wekan vs Restaboard vs Trello

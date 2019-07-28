@@ -13,6 +13,10 @@ folder: allthing
 ## Things to ban (Jails?)
 ### Traefik
 https://github.com/crazy-max/docker-fail2ban/tree/master/examples/jails/traefik
+
+### Nextcloud
+https://gist.github.com/GAS85/957e0b1a4f30120225a7be09b173eb24
+https://www.aptgetlife.co.uk/setup-fail2ban-for-nextcloud/
 ---
 
 ## Documentation
@@ -43,6 +47,9 @@ https://unrouted.io/2017/08/15/docker-firewall/
 
 ### For when I have an exposed setup
 https://www.fail2ban.org/wiki/index.php/Main_Page
+
+### Working with iptables
+https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules
 
 ### Actions
 https://github.com/fail2ban/fail2ban/tree/0.11/config/action.d
