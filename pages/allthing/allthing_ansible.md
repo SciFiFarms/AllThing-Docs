@@ -38,6 +38,9 @@ https://docs.ansible.com/ansible/latest/plugins/lookup/inventory_hostnames.html
 
 ### Only run a single task
 https://stackoverflow.com/questions/23945201/how-to-run-only-one-task-in-ansible-playbook
+
+### Use requirements.txt for role dependencies
+https://stackoverflow.com/questions/25230376/how-to-automatically-install-ansible-galaxy-roles
 ---
 
 ## Hardening with Ansible
@@ -73,6 +76,9 @@ https://www.ansiblefordevops.com/
 
 ### Deployment Strategies using Ansible
 https://opensource.com/article/19/1/automating-deployment-strategies-ansible
+
+### Ansible playbook wrapper
+https://www.reddit.com/r/ansible/comments/clcc9r/ansible_taskrunner_ansibleplaybook_wrapper_with/
 
 ### Ansible automation for system admins
 https://opensource.com/sites/default/files/gated-content/ansible_automation_for_sysadmins_v2.pdf
@@ -135,6 +141,9 @@ https://stackoverflow.com/questions/35654286/how-check-a-file-exists-in-ansible
 https://www.reddit.com/r/ansible/comments/9k09ad/dockercompose_and_ansible/
 https://docs.ansible.com/ansible/latest/modules/docker_compose_module.html
 ---
+
+### Could test playbooks
+https://medium.com/@arslan70/continuous-integration-for-a-monolithic-ansible-repository-ce4ea09f1588
 
 {% include links.html %}
 

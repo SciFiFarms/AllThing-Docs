@@ -74,4 +74,7 @@ nomadproject.io/guides/securing-nomad.html
 ### Simple PKI - an alternative to vault creating certs?
 https://www.reddit.com/r/selfhosted/comments/b9fn9y/simple_pki_a_bash_script_wrapper_for_openssl_that/
 
+### Essential patterns of vault
+https://www.reddit.com/r/devops/comments/cjlo6t/the_essential_patterns_of_vault_part_2/
+
 {% include links.html %}

@@ -48,6 +48,11 @@ https://serialseb.com/blog/2016/05/11/terraform-working-around-no-count-on-modul
 https://learn.hashicorp.com/terraform/getting-started/variables.html#lists
 ---
 
+## Limitation
+### Can't pass a resource to a module
+https://stackoverflow.com/questions/50740412/terraform-can-a-resource-be-passed-as-a-variable-into-a-module
+---
+
 ### Terragrunt: Seems like the sane way to manage terraform
 https://github.com/gruntwork-io/terragrunt
 https://www.reddit.com/r/devops/comments/ce1tvc/so_so_confused_on_terraform_directory_structuring/

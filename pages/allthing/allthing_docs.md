@@ -69,6 +69,7 @@ https://www.a2hosting.com/grav-hosting
 ### Website launching checklists
 https://www.reddit.com/r/coolguides/comments/b4ucou/website_pre_launch_checklist/
 https://www.checklist.design/
+https://dev.to/effingkay/front-end-checklist-3cc2
 
 ## Hugo
 ### Hugo: Developer Tools

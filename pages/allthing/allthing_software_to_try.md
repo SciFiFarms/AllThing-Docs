@@ -148,6 +148,8 @@ https://github.com/teoga/awesome-product-design
 https://github.com/0xInfection/Awesome-WAF
 https://medium.com/@writetomiglani/how-to-ace-the-certified-kubernetes-administrator-exam-in-7-days-e4603ac40746
 https://github.com/vinta/awesome-python
+https://github.com/kahun/awesome-sysadmin
+https://kubedex.com/courses/
 
 
 ### Hardware
@@ -243,7 +245,7 @@ https://www.odoo.com/
 https://hub.docker.com/_/odoo/?tab=description
 https://hub.docker.com/r/bitnami/odoo/
 
-### ERPNext
+### ERPNext - Has a LOT, including project managment?
 https://erpnext.com/docs/user/manual/en
 ---
 
@@ -274,6 +276,9 @@ https://www.vittoriomonaco.de/home-automation-part-7.html
 ### Email clients
 https://opensource.com/article/19/1/productivity-tool-cypht-email
 https://opensource.com/article/19/1/productivity-tool-isotope
+
+### Listmonk - OSS Mailing lists.
+https://github.com/knadh/listmonk
 
 ### Disapora: Distributed social media.
 https://diasporafoundation.org/
@@ -753,6 +758,9 @@ https://fedoramagazine.org/packit-packaging-in-fedora-with-minimal-effort/
 ### Hacker Tools
 https://hacker-tools.github.io/
 https://github.com/yadox666/The-Hackers-Hardware-Toolkit
+
+### Codewars - Learn coding by doing
+https://dev.to/lukegarrigan/why-codewars-is-the-best-way-to-learn-a-new-programming-language-4216j
 
 ### Product manager starter pack
 https://pmstarterpack.onfielder.com/

@@ -19,4 +19,7 @@ https://blog.octo.com/en/how-does-it-work-docker-part-2-swarm-networking/
 ### Can't connect to host and overlay network at the same time
 https://github.com/docker/compose/issues/3532
 
+### Deploying Swarm with Ansible
+https://blog.ruanbekker.com/blog/2018/06/14/deploy-docker-swarm-using-ansible/
+
 {% include links.html %}

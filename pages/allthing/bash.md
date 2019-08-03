@@ -22,4 +22,7 @@ https://askubuntu.com/questions/832005/how-to-substitute-expression-globally-wit
 ### Checking if a variable is empty or unset
 https://www.cyberciti.biz/faq/unix-linux-bash-script-check-if-variable-is-empty/
 
+### Getting autocompletion to work 
+https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html
+
 {% include links.html %}

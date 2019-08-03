@@ -167,6 +167,15 @@ https://enterprisersproject.com/article/2019/7/devops-for-doubters-9-tips
 ### Introverted Devops
 https://opensource.com/article/19/7/devops-introverted-people
 
+### Building a generative engineering culture
+https://changelog.com/posts/how-to-build-a-generative-engineering-culture
+
+### Avoiding burnout
+https://hbr.org/2019/07/6-causes-of-burnout-and-how-to-avoid-them
+
+### Do nothing scripts - incremental automation
+https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/
+
 ### SRE team structures
 https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started
 

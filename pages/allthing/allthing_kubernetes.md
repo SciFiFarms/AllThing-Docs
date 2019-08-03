@@ -10,6 +10,9 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Creating operators from helm charts
+https://blog.openshift.com/build-kubernetes-operators-from-helm-charts-in-5-steps/
+
 ### Swarm is not dead!
 https://www.bretfisher.com/is-swarm-dead-answered-by-a-docker-captain/
 
@@ -20,48 +23,20 @@ https://github.com/darshanime/notes/blob/master/kubernetes.org
 ### Sanic: an all-in-one tool to develop, build, and deploy your Docker/Kubernetes projects.
 https://github.com/distributed-containers-inc/sanic
 
-### Seriously. Use OpenShift:
-https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/
-https://developers.redhat.com/books/openshift-developers-guide-impatient-beginners/
-
 ### GitOps with Flux
 https://github.com/weaveworks/flux
-
-### Can use minishift to run openshift locally.
-https://github.com/minishift/minishift
-
-### Playbook to setup OpenShift on a Pi cluster
-https://github.com/Project31/ansible-kubernetes-openshift-pi3
 
 ### Great guide on how to convert swarm to k8s:
 http://jpetazzo.github.io/2019/01/22/docker-compose-kubernetes-1-en/
 
-### Django on Openshift
-https://fedoramagazine.org/deploy-a-django-rest-service-on-openshift/
-
-### Prometheus monitoring with openshift
-https://docs.openshift.com/container-platform/3.11/install_config/prometheus_cluster_monitoring.html
-
 ### Kubernetes visualizer
 https://github.com/containership/konstellate
-
-### OpenShift on OpenStack
-https://github.com/redhat-openstack/openshift-on-openstack
-https://github.com/openshift/installer/blob/master/docs/user/overview.md#installer-overview
-https://hackernoon.com/how-i-installed-an-openshift-cluster-on-digitalocean-25324940df3c
-https://blog.openshift.com/openshift-openstack-1-2-3-bringing-iaas-paas-together/
 
 ### S3 with OpenStack
 https://hackernoon.com/how-i-made-a-service-like-s3-over-the-weekend-bfa83e224dc7
 
 ### LDAP with OpenStack
 https://docs.openstack.org/keystone/pike/admin/identity-integrate-with-ldap.html
-
-### PKIs with Openshift
-https://blog.openshift.com/considerations-on-openshift-pkis-and-certificates/
-
-### OpenShift vs OpenStack: Good description of what each tool is responsible for
-https://linuxhint.com/openshift_vs_openstack/
 
 ### Getting started with Kubernetes
 https://vsupalov.com/getting-started-with-kubernetes/
@@ -99,12 +74,9 @@ https://blog.chernand.io/2019/02/27/use-less-yaml/
 ### Logging Kubernetes
 https://itnext.io/logging-best-practices-for-kubernetes-using-elasticsearch-fluent-bit-and-kibana-be9b7398dfee
 
-### Debugging with openshift kubernetes
-https://developers.redhat.com/blog/2018/11/27/microservices-debugging-openshift-kubernetes/
-https://opensource.com/article/18/12/introduction-kubeflow
-
 ### Kubernetes cheatsheet
 https://developers.redhat.com/promotions/kubernetes-cheatsheet/
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 ### Monitoring Kubernetes with Prometheus
 https://sysdig.com/blog/kubernetes-monitoring-prometheus/#.W3bhp8LlaW8.hackernews

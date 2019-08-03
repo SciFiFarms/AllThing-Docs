@@ -183,6 +183,9 @@ https://docs.docker.com/engine/reference/commandline/stats/
 ### You have to use -i to pipe into a docker container
 https://stackoverflow.com/questions/35688407/piping-a-file-into-docker-run
 
+### Running docker at scale (200+ containers)
+http://sven.stormbind.net/blog/posts/docker_from_30_to_230/
+
 {% include links.html %}
 
 

@@ -34,6 +34,9 @@ https://www.reddit.com/r/Traefik/comments/avt1ut/issues_enabling_logs/
 
 ### Different format for cli vs compose
 https://docs.traefik.io/v1.6/configuration/entrypoints/#cli
+
+### Use https://whatever@traefik.your.domain to log out of Traefik
+https://superuser.com/questions/181547/firefox-quickly-forget-http-basic-auth
 ---
 
 ### Best guide on running Traefik in Swarm

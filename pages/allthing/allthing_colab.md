@@ -128,6 +128,9 @@ https://actu.epfl.ch/news/next-gen-membranes-for-carbon-capture/
 
 ### Acoustic cooling
 https://www.aster-thermoacoustics.com/?p=1455
+
+### Water filtration
+https://www.newscientist.com/article/2212346-a-super-thin-slice-of-wood-can-be-used-to-turn-saltwater-drinkable/
 ---
 
 ## IoT/Maker Contests
