@@ -129,4 +129,16 @@ https://lwn.net/Kernel/LDD3/
 ### System testing distro
 https://netsyms.com/products/testkit/
 
+### Adding envs system wide: use /etc/profile or profile.d
+https://unix.stackexchange.com/questions/324969/can-i-set-add-something-to-path-system-wide-for-all-users-which-has-lowest-pre
+
+### When using su, sometimes you have to set the shell `-s /bin/bash`
+https://unix.stackexchange.com/questions/327436/cannot-run-command-as-www-data-using-su
+
+### JournalD write up 
+https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs#active-process-monitoring
+
+### Ctrl s breaks some terminals, use ctrl q to fix
+https://unix.stackexchange.com/questions/72086/ctrl-s-hang-terminal-emulator
+
 {% include links.html %}

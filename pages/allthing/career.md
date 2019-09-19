@@ -145,6 +145,9 @@ https://www.levels.fyi/
 ### Rate calculator
 https://www.finder.com.au/hourly-rate-calculator
 
+### Colleges with best ROI
+https://digg.com/2019/colleges-with-best-return-on-investment
+
 ---
 
 {% include links.html %}

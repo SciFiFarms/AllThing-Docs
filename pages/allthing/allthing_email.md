@@ -9,6 +9,21 @@ permalink: email.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+
+## Steps to moving email providers
+1. Deploy, configure, and test mail server
+2. Sync imap accounts
+3. Forward messages from old provider to new provider
+4. Copy any filters
+5. Remove filters on old provider
+5. Move any inbox checkers to new account
+5. Set up any SMTP accounts
+6. Track emails from old provider and move to new 
+7. Remove old messages
+8. Delete account
+   
+---
+
 ## Selfhosted stacks
 ### Mailcow
 https://blog.rogs.me/2019/03/22/de-google-my-life-part-2-of-_-tu-_-servers-and-emails/
@@ -18,6 +33,14 @@ Install: https://mailcow.github.io/mailcow-dockerized-docs/i_u_m_install/
 Multiple domains: https://mailcow.github.io/mailcow-dockerized-docs/firststeps-ssl/#additional-domain-names
 API Usage: https://github.com/mailcow/mailcow-dockerized/issues/1374#issuecomment-404868546
 Catch-all: https://mailcow.github.io/mailcow-dockerized-docs/model-sender_rcv/
+Ports and settings: https://mailcow.github.io/mailcow-dockerized-docs/client/
+SOgO can't easily be themed: https://github.com/mailcow/mailcow-dockerized/issues/2144
+Working with SOGo: https://wiki.archlinux.org/index.php/SOGo
+DNS settings: https://mailcow.github.io/mailcow-dockerized-docs/prerequisite-dns/
+Client settings: https://mailcow.github.io/mailcow-dockerized-docs/client/client-manual/
+Using a relay host: https://mailcow.github.io/mailcow-dockerized-docs/firststeps-relayhost/
+    https://github.com/mailcow/mailcow-dockerized/issues/1724
+
 
 ### Homebox
 https://homebox.readthedocs.io/en/latest/
@@ -38,13 +61,16 @@ https://github.com/sovereign/sovereign
 
 
 ## Clients
-### Don't forget about whatever is built into nextcloud
+Settings: https://mailcow.github.io/mailcow-dockerized-docs/client/client-manual/
+### Rainloop
+http://www.rainloop.net/
+
+### K9 (Android)
+https://github.com/k9mail/k-9/wiki/K9MailAndExchange
 
 ### Alternatives to google products
 https://restoreprivacy.com/google-alternatives/
-
-### Rainloop
-http://www.rainloop.net/
+https://blog.rogs.me/
 
 ### Webmail-lite
 https://afterlogic.org/webmail-lite
@@ -108,6 +134,9 @@ https://www.ventureharbour.com/transactional-email-service-best-mandrill-vs-send
 
 ---
 
+# Port 465 is deprecated & history
+https://docs.iredmail.org/enable.smtps.html
+
 
 ## Tools
 ### Mail-Tester: Best tool I found, but limited to 3 runs in a day. 
@@ -143,11 +172,43 @@ https://support.dnsimple.com/articles/dkim-record/
 https://banshee.mxlogin.com:2083/cpsess0449661812/frontend/manager/mail/auth.html
 https://banshee.mxlogin.com:2083/cpsess0449661812/frontend/manager/mail/dkimtutorial.html
 
-
+### RFC that had a pretty good description of weight vs priority
+https://tools.ietf.org/html/rfc2782
 
 ### SPF
 https://emailstuff.org/spf/check/
 ---
+
+
+## Filter/Sieve rules
+
+### Docs
+https://wiki2.dovecot.org/
+
+### List of extensions
+https://wiki2.dovecot.org/Plugins
+https://wiki1.dovecot.org/LDA/Sieve
+
+### contains vs matches vs regex
+https://p5r.uk/blog/2011/sieve-tutorial.html#matchtype
+
+### Examples
+https://wiki.dovecot.org/Pigeonhole/Sieve/Examples
+
+### Sieve RFC
+https://tools.ietf.org/html/rfc5228
+
+### Copying without issues
+https://tools.ietf.org/html/rfc3894
+
+### Other interesting stuff
+https://easyengine.io/tutorials/mail/server/sieve-filtering/
+https://www.rosehosting.com/blog/how-to-set-up-server-side-email-filtering-with-dovecot-sieve-and-roundcube-on-a-centos-6-vps/
+https://support.tigertech.net/sieve
+---
+
+### Debunking that email is hard
+https://poolp.org/posts/2019-08-30/you-should-not-run-your-mail-server-because-mail-is-hard/
 
 ### Home Assistant Email Sensor - 
 https://github.com/ljmerza/ha-email-sensor

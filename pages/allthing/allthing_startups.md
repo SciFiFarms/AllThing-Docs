@@ -57,6 +57,7 @@ https://github.com/users/TheHackmeister/sponsors/waitlist
 https://opencollective.com/
 
 ### Examples
+https://puri.sm/posts/librem-5-shipping-announcement/
 https://en.tipeee.com/zemarmot
 https://www.patreon.com/zemarmot
 https://www.buymeacoffee.com/robconnolly
@@ -254,6 +255,12 @@ https://web.devopstopologies.com/
 https://queue.acm.org/detail.cfm?ref=rss&id=3338532
 https://devopsish.com/what-is-devops/?utm_source=DevOps%27ish&utm_campaign=800ec54a93-DEVOPSISH_131&utm_medium=email&utm_term=0_eab566bc9f-800ec54a93-46457727
 https://opensource.com/article/19/5/defining-devops-layers?utm_source=DevOps%27ish&utm_campaign=7a15035235-DEVOPSISH_130&utm_medium=email&utm_term=0_eab566bc9f-7a15035235-46457727
+
+### Periodic table of DevOps tools
+https://xebialabs.com/periodic-table-of-devops-tools/
+
+### What ever happened to Six Sigma? [It died with GE]
+https://qz.com/work/1635960/whatever-happened-to-six-sigma
 
 ### A discussion on why story points are better than hours estimation.
 My take away was that using story points, we can look at the past and say I can do X story points in 2 weeks. 

@@ -13,7 +13,17 @@ folder: allthing
 ### Try WireGuard
 https://wiki.dd-wrt.com/wiki/index.php/Wireguard
 https://wiki.dd-wrt.com/wiki/index.php/The_Easiest_Tunnel_Ever
+https://blogs.gnome.org/thaller/2019/03/15/wireguard-in-networkmanager/
 https://restoreprivacy.com/wireguard/
+
+
+## VPN Providers
+### Express VPN
+https://restoreprivacy.com/expressvpn/
+
+
+---
+
 
 ## Debugging:
 For Gnome, I found that the best way to see what errors were being thrown was to run the following:

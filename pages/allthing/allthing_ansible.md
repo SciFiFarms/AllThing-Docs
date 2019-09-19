@@ -16,6 +16,9 @@ https://github.com/darshanime/notes/blob/master/ansible.org
 ## Roles
 ### Docker
 https://github.com/geerlingguy/ansible-role-docker
+
+### Roles Cheatsheet
+https://linuxacademy.com/blog/red-hat/ansible-roles-explained/
 ---
 
 ## Modules
@@ -36,8 +39,17 @@ https://ansible-tips-and-tricks.readthedocs.io/en/latest/ansible/inventory/
 https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html#other-inventory-scripts
 https://docs.ansible.com/ansible/latest/plugins/lookup/inventory_hostnames.html
 
+### Only run if dir doesn't exist.
+https://stackoverflow.com/questions/35021384/how-can-i-run-a-ansible-task-only-if-a-file-or-directory-does-not-exist
+
 ### Only run a single task
 https://stackoverflow.com/questions/23945201/how-to-run-only-one-task-in-ansible-playbook
+
+### Using --start-at-step="Your task here" and --step
+https://docs.ansible.com/ansible/latest/user_guide/playbooks_startnstep.html
+
+### Debug
+https://docs.ansible.com/ansible/latest/modules/debug_module.html
 
 ### Use requirements.txt for role dependencies
 https://stackoverflow.com/questions/25230376/how-to-automatically-install-ansible-galaxy-roles

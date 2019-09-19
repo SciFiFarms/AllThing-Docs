@@ -21,13 +21,18 @@ https://old.reddit.com/r/homeassistant/comments/awuvc8/advanced_custom_calendar_
 https://github.com/danielwelch/coc-homeassistant
 https://www.reddit.com/r/homeassistant/comments/b9vioe/got_home_assistant_to_grab_the_game_info_for_my/
 https://www.reddit.com/r/homeassistant/comments/9ycr63/my_lovelace_frontend/
+https://www.reddit.com/r/homeassistant/comments/d1hb60/cheap_and_easy_multiroom_sensing_for_your_hvac/
 https://github.com/ljmerza/ha-email-sensor
 https://www.reddit.com/r/homeassistant/comments/c14wu9/home_assistant_community_store/
+NHL things: https://www.reddit.com/r/homeassistant/comments/bkqerc/custom_sensor_nhl_game_info_need_testers/
 Already setup in Jupyter: https://github.com/robmarkcole/HASS-data-detective
 https://www.reddit.com/r/homeassistant/comments/bmenql/local_api_thermostat_recommendations/
 Auto apply theme: https://community.home-assistant.io/t/make-a-theme-stay-after-reboot-broke-again/106751/13
 Thermostat + heating: https://community.home-assistant.io/t/heaty-a-flexible-heating-control-facilitating-schedules-and-manual-intervention/34958
 Manual data entry (Using API): https://www.reddit.com/r/homeassistant/comments/c1om01/how_to_use_siri_shortcuts_to_speak_a_sensor_value/
+Git hooks for Home Assistant (Alternatives in comments!): https://www.reddit.com/r/homeassistant/comments/czzwmm/using_git_hooks_with_my_home_assistant_config/
+     https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/
+Bed Occupancy: https://everythingsmarthome.co.uk/howto/building-a-bed-occupancy-sensor-for-home-assistant/
 
 ## HASS.io
 ### Reference projects
@@ -48,6 +53,7 @@ Automated window shuttors: https://www.reddit.com/r/homeassistant/comments/ahdms
 Lovelace light card: https://github.com/ljmerza/light-entity-card
 Text to speech discussion: https://www.reddit.com/r/homeassistant/comments/an3mys/what_is_your_overall_texttospeech_tts_strategy/
 Best Lovelace cards for Docker: https://www.reddit.com/r/homeassistant/comments/bba6g6/best_lovelace_card_to_host_urls_to_other_docker/
+Cool *simple* interface: https://www.reddit.com/r/homeassistant/comments/cyezhe/introducing_home_assistant_command_center_hacc_a/
 
 #### Cool themes and configs
 How to add theme: https://www.juanmtech.com/themes-in-home-assistant/
@@ -71,6 +77,7 @@ https://selfhostedhome.com/storing-home-assistant-sensor-data-in-influxdb/
 https://community.home-assistant.io/t/complete-guide-on-setting-up-grafana-influxdb-with-home-assistant-using-official-docker-images/42860
 
 ### Android Apps - Home Assistant:
+https://play.google.com/store/apps/details?id=com.keyboardcrumbs.haclient
 https://www.smarthomebeginner.com/best-android-apps-for-home-assistant/
 
 ### Home Assistant JupyterLab:

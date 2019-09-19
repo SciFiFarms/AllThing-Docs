@@ -19,6 +19,9 @@ https://www.vice.com/en_us/article/bj4ez3/motorola-becomes-first-smartphone-comp
 
 ### Ting: Pro repair carrier
 https://www.vice.com/en_us/article/eveezj/a-cell-phone-carrier-breaks-with-big-telecom-announces-support-for-right-to-repair-legislation
+
+### Fairphone 3 - VERYI repairable
+https://techcrunch.com/2019/09/11/ifixit-gives-fairphone-3-a-perfect-10-for-repairability/
 ---
 
 
@@ -35,6 +38,9 @@ https://github.com/jensstein/oandbackup
 
 ### K9: Gmail replacement
 https://play.google.com/store/apps/details?id=com.fsck.k9
+
+### Home Assistant interface
+https://play.google.com/store/apps/details?id=com.keyboardcrumbs.haclient
 ---
 
 ## Lineage OS

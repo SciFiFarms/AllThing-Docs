@@ -70,7 +70,8 @@ https://www.linuxjournal.com/content/writing-more-compact-bash-code
 ### Bash variable scope examples:
 https://www.thegeekstuff.com/2010/05/bash-variables/
 
-### Working with dynamic variable names
+
+### Working with dynamic variable names (Pretty useful)
 https://stackoverflow.com/questions/16553089/dynamic-variable-names-in-bash
 
 ### Use expect to dynamically enter information on the command line:

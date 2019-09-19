@@ -19,8 +19,17 @@ https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync
 
 ### sshcode - Install code-server on a remote server
 https://github.com/cdr/sshcode
+https://code.visualstudio.com/blogs/2019/07/25/remote-ssh
+
+### VSCodium (100% Open Sourc)
+https://gitlab.com/paulcarroty/vscodium-deb-rpm-repo/
 
 ### Turn off autoReveal in the file explorer
 https://github.com/Microsoft/vscode/issues/5329
+
+## Plugins
+### AutoWrap
+https://github.com/stkb/Rewrap/wiki/Auto-wrap
+---
 
 {% include links.html %}

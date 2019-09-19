@@ -29,6 +29,10 @@ https://apps.nextcloud.com/apps/discoursesso
 https://docs.nextcloud.com/server/14/admin_manual/configuration_files/external_storage_configuration_gui.html
 Checking for changes on every access sounds like a good idea, it results in nonstop scanning.
 
+### Master master server sync
+https://community.nethserver.org/t/sync-multiple-nextcloud-remote-servers-master-master/4521/5
+https://www.techrepublic.com/article/how-to-connect-your-nextcloud-server-to-a-federation/
+
 ### You can test/scan your nextcloud instance!
 https://scan.nextcloud.com/
 
@@ -59,10 +63,31 @@ https://docs.nextcloud.com/server/15/admin_manual/configuration_server/reverse_p
 https://github.com/nextcloud/docker/pull/527
 https://github.com/GuyPaddock/inveniem-nextcloud-azure/commit/d09ee0cf0b50fca726cd87147a3fea782aa33ce1#diff-754ac7f0be091966820161830749036fR35
 https://github.com/nextcloud/docker/issues/401
+
+### Pages on using Wasabi for S3 backend storage
+https://wasabi-support.zendesk.com/hc/en-us/articles/360029643411--How-do-I-use-NextCloud-with-Wasabi-
+https://www.reddit.com/r/NextCloud/comments/acydgy/has_anyone_had_any_success_using_wasabi_services/
+https://wasabi.com/wp-content/themes/wasabi/docs/User_Guide/index.html#t=topics%2FWorking_With_a_Bucket_Policy.htm
+https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html
+
+### Encryption - I had to enable server side encryption using `php occ encryption:enable`
+https://docs.nextcloud.com/server/16/admin_manual/configuration_files/encryption_configuration.html
+https://github.com/nextcloud/server/issues/8546
+
+### You have to run as www-data, but using `su www-data php occ...` doesn't work.
+### When using su, sometimes you have to set the shell `-s /bin/bash`
+`su www-data -s /bin/bash php occ `
+https://unix.stackexchange.com/questions/327436/cannot-run-command-as-www-data-using-su
+
+### You can use occ config:list to list ALL the configuration options. It's pretty helpful.
+https://docs.nextcloud.com/server/16/admin_manual/configuration_server/occ_command.html#config-commands
 ---
 
 
 ## Documentation
+### Using the occ command
+https://docs.nextcloud.com/server/16/admin_manual/configuration_server/occ_command.html
+
 ### Setting up encryption
 https://docs.nextcloud.com/server/stable/admin_manual/configuration_files/encryption_configuration.html
 
@@ -106,6 +131,9 @@ https://eischmann.wordpress.com/2017/03/10/nextcloud-linux-desktop/
 https://github.com/nextcloud/nextcloudpi/wiki/Email-settings
 https://help.nextcloud.com/t/gmail-smtp-email-server-config/33126
 
+### Move to fpm container? Could use this to make configuration more settable and dynamic 
+https://jtreminio.com/blog/docker-php/php-fpm-configuration-via-environment-variables/
+
 ### Give Nextcloud the ability to send emails:
 https://github.com/nextcloud/nextcloudpi/wiki/Email-settings
 
@@ -117,6 +145,7 @@ Solution: Quick client and restart.
 https://github.com/nextcloud/desktop/issues/1000
 
 ### How to backup
+https://docs.nextcloud.com/server/15/admin_manual/maintenance/backup.html
 https://www.reddit.com/r/NextCloud/comments/8yc2ci/how_do_you_backup_your_nextcloud/
 https://ownyourbits.com/2018/10/19/nextcloudpi-backup-strategies/
 
@@ -137,5 +166,19 @@ https://help.nextcloud.com/t/installation-of-more-than-one-nextcloud-environment
 
 ### SELinux labels
 https://docs.nextcloud.com/server/15/admin_manual/installation/selinux_configuration.html#selinux-config-label
+
+## Pain points
+### Can't sync contacts
+https://help.nextcloud.com/t/sync-contacts-with-existing-carddav-server/51514/11
+---
+
+### Setting up cron
+I baked the following into NC's entrypoint.sh
+https://github.com/nextcloud/docker/issues/36#issuecomment-435948722
+
+Other solutions:
+https://github.com/rcdailey/nextcloud-cronjob
+https://github.com/SnowMB/docker/tree/adding_cron
+---
 
 {% include links.html %}

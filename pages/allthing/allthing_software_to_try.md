@@ -43,11 +43,20 @@ https://www.reddit.com/r/CryptoCurrency/comments/8szsbx/authy_is_an_awesome_app_
 https://authy.com/guides/github/
 https://www.authy.com/integrations/ssh/
 
+
+## Media Servers
+### Nice discussion on self hosted media service. Kodi + MySQL + Jellyfin?
+https://www.reddit.com/r/selfhosted/comments/bq5g5z/jellyfin_vs_streama_vs_dlna_server_or_file_server/
+https://www.wirelesshack.org/how-to-install-listen-up-kodi-audio-book-addon.html
+https://kodi.wiki/view/Audiobooks
+
+
 ### Plex, filebot, and bittorrent. The dream setup.
 https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/
 https://www.reddit.com/r/PleX/comments/8t0dyl/how_to_rename_audiobooks_files_and_meta_tags/
 https://www.reddit.com/r/NextCloud/comments/c8t8jg/anyone_going_to_fork_the_epub_app_or_know_of/
 https://blog.project-insanity.org/2019/06/14/ebook-reader-app-for-nextcloud/
+---
 
 ## Podcasts
 ###gpodder: Syncable podcasts
@@ -193,13 +202,16 @@ https://www.mockingbirdconsulting.co.uk/blog/2019-01-05-hashicorp-at-home/
 https://hackaday.com/2019/03/19/ask-hackaday-how-do-you-draw-schematics/
 https://hackaday.com/2019/01/11/esp8266-ac-controller-shows-whats-possible/
 https://old.reddit.com/r/oddlysatisfying/comments/97gyby/cool_door/
+https://www.dfrobot.com/blog-1302.html
 Project that makes it's own PCB: https://randomnerdtutorials.com/build-an-all-in-one-esp32-weather-station-shield/
 Smart LED strips (Has 12v power supply link + 12v=>5v): https://blog.ktz.me/smart-led-strips-with-no-subscription-required/
 https://www.reddit.com/r/homeassistant/comments/assagi/project_box_with_3_mqtt_controlled_outlets_and_a/
 https://hackaday.com/2019/02/08/eight-years-of-partmaking-a-love-story-for-parts/
 https://hackaday.com/2019/05/12/modular-cnc-build-gets-you-both-a-mill-and-a-laser-cutter/?mc_cid=ed545f7813&mc_eid=a265f2cb07
 https://hackaday.com/2019/05/15/an-open-source-esc-for-brushless-motors/?mc_cid=ed545f7813&mc_eid=a265f2cb07
+https://www.reddit.com/r/homeassistant/comments/cv8yme/diy_irrigation_system_with_nodered/
 https://project.seeedstudio.com/Yarosia/arduino-growbox-controller-efb9fa
+https://philhawthorne.com/automating-your-shopping-list-with-home-assistant-and-grocy/
 https://blog.notexpectedyet.com/octoprint-node-red-influxdb-and-grafana/
 https://hackaday.com/2019/02/27/hack-my-house-raspberry-pi-as-a-touchscreen-thermostat/
 https://www.reddit.com/r/DIY/comments/c0lbzb/build_a_diy_self_watering_pot_with_wifi_that/
@@ -224,12 +236,15 @@ ESP8266 ran watering: https://www.reddit.com/r/DIY/comments/byehfs/how_to_build_
 Buildable linux tablet: https://hackaday.com/2019/06/06/the-finest-linux-tablet-you-can-build/
 Good demo of sealing across plastic middle (Water reservoir): https://www.youtube.com/watch?v=_chYY76KQbY
 GREAT whole home power monitoring. Cool usage of clamps and precision readings: https://www.youtube.com/watch?v=BOgy6QbfeZk&feature=youtu.be
+Alpine (And chromium) working on a Nook Paperwhite: https://www.reddit.com/r/unixporn/comments/cll9zv/kinde_paperwhite_3_alpine_linux_xfce_chromium/
 
 ### Plant projects
 http://wiki.seeedstudio.com/Grove_Beginner_Kit_for_Arduino/
 https://forum.openag.media.mit.edu/t/omk2-a-truly-fully-autonomous-hydro-aeroponics-controller-system/4996
 Nute dosing:https://www.youtube.com/watch?v=EDTkIeolY1I
 
+## Netdata: Real time monitoring made easy
+https://github.com/netdata/netdata
 
 ## ERP
 
@@ -306,6 +321,9 @@ https://www.openfaas.com/blog/serverless-single-page-app/
 ### Swell.sh: Nicer SSH on phones
 https://github.com/wcchoi/swell.sh
 
+### Mosh: Resilient SSH across downed connections
+https://mosh.org/
+
 ### Regex101: Great interface for testing regex with the flavor you're using
 https://regex101.com/
 
@@ -340,8 +358,11 @@ https://fedoramagazine.org/edit-your-videos-with-pitivi-on-fedora/
 ### Davinci - Video editor
 https://www.linuxuprising.com/2019/04/hollywood-grade-video-editor-davinci.html
 
-### Nice discussion on self hosted media service. Kodi + MySQL + Jellyfin?
-https://www.reddit.com/r/selfhosted/comments/bq5g5z/jellyfin_vs_streama_vs_dlna_server_or_file_server/
+### Use client TLS auth for infra websites.
+https://www.reddit.com/r/selfhosted/comments/bouk7w/safest_way_to_host_sites_vpn_reverse_proxy_basic/
+
+### Open Source google analytics alternative 
+https://www.reddit.com/r/selfhosted/comments/cxu029/i_built_a_selfhosted_open_source_privacyfriendly/
 
 ### Guider - Linux CMD tracer/performance monitor
 https://github.com/iipeace/guider
@@ -390,6 +411,9 @@ https://github.com/seek-oss/playroom
 ### Vue structure
 https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb
 
+### Pomodoro Eltron
+https://github.com/gstevenson/pomolectron
+
 ### Template for Vue projects?
 https://sobolevn.me/2019/06/really-typing-vue
 
@@ -400,6 +424,10 @@ https://github.com/gantry/gantry5
 ### Flask & Docker
 https://github.com/tiangolo/flask-frontend-docker
 ---
+
+
+### Media Portal
+https://www.reddit.com/r/selfhosted/comments/bfhbp2/huge_thanks_to_everyone_that_has_assisted_me_with/
 
 ### Heimdall: Dashboard/launching self-hosted apps
 https://github.com/linuxserver/Heimdall
@@ -538,11 +566,15 @@ https://medium.com/onlyoffice/onlyoffice-or-collabora-pt-2-3f5599b1d742
 ### GitLab
 https://about.gitlab.com/pricing/#self-hosted
 
+## Notes
 ### BulletNotes 
 https://gitlab.com/NickBusey/BulletNotes
 https://abhishekdas.com/HackFlowy/#
 https://workflowy.com/demo/embed/
 Shareable: https://etherpad.org/
+
+### Zim
+https://zim-wiki.org/
 
 ### Standard Notes (With encryption!)
 https://opensource.com/article/18/8/getting-started-standard-notes
@@ -559,6 +591,8 @@ http://todotxt.org/
 ### Emacs?
 https://notmyfirslanguage.writeas.com/the-road-to-emacs
 
+---
+
 ## Backup Solutions
 ### Restic (Go version of borg)
 https://restic.net/
@@ -566,13 +600,18 @@ Seems to support S3... https://forum.restic.net/t/comparison-with-borg-shortcomi
 
 ### Borgbackup - Dedups the best
 https://borgbackup.readthedocs.io/en/stable/
+https://borgbackup.readthedocs.io/en/stable/quickstart.html#a-step-by-step-example
 https://github.com/witten/borgmatic
 https://docs.borgbase.com/backup-strategy/steps-with-template/
 Interface to use: https://github.com/borgbase/vorta
+https://www.linuxuprising.com/2019/02/securely-and-efficiently-backup-data-on.html
 https://www.reddit.com/r/linux/comments/ahpdzk/borgbackup_frontends/
 https://borgbackup.readthedocs.io/en/stable/faq.html
+https://opensource.com/article/17/10/backing-your-machines-borg
+https://www.reddit.com/r/linux/comments/69lm87/is_borg_backup_suitable_for_the_production/
 Using Wasabi (S3) as a backup: https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-
 https://torsion.org/borgmatic/
+Deja dup talking about using borg: https://mail.gnome.org/archives/deja-dup-list/2019-April/msg00003.html
 
 ### 13 Open Source Backup Solutions
 https://opensource.com/article/19/3/backup-solutions
@@ -584,6 +623,8 @@ https://perkeep.org/
 https://github.com/mholt/timeliner/blob/master/README.md
 ---
 
+### OCR for math equations
+https://www.reddit.com/r/linux/comments/9mjnzy/use_the_mathpix_snipping_tool_for_linux_to/
 
 ### Bash OO(Infinity?) Framework
 https://github.com/niieani/bash-oo-framework
@@ -731,8 +772,14 @@ https://www.textbook.ds100.org/
 ### Darshan Chaudhary's Computer Science notes (And a little on operations)
 https://github.com/darshanime/notes
 
-### Cheatsheets (Python / Django and JavaScript / React)
+## Cheatsheets 
+###(Python / Django and JavaScript / React)
 https://github.com/kickstartcoding/cheatsheets
+
+### Gnome3 (Has nice screenshots list)
+https://opensource.com/sites/default/files/gated-content/cheat_sheet_gnome3_v2.pdf
+---
+
 
 ### rga: grep EVERYTHING pdfs, subtitles, sqlite...
 https://github.com/phiresky/ripgrep-all
@@ -758,6 +805,9 @@ https://fedoramagazine.org/packit-packaging-in-fedora-with-minimal-effort/
 ### Hacker Tools
 https://hacker-tools.github.io/
 https://github.com/yadox666/The-Hackers-Hardware-Toolkit
+
+### How to Google
+https://www.reddit.com/r/coolguides/comments/cqf6se/how_to_google_like_a_boss/
 
 ### Codewars - Learn coding by doing
 https://dev.to/lukegarrigan/why-codewars-is-the-best-way-to-learn-a-new-programming-language-4216j

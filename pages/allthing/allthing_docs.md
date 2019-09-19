@@ -19,6 +19,12 @@ https://grantwinney.com/cool-markdown-tricks-for-github/
 ### Docs
 https://learn.getgrav.org/16/basics/what-is-grav
 
+### You can create Grav users from the cli
+`cd /var/www/grav && ./bin/plugin login newuser -u [Username] -e [EMAIL ADDRESS] -P b -N "[Full Name]" `
+https://github.com/getgrav/grav-plugin-login
+http://blog.netgloo.com/2016/10/04/grav-creating-user-with-editor-role/
+Y0ush0uldchangethis!
+
 ### Docker
 Best?: https://hub.docker.com/r/marvinroman/grav-docker
 It has Learn2 with Git Sync Site, which includes search. Nice. 
@@ -57,6 +63,9 @@ Search: https://github.com/trilbymedia/grav-plugin-tntsearch
 https://getgrav.org/blog/developing-with-github-part-2
 https://discourse.getgrav.org/t/grav-deploy-best-practice/4459/15
 http://www.azurestack.tips/en/blog/blog-grav-deployment
+
+### Maybe usable for automatic upgrades?
+https://learn.getgrav.org/16/cli-console/scripted-upgrades
 
 ### Rate limiting
 https://learn.getgrav.org/16/admin-panel/security/rate-limiting

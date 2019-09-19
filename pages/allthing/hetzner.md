@@ -13,6 +13,10 @@ folder: allthing
 ### API Docs
 https://docs.hetzner.cloud/#overview
 
+### How to activate the rescue system
+https://wiki.hetzner.de/index.php/Hetzner_Rescue-System/en#Mounting_the_Drive.28s.29_in_the_Rescue_System
 
+### Good instructions on setting up chroot
+https://docs.fedoraproject.org/en-US/quick-docs/bootloading-with-grub2/#restoring-bootloader-using-live-disk
 
 {% include links.html %}

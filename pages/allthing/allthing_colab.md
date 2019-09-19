@@ -140,6 +140,9 @@ https://www.instructables.com/contest/sensors2019/
 https://www.instructables.com/contest/1Hour/
 https://www.instructables.com/contest/classroomscience/
 https://www.instructables.com/contest/iot2019/
+
+### Great run down on all the fusion projects running
+https://astara-store.com/blogs/default-blog/scalability-of-fusion-reactors-smaller-means-sooner
 ---
 
 https://forum.openag.media.mit.edu/t/air-conditioner-temperature-humidity-co2/4950
@@ -157,6 +160,8 @@ https://www.reddit.com/r/pics/comments/cigubg/syrian_refugee_cooks_food_on_the_s
 https://www.hortidaily.com/article/45556/How-the-right-sales-channel-can-make-or-break-your-vertical-farm/
 
 https://www.technologyreview.com/s/612928/one-mans-two-decade-quest-to-suck-greenhouse-gas-out-of-the-sky/
+
+https://i.redd.it/9rso926wshi31.gif
 
 https://forum.openag.media.mit.edu/t/hpa-aeroponics-vertical-system-build/3856/3
 
@@ -328,6 +333,7 @@ https://knowledge.farm/
 ### Articles about farming of the future
 https://www.nationalgeographic.com/environment/2019/07/how-to-feed-the-world-without-destroying-the-planet/
 https://www.precht.at/the-farmhouse/
+https://www.nrdc.org/experts/susan-casey-lefkowitz/new-report-climate-and-lands-carries-both-dire-warnings-and-hopeful
 https://grist.org/article/the-open-source-movement-to-hack-your-arugula/
 https://www.theatlantic.com/business/archive/2018/02/vertical-farming-houston/552665/
 https://www.ryanmercer.com/ryansthoughts/2018/7/8/tackling-the-problem-of-food-production
