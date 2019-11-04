@@ -38,7 +38,19 @@ https://hackaday.com/2019/07/12/linux-fu-named-pipe-dreams/
 https://unix.stackexchange.com/questions/318859/how-to-use-watch-command-with-a-piped-chain-of-commands-programs
 ---
 
+### Loop over files
+https://www.cyberciti.biz/faq/bash-loop-over-file/
+
 ### Pass arguments to bash. Had nifty argument handler
 https://www.lifewire.com/pass-arguments-to-bash-script-2200571
+
+### Different way to sleep infinitely
+https://stackoverflow.com/questions/2935183/bash-infinite-sleep-infinite-blocking
+
+### Print envs for use in loop: `declare -xpn | cut -d " " -f 3- | cut -d "=" -f 1`
+https://askubuntu.com/questions/275965/how-to-list-all-variables-names-and-their-current-values
+
+### Forward port from one container to another
+https://stackoverflow.com/questions/46099874/how-can-i-forward-a-port-from-one-docker-container-to-another
 
 {% include links.html %}

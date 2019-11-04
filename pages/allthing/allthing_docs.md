@@ -130,6 +130,8 @@ https://www.bookstackapp.com/
 https://github.com/Zettlr/Zettlr
 ---
 
+### Comments in MarkDown
+https://stackoverflow.com/questions/4823468/comments-in-markdown
 
 ## How to run Jekyll without the whole TechnoCore
 1. You'll need Docker as well as Docker-Compose

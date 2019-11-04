@@ -157,6 +157,9 @@ Rolling updates: https://container-solutions.com/rolling-updates-with-docker-swa
 Share volumes across nodes: https://stackoverflow.com/questions/47756029/how-does-docker-swarm-implement-volume-sharing
 ---
 
+### Running multiple commands in a compose file:
+https://github.com/docker/compose/issues/2033
+
 ### Work with Docker in python
 https://github.com/aio-libs/aiodocker
 
@@ -173,6 +176,8 @@ https://computingforgeeks.com/how-to-install-docker-on-fedora-29-fedora-28/
 
 ### Service to update images:
 https://github.com/pyouroboros/ouroboros
+Swarm mode docs: https://github.com/pyouroboros/ouroboros/issues/282
+https://github.com/pyouroboros/ouroboros/wiki/Grafana
 
 ### Activate virtual env in Dockerfile
 https://pythonspeed.com/articles/activate-virtualenv-dockerfile/

@@ -99,6 +99,7 @@ https://www.localharvest.org
 
 ### Very similar project to TechnoCore
 https://dockerswarm.rocks/project-generators/
+https://dockstarter.com/basics/available-apps/
 https://github.com/norweeg/self-hosted-docker-server-templates
 https://www.instructables.com/id/Cube-Farm-a-Modular-Open-Source-Agriculture-Platfo/
 https://andrewaadland.me/2018/01/18/hosting-your-own-cloud/

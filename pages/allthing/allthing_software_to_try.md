@@ -23,6 +23,7 @@ https://docs.sweeting.me/s/wireguard#
 https://wiki.dd-wrt.com/wiki/index.php/Wireguard
 https://staaldraad.github.io/2017/04/17/nat-to-nat-with-wireguard/
 https://www.linux.org/threads/how-to-create-a-vpn-tunnel-with-wireguard.21496/
+Subspace (GUI for WireGuard): https://github.com/subspacecloud/subspace
 
 ### Sshuttle
 https://news.ycombinator.com/item?id=15773466
@@ -56,6 +57,9 @@ https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bitt
 https://www.reddit.com/r/PleX/comments/8t0dyl/how_to_rename_audiobooks_files_and_meta_tags/
 https://www.reddit.com/r/NextCloud/comments/c8t8jg/anyone_going_to_fork_the_epub_app_or_know_of/
 https://blog.project-insanity.org/2019/06/14/ebook-reader-app-for-nextcloud/
+
+### EBook services
+https://www.reddit.com/r/selfhosted/comments/dpx48d/a_selfhosted_opdsebooks_solution/
 ---
 
 ## Podcasts
@@ -116,6 +120,9 @@ https://github.com/giantswarm/simple-logger
 Integrate with Logstash: https://github.com/grafana/loki/issues/239
 Good intro video: https://www.youtube.com/watch?v=ENM2f1QZam8
 
+### Swarmpit: GUI for Swarm
+https://github.com/swarmpit/swarmpit/
+
 ### Some thoughts on protecting self hosted apps
 https://www.reddit.com/r/selfhosted/comments/c8j3jd/protecting_self_hosted_apps/
 
@@ -159,6 +166,7 @@ https://medium.com/@writetomiglani/how-to-ace-the-certified-kubernetes-administr
 https://github.com/vinta/awesome-python
 https://github.com/kahun/awesome-sysadmin
 https://kubedex.com/courses/
+https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md
 
 
 ### Hardware
@@ -246,6 +254,9 @@ Nute dosing:https://www.youtube.com/watch?v=EDTkIeolY1I
 ## Netdata: Real time monitoring made easy
 https://github.com/netdata/netdata
 
+### Elastdocker: ELK but actually usable in docker.
+https://github.com/sherifabdlnaby/elastdocker
+
 ## ERP
 
 ### Grocy
@@ -280,6 +291,14 @@ https://openmrs.org/demo/
 https://openpaper.work/en-us/
 ---
 
+### Socioboard - Self-hosted social media manager
+https://socioboard.org/
+
+### LinkAce - Self-hosted bookmarks with tags
+https://www.linkace.org/
+
+### Online Markdown editor recommendations
+https://www.reddit.com/r/selfhosted/comments/dj62ck/online_markdown_editor/
 
 ### Self hosted setups of 2019. HUGE list of ideas.
 https://www.reddit.com/r/selfhosted/comments/a9r5ux/share_your_self_hosted_setup_2019_edition/
@@ -311,6 +330,13 @@ https://github.com/satyarohith/shark
 ### Alternatives to Google Home + Alexa (AKA Steveland): Snips, Mycroft
 https://www.reddit.com/r/homeassistant/comments/b1xvoh/offlineprivate_voice_commands_alternative_to/
 https://mycroft.ai/
+https://www.reddit.com/r/selfhosted/comments/ddi4uu/is_anyone_working_on_an_open_source_replacement/
+
+### WordOps: The way to manage wordpress sites
+https://wordops.net/
+
+### Smart Vacums
+https://www.reddit.com/r/homeassistant/comments/dgdyyn/cloud_free_smart_vacuum_installing_valetudo_on/
 
 ### Anecdata - Citizen scientist data collection
 https://www.anecdata.org/
@@ -431,6 +457,10 @@ https://www.reddit.com/r/selfhosted/comments/bfhbp2/huge_thanks_to_everyone_that
 
 ### Heimdall: Dashboard/launching self-hosted apps
 https://github.com/linuxserver/Heimdall
+
+### Selfhosted gui for attaching buttons to command line execution
+https://www.reddit.com/r/selfhosted/comments/dl5a1z/is_there_a_web_ui_program_where_i_can_click_a/
+https://www.rundeck.com/test-drive
 
 ### HTTP Headers for the Responsible Developer
 https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
@@ -590,6 +620,7 @@ http://todotxt.org/
 
 ### Emacs?
 https://notmyfirslanguage.writeas.com/the-road-to-emacs
+https://www.reddit.com/r/linux/comments/diz5l0/how_to_learn_emacs_by_sacha_chua/
 
 ---
 

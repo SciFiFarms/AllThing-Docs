@@ -10,6 +10,12 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Auto unsealing (is only free in the cloud). The transit seal might allow another vault server.
+https://www.vaultproject.io/docs/configuration/seal/transit.html
+https://learn.hashicorp.com/vault/day-one/autounseal-transit
+https://www.hashicorp.com/resources/vault-1-0-how-to-auto-unseal-new-features
+https://jaxenter.com/hashicorp-vault-1-1-highlights-157277.html
+
 ### Use Vault for random number generation and hashing
 https://www.vaultproject.io/api/system/tools.html
 

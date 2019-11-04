@@ -115,4 +115,13 @@ https://medium.com/@youngty1997/what-is-fedora-silverblue-how-to-game-on-it-and-
 https://www.reddit.com/r/Fedora/comments/b9tl0w/why_silverblue/
 https://www.reddit.com/r/Fedora/comments/cd7z2d/what_has_kept_you_from_using_silverblue_as_your/
 
+### Nautilus drag and drop not working
+https://www.reddit.com/r/Fedora/comments/c6jxse/nautilus_drag_n_drop_not_working_sometimes/
+
+### Replace gnome-terminal with tilix in Nautilus
+https://askubuntu.com/questions/1051076/replace-gnome-terminal-with-tilix-in-nautilus
+
+### Docker will break in Fedora 31?
+https://www.reddit.com/r/Fedora/comments/dj36vr/psa_if_you_use_docker_on_fedora_it_wont_work_in/
+
 {% include links.html %}

@@ -19,6 +19,7 @@ https://helpcenter.onlyoffice.com/server/document/document-server-proxy.aspx
 
 ### Nextcloud & Docker
 https://github.com/ONLYOFFICE/docker-onlyoffice-nextcloud
+https://github.com/ONLYOFFICE/docker-onlyoffice-nextcloud/blob/master/set_configuration.sh
 
 ### Configure with Ansible
 https://github.com/ReinerNippes/nextcloud/blob/master/roles/prep_onlyoffice/tasks/main.yml
@@ -30,7 +31,6 @@ https://github.com/ONLYOFFICE/docker-onlyoffice-nextcloud/blob/master/nginx.conf
 
 ### Using a self signed cert
 https://help.nextcloud.com/t/onlyoffice-integration-https-certificate-failed/35160
-
 ---
 
 

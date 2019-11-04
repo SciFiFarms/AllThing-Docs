@@ -33,6 +33,9 @@ https://grafana.com/dashboards?dataSource=prometheus&search=snmp
 ### Fail2ban 
 https://github.com/jangrewe/prometheus-fail2ban-exporter
 https://grafana.com/grafana/dashboards/9629
+
+### Ouroboros
+https://github.com/pyouroboros/ouroboros/wiki/Grafana
 ---
 
 

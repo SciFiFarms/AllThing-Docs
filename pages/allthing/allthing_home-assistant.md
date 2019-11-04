@@ -33,6 +33,10 @@ Manual data entry (Using API): https://www.reddit.com/r/homeassistant/comments/c
 Git hooks for Home Assistant (Alternatives in comments!): https://www.reddit.com/r/homeassistant/comments/czzwmm/using_git_hooks_with_my_home_assistant_config/
      https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/
 Bed Occupancy: https://everythingsmarthome.co.uk/howto/building-a-bed-occupancy-sensor-for-home-assistant/
+How to share themes: https://www.reddit.com/r/homeassistant/comments/dhg9h4/home_assistant_community_themes/
+
+### Adding Home Assistant shortcuts to android home screens
+https://webworxshop.com/quick-home-assistant-shortcuts-for-android/
 
 ## HASS.io
 ### Reference projects
@@ -69,6 +73,9 @@ https://community.home-assistant.io/t/my-hass-io-and-lovelace-setup-updated/7290
 https://github.com/renemarc/home-assistant-config
 https://github.com/JoshuaGarrison27/Home-Assistant-Configuration
 https://www.reddit.com/r/homeassistant/comments/bq3l7v/featurescomponents_in_home_assistant_you_wish/
+
+### Influx 
+https://www.home-assistant.io/integrations/influxdb/
 
 ### Home Assistant sensors in InFluxdb
 https://selfhostedhome.com/storing-home-assistant-sensor-data-in-influxdb/
@@ -162,6 +169,9 @@ https://github.com/home-assistant/home-assistant/commit/534aa0e4b54b992ac55de0ae
 ### Lovelace
 https://www.home-assistant.io/lovelace/
 
+### Recorder
+https://www.home-assistant.io/integrations/recorder/
+
 ### Plant card
 https://www.home-assistant.io/lovelace/plant-status/ 
 
@@ -219,5 +229,6 @@ https://github.com/mertenats/Open-Home-Automation
 
 ### Best camera for Home Assistant
 https://www.reddit.com/r/homeassistant/comments/bnoi9x/best_camera_for_ha/
+https://www.reddit.com/r/homeassistant/comments/dj8gxu/best_cameras_to_use_with_home_assistant/
 
 {% include links.html %}

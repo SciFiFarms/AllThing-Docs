@@ -74,4 +74,7 @@ http://tljh.jupyter.org/en/latest/topic/whentouse.html#topic-whentouse
 ### Jupyter stacks
 https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html
 
+### Alternative To Jupyter, supports Scala
+https://polynote.org/
+
 {% include links.html %}

@@ -111,6 +111,10 @@ https://andrewaadland.me/2018/11/25/proper-webdav-redirects-for-nextcloud-with-d
 ### Hardening Nextcloud
 https://docs.nextcloud.com/server/16/admin_manual/installation/harden_server.html
 
+### Update script
+https://github.com/nextcloud/vm/blob/master/nextcloud_update.sh
+https://github.com/nextcloud/vm/blob/master/static/recover_apps.py
+
 ### How to install Nextcloud (Using Ansible!)
 https://github.com/ReinerNippes/nextcloud
 

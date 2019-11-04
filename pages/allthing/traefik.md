@@ -35,13 +35,36 @@ https://www.reddit.com/r/Traefik/comments/avt1ut/issues_enabling_logs/
 ### Different format for cli vs compose
 https://docs.traefik.io/v1.6/configuration/entrypoints/#cli
 
+### List of LetsEncrypt DNS verification providers
+https://docs.traefik.io/https/acme/#providers
+
 ### Use https://whatever@traefik.your.domain to log out of Traefik
 https://superuser.com/questions/181547/firefox-quickly-forget-http-basic-auth
+
+### Cli, env, labels, and file settings... All of them.
+https://docs.traefik.io/reference/static-configuration/cli/
+https://docs.traefik.io/reference/static-configuration/env/
+https://docs.traefik.io/reference/dynamic-configuration/docker/
+https://docs.traefik.io/reference/static-configuration/file/
+---
+
+## Converting from v1 to v2
+### Guide
+https://docs.traefik.io/migration/v1-to-v2/
+
+### Use a router 
+https://docs.traefik.io/routing/routers/
+https://docs.traefik.io/routing/providers/docker/
+https://docs.traefik.io/user-guides/docker-compose/acme-tls/
 ---
 
 ### Best guide on running Traefik in Swarm
 https://dockerswarm.rocks/traefik/
 https://medium.com/@tiangolo/docker-swarm-mode-and-traefik-for-a-https-cluster-20328dba6232
+https://blog.sixeyed.com/arming-a-hybrid-docker-swarm-part-4-reverse-proxying-with-traefik/
+
+### Using Traefik with DuckDNS
+https://github.com/KnicKnic/traefik_duckdns
 
 ### How to run Traefik and Fail2ban together
 https://github.com/crazy-max/docker-fail2ban/tree/master/examples/jails/traefik

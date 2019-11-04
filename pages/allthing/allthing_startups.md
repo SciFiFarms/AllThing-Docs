@@ -312,6 +312,9 @@ https://hbr.org/2019/02/making-learning-a-part-of-everyday-work
 https://webapplog.com/graphql/
 https://blog.graphqleditor.com/the-state-of-graphql-by-reddit/
 
+### How to buy a NAS
+https://forums.serverbuilds.net/t/nas-killer-4-0-build-guide-fast-quiet-power-efficient-and-flexible-starting-at-125/667/13
+
 
 ## Good Policies
 ### Wellbeing budget
