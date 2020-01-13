@@ -21,9 +21,11 @@ https://old.reddit.com/r/homeassistant/comments/awuvc8/advanced_custom_calendar_
 https://github.com/danielwelch/coc-homeassistant
 https://www.reddit.com/r/homeassistant/comments/b9vioe/got_home_assistant_to_grab_the_game_info_for_my/
 https://www.reddit.com/r/homeassistant/comments/9ycr63/my_lovelace_frontend/
+https://www.reddit.com/r/homeassistant/comments/e1gwcp/automated_bathroom_exhaust_fan_using_humidity/
 https://www.reddit.com/r/homeassistant/comments/d1hb60/cheap_and_easy_multiroom_sensing_for_your_hvac/
 https://github.com/ljmerza/ha-email-sensor
 https://www.reddit.com/r/homeassistant/comments/c14wu9/home_assistant_community_store/
+https://www.reddit.com/r/homeassistant/comments/dtds0i/i_made_my_own_home_assistant_wallmote_wall_remote/
 NHL things: https://www.reddit.com/r/homeassistant/comments/bkqerc/custom_sensor_nhl_game_info_need_testers/
 Already setup in Jupyter: https://github.com/robmarkcole/HASS-data-detective
 https://www.reddit.com/r/homeassistant/comments/bmenql/local_api_thermostat_recommendations/

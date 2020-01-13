@@ -13,6 +13,9 @@ folder: allthing
 ### OpenLab - TONS of containers. Seriously cool. 
 https://gitlab.com/NickBusey/HomelabOS
 
+### Gluu: Auth provider
+https://gluu.org/docs/de/example/swarm-mode/
+
 ### Tuning tips:
 https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/
 
@@ -25,12 +28,18 @@ https://staaldraad.github.io/2017/04/17/nat-to-nat-with-wireguard/
 https://www.linux.org/threads/how-to-create-a-vpn-tunnel-with-wireguard.21496/
 Subspace (GUI for WireGuard): https://github.com/subspacecloud/subspace
 
+### Nebula - Overlay network
+https://github.com/slackhq/nebula
+
 ### Sshuttle
 https://news.ycombinator.com/item?id=15773466
 
 ### SSH vs OpenVPN
 https://blog.backslasher.net/ssh-openvpn-tunneling.html
 ---
+
+### Huginn - Opensource ITTT
+https://github.com/huginn/huginn
 
 ### Grocy - Groceries and home management solution. 
 https://grocy.info/
@@ -87,6 +96,11 @@ https://github.com/albertobeta/PodcastGenerator
 
 ### More thoughts
 https://www.reddit.com/r/selfhosted/comments/cdx33m/self_hosted_podcast/
+---
+
+## Audiobooks
+### Cozy: GTK Audiobook player
+https://github.com/geigi/cozy
 ---
 
 ## Multi room audio
@@ -167,6 +181,8 @@ https://github.com/vinta/awesome-python
 https://github.com/kahun/awesome-sysadmin
 https://kubedex.com/courses/
 https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md
+https://www.vimfromscratch.com/articles/awesome-command-line-tools/
+List of APIs: https://www.programmableweb.com/category/all/apis?page=2
 
 
 ### Hardware
@@ -219,8 +235,11 @@ https://hackaday.com/2019/05/12/modular-cnc-build-gets-you-both-a-mill-and-a-las
 https://hackaday.com/2019/05/15/an-open-source-esc-for-brushless-motors/?mc_cid=ed545f7813&mc_eid=a265f2cb07
 https://www.reddit.com/r/homeassistant/comments/cv8yme/diy_irrigation_system_with_nodered/
 https://project.seeedstudio.com/Yarosia/arduino-growbox-controller-efb9fa
+https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/
+https://www.reddit.com/r/HomeNetworking/comments/efyuzx/setting_up_home_infrastructure_with_iot_security/
 https://philhawthorne.com/automating-your-shopping-list-with-home-assistant-and-grocy/
 https://blog.notexpectedyet.com/octoprint-node-red-influxdb-and-grafana/
+https://www.reddit.com/r/homeassistant/comments/dvg0m1/introducing_hakboard/
 https://hackaday.com/2019/02/27/hack-my-house-raspberry-pi-as-a-touchscreen-thermostat/
 https://www.reddit.com/r/DIY/comments/c0lbzb/build_a_diy_self_watering_pot_with_wifi_that/
 Sweet aluminum frame build: https://www.youtube.com/watch?v=hGn9uJVQ-X0
@@ -285,6 +304,9 @@ https://github.com/petrk94/ownhealthrecord/blob/master/DeveloperLog.md
 https://openmrs.org/demo/
 ---
 
+### Meili Search - Alternative to Java baed indexing
+https://github.com/meilisearch/MeiliSearch
+
 
 ## Document scanning and searching
 ### OpenPaper.work
@@ -335,8 +357,12 @@ https://www.reddit.com/r/selfhosted/comments/ddi4uu/is_anyone_working_on_an_open
 ### WordOps: The way to manage wordpress sites
 https://wordops.net/
 
-### Smart Vacums
+### Smart Vacuums
+https://github.com/Hypfer/Valetudo
+https://awesomeopensource.com/project/Hypfer/Valetudo
+https://community.home-assistant.io/t/valetudo-xiaomi-vacuum-dustcloud-alternative-live-maps/66277
 https://www.reddit.com/r/homeassistant/comments/dgdyyn/cloud_free_smart_vacuum_installing_valetudo_on/
+
 
 ### Anecdata - Citizen scientist data collection
 https://www.anecdata.org/
@@ -471,6 +497,9 @@ https://github.com/imfunniee/gitfolio
 ### Django structure
 https://djangobook.com/mdj2-django-structure/
 
+### Mixer - test data generation for Django
+https://github.com/klen/mixer
+
 ## Photo galleries
 ### Digikam (Desktop & Docker)
 https://hub.docker.com/r/rpufky/digikam
@@ -483,6 +512,9 @@ https://photoswipe.com/
 
 ### Sigal: Image gallery software
 https://github.com/saimn/sigal/
+
+### Piwigo: Opensource web photo gallery  
+https://piwigo.org/release-2.10.0
 
 ### PhotoStructure: Utilizes meta data WAY better than anything else I've seen.
 https://blog.photostructure.com/introducing-photostructure/
@@ -511,6 +543,9 @@ https://linuxize.com/post/getting-started-with-tmux
 
 ### Podlike
 https://blog.viktoradam.net/2018/05/14/podlike/
+
+### MacOS in a VM
+https://github.com/foxlet/macOS-Simple-KVM
 
 ### Slack alternatives: MatterMost vs Riot. Lean towards MatterMost, but I like Riot's security model.
 https://www.slant.co/versus/20863/12763/~riot_vs_mattermost
@@ -551,6 +586,9 @@ https://medium.com/@jmarhee/running-rocket-chat-and-mongodb-on-kubernetes-with-s
 
 ### Great list of what CI solutions are out there, and if they are open source or not
 https://github.com/ligurio/awesome-ci
+
+### Offshore website hosting guide
+https://www.reddit.com/r/coolguides/comments/e0abc9/offshore_website_hosting_guide/
 
 ### Chaos Monkey Engineering:
 https://www.gremlin.com/chaos-monkey/for-engineers/
@@ -614,6 +652,9 @@ https://github.com/laurent22/joplin/
 
 ### Tiddly wiki: Evernote competitor
 https://tiddlywiki.com/
+
+### Trilium: Personal KB
+https://github.com/zadam/trilium
 
 ### Has list of todo.txt supported clients
 http://todotxt.org/

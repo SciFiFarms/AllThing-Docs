@@ -13,5 +13,13 @@ folder: allthing
 ### Host your own bitwarden
 https://fedoramagazine.org/manage-your-passwords-with-bitwarden-and-podman/
 
+### Using Bitwarden with Ansible
+https://berk.es/2019/10/19/ansible-vault-password-with-bitwarden/
+https://github.com/c0sco/ansible-modules-bitwarden
+https://blog.oddbit.com/post/2018-10-19-integrating-bitwarden-with-ans/
+
+### Installing and using bw: Bitwarden CLI
+https://www.techrepublic.com/article/how-to-install-and-use-the-bitwarden-command-line-password-manager/
+https://github.com/bitwarden/cli/releases
 
 {% include links.html %}

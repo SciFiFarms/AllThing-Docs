@@ -96,6 +96,9 @@ https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/
 ### How to detect agile BS
 https://thenewstack.io/the-u-s-department-of-defense-on-how-to-detect-agile-bs/
 
+### Scaled Agile
+https://theuncommonleague.com/blog/201879/what-is-safe-scaled-agile-framework-and-how-is-it-different-from-agile
+
 ### Kanban
 https://kanbanize.com/kanban-resources/getting-started/what-is-kanban/
 
@@ -122,6 +125,9 @@ https://opensource.com/article/19/4/devops-pipeline
 
 ### Why and how to avoid hiring for culture fit
 https://opensource.com/open-organization/18/10/reconsider-culture-fit
+
+### DevOps lessons list
+https://www.reddit.com/r/devops/comments/eg6jjf/my_devops_learnings_in_2019_list_yours/
 
 ### How to make on-call not suck
 https://dev.to/molly_struve/making-on-call-not-suck-490

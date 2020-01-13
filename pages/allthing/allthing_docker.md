@@ -10,6 +10,11 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Hardening Docker
+https://www.secjuice.com/how-to-harden-docker-containers/
+https://medium.com/intive-developers/hardening-docker-quick-tips-54ca9c283964
+https://dev.to/petermbenjamin/docker-security-best-practices-45ih
+
 ### Docker anti-patterns
 https://codefresh.io/containers/docker-anti-patterns/
 https://www.reddit.com/r/devops/comments/bxrz4u/docker_antipatterns/

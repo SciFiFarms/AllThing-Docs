@@ -9,6 +9,26 @@ permalink: plants_c02.html
 folder: plants
 ---
 
+## DIY water carbonator
+### Guides
+https://www.seriouseats.com/2014/06/pros-cons-diy-carbonation-rig-how-to-carbonate-cocktails-at-home-equipment-how-to-build-cheaper-sodastream-replacement.html
+https://www.wired.com/2016/03/sodamod/
+
+### Parts Needed:
+- CO2 Tank 
+  - https://www.ebay.com/sch/i.html?_from=R40&_nkw=20lb+co2&_sacat=0&LH_PrefLoc=3&LH_ItemCondition=4&rt=nc&LH_BIN=1
+- CO2
+  - Way To Grow: https://www.homebrewtalk.com/forum/threads/6-99-co2-tank-refills-denver-boulder-co-springs-ft-collins.480790/
+- Pressure Regulator
+  - https://www.ebay.com/sch/i.html?_armrs=1&_from=R40&_sacat=0&_nkw=co2+regulator+beer&LH_BIN=1&rt=nc&LH_PrefLoc=3
+- Ball Lock Gas line assembly 
+- SodaStream CO2 adapter
+  - https://www.ebay.com/b/SodaStream-Co2-Adapters/25845/bn_72170242
+
+### Working with CO2
+https://www.beveragefactory.com/draftbeer/faqs/co2+tank+faqs.shtml
+---
+
 ### Foliar feeding CO2 helps
 https://www.hortidaily.com/article/45803/Economic-benefits-with-CO2-foliar-spray-integrated-into-irrigation-booms/
 https://www.hortidaily.com/article/9028119/CO2-foliar-spray-leads-to-74-increased-commercial-cannabis-bud-value/
@@ -25,6 +45,14 @@ https://www.washingtonpost.com/business/2019/06/06/why-crowded-meetings-conferen
 
 ### ESPHome Documentation: 
 https://esphome.io/components/sensor/mhz19.html?highlight=component
+
+### SCD30 - $60 NDIR supported by ESPHome
+https://esphome.io/components/sensor/scd30.html
+https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/CO2/Sensirion_CO2_Sensors_SCD30_Datasheet.pdf
+https://cdn.sparkfun.com/assets/d/c/0/7/2/SCD30_Interface_Description.pdf
+http://wiki.seeedstudio.com/Grove-CO2_Temperature_Humidity_Sensor-SCD30/
+https://platformio.org/lib/show/5449/SparkFun_SCD30_Arduino_Library
+https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library
 
 ### MH-Z19B Manual
 https://www.winsen-sensor.com/d/files/PDF/Infrared%20Gas%20Sensor/NDIR%20CO2%20SENSOR/MH-Z19B%20CO2%20Ver1.0.pdf

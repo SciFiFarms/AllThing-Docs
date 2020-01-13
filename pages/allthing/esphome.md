@@ -33,6 +33,9 @@ https://esphome.io/components/sensor/index.html#sensor-filters
 ### Configuration Types - Good bit on using substitutions:
 https://esphomelib.com/esphomeyaml/guides/configuration-types.html
 
+### ESPHome-Configs: Settings for premade devices. Think smartplugs, lights, and wall switches.
+https://esphome-configs.io/devices/
+
 ---
 ## Useful devices pages
 ### NodeMCU2 (ESP8266) pin map AND explanation:
@@ -68,6 +71,9 @@ https://github.com/arendst/Sonoff-Tasmota/wiki/Teckin-sp10
 
 ### Soil sensor calibration discussion:
 https://www.reddit.com/r/homeassistant/comments/bqw3dw/esphome_and_home_assistant_soil_capacitance/
+
+### How to do battery powered ESP32 deep sleep. BME200
+https://esphome-configs.io/devices/esp32deepsleepbme280/
 ---
 
 

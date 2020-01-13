@@ -41,4 +41,7 @@ https://github.com/CorentinJ/Real-Time-Voice-Cloning
 ### Working with Jupyter
 https://fedoramagazine.org/jupyter-and-data-science-in-fedora/
 
+### DB for Machine Learning
+https://grakn.ai/
+
 {% include links.html %}

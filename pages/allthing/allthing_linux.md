@@ -13,6 +13,10 @@ folder: allthing
 ### ncdu: Command line applaction to get folder level space usage
 https://superuser.com/questions/9847/linux-utility-for-finding-the-largest-files-directories
 
+### Alternative to ncdu:
+https://serverfault.com/questions/200949/how-can-i-find-the-biggest-directories-in-unix-ubuntu
+https://www.cyberciti.biz/faq/linux-find-largest-file-in-directory-recursively-using-find-du/
+
 ### envsubst: use to substitute env vars in templates
 ```cat template.cfg | envsubst > whatever.cfg```
 https://stackoverflow.com/questions/2914220/bash-templating-how-to-build-configuration-files-from-templates-with-bash

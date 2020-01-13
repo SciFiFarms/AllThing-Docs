@@ -13,6 +13,9 @@ folder: allthing
 ### Darshan Chaudhary's ansible notes
 https://github.com/darshanime/notes/blob/master/ansible.org
 
+### Example repo layout
+https://gitlab.com/goozbach/ansible-layout/tree/master
+
 ## Roles
 ### Docker
 https://github.com/geerlingguy/ansible-role-docker
@@ -22,7 +25,10 @@ https://linuxacademy.com/blog/red-hat/ansible-roles-explained/
 ---
 
 ## Modules
-### DigitalOcean domain
+### Cloudflare DNS
+https://docs.ansible.com/ansible/latest/modules/cloudflare_dns_module.html
+
+### DigitalOcean domain: DOES NOT SUPPORT TXT OR SRV RECORDS!!!
 https://docs.ansible.com/ansible/2.3/digital_ocean_domain_module.html
 ---
 
@@ -73,6 +79,13 @@ https://www.linux.com/blog/linux-server-hardening-using-idempotency-ansible-part
 
 ### Writing your first playbook
 https://www.ansible.com/blog/getting-started-writing-your-first-playbook
+
+### Ansible cert prep course and practice tests
+https://discountcouponguru.com/ansible-certification-preparation-course-with-practice-tests-and-mock-exams/
+
+### Ansible file layout
+https://www.reddit.com/r/ansible/comments/dtnthu/i_did_a_multipart_blog_on_the_layout_i_use_for/
+
 
 ### Setting env with Ansible
 https://stackoverflow.com/questions/27733511/how-to-set-linux-environment-variables-with-ansible
@@ -152,6 +165,9 @@ https://stackoverflow.com/questions/35654286/how-check-a-file-exists-in-ansible
 ### It sure didn't seem like I could use ansible to run docker-compose up
 https://www.reddit.com/r/ansible/comments/9k09ad/dockercompose_and_ansible/
 https://docs.ansible.com/ansible/latest/modules/docker_compose_module.html
+
+### Have include_role use default vars.
+https://github.com/ansible/ansible/issues/21890#issuecomment-298672579
 ---
 
 ### Could test playbooks

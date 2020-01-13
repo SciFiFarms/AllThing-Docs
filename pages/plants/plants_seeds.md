@@ -240,6 +240,8 @@ Optimizing for flavor: https://www.hortidaily.com/article/9022560/UK-Optimising-
 People LOVE Vidalia Onions: https://www.deepsouthventures.com/i-sell-onions-on-the-internet/
 
 ### Mushrooms
+https://gluckspilze.com/mediafiles/Bilder/Anleitungen/Fertigkultur/Hericium%20EN.pdf
+https://blog.freshcapmushrooms.com/learn/candidates-for-cultivation-the-lions-mane-mushroom/
 https://www.hortidaily.com/article/9038853/indoor-mushroom-farms-light-up-new-york-restaurants/
 https://www.hortidaily.com/article/9058171/clip-canada-s-first-vertical-mushroom-farm/
 https://www.hortidaily.com/article/9074956/a-mushroom-instead-of-pesticides/

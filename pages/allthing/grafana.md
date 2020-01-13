@@ -53,7 +53,9 @@ https://github.com/grafana/grafana/issues/525
 Using WHERE LIKE (=~): https://cmikavac.net/2018/03/30/how-to-use-where-like-clause-in-influxdb/
 ---
 
-
+### Dashboards as code: Grafanalib
+https://github.com/weaveworks/grafanalib
+https://www.weave.works/blog/grafana-dashboards-as-code/
 
 ### Importing Prometheus dashboards into Grafana
 https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana

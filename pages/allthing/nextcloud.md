@@ -70,6 +70,11 @@ https://www.reddit.com/r/NextCloud/comments/acydgy/has_anyone_had_any_success_us
 https://wasabi.com/wp-content/themes/wasabi/docs/User_Guide/index.html#t=topics%2FWorking_With_a_Bucket_Policy.htm
 https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html
 
+### S3FS
+https://www.digitalocean.com/community/questions/mount-point-with-spaces
+https://wasabi-support.zendesk.com/hc/en-us/articles/115001744651-How-do-I-use-S3FS-with-Wasabi-
+https://github.com/gaul/s3proxy
+
 ### Encryption - I had to enable server side encryption using `php occ encryption:enable`
 https://docs.nextcloud.com/server/16/admin_manual/configuration_files/encryption_configuration.html
 https://github.com/nextcloud/server/issues/8546
@@ -110,6 +115,7 @@ https://andrewaadland.me/2018/11/25/proper-webdav-redirects-for-nextcloud-with-d
 
 ### Hardening Nextcloud
 https://docs.nextcloud.com/server/16/admin_manual/installation/harden_server.html
+https://www.reddit.com/r/NextCloud/comments/dy5q1y/hardening_nextcloud/
 
 ### Update script
 https://github.com/nextcloud/vm/blob/master/nextcloud_update.sh
@@ -183,6 +189,12 @@ https://github.com/nextcloud/docker/issues/36#issuecomment-435948722
 Other solutions:
 https://github.com/rcdailey/nextcloud-cronjob
 https://github.com/SnowMB/docker/tree/adding_cron
+---
+
+## Alternatives to Nextcloud
+### Syncthing - has web GUI too!
+https://github.com/syncthing/syncthing-gtk
+
 ---
 
 {% include links.html %}

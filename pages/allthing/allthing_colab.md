@@ -107,6 +107,8 @@ https://github.com/imixs/imixs-cloud
 https://github.com/stefanprodan/swarmprom
 https://yunohost.org/#/
 https://github.com/swarmstack/swarmstack
+https://www.reddit.com/r/devops/comments/e1frg5/full_infrastructure_as_code_with_terraform/
+https://github.com/Thomvaill/tads-boilerplate
 
 ## Grants
 https://innovation.wfp.org/apply
@@ -269,6 +271,8 @@ https://www.hortidaily.com/article/9031227/can-greenhouse-crop-production-become
 https://www.hortidaily.com/article/9095474/tomatoes-growing-in-lunar-gravity-600-kilometres-above-earth/
 
 https://www.hortidaily.com/article/9095025/scientists-crack-the-code-to-regenerate-plant-tissues/
+
+https://everythingsmarthome.co.uk/
 
 hortidaily.com/article/43058/Indian-horticultural-experts-gain-experience-in-the-Netherlands
 

@@ -18,6 +18,9 @@ Uppercase variable ${name^^}
 Lowercase variable ${name,,}
 https://linuxhint.com/bash_lowercase_uppercase_strings/
 
+### Check if a variable is set
+https://stackoverflow.com/questions/3601515/how-to-check-if-a-variable-is-set-in-bash
+
 ### Global Regex
 ${start//find/replace}
 https://askubuntu.com/questions/832005/how-to-substitute-expression-globally-with-bash-bracket-substitution-syntax

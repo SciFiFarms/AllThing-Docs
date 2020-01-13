@@ -24,6 +24,9 @@ https://learn.sparkfun.com/tutorials/voltage-dividers
 ### Gravity: I2C Digital Wattmeter (8 Amps)
 https://www.dfrobot.com/product-1827.html
 
+### Quick Splice connectors
+https://www.ebay.com/sch/i.html?_from=R40&_nkw=Quick+splice+connectors&_sacat=0&rt=nc&LH_PrefLoc=3
+
 
 
 {% include links.html %}

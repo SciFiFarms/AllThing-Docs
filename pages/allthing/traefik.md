@@ -41,6 +41,9 @@ https://docs.traefik.io/https/acme/#providers
 ### Use https://whatever@traefik.your.domain to log out of Traefik
 https://superuser.com/questions/181547/firefox-quickly-forget-http-basic-auth
 
+### DigitalOcean ACME settings:
+https://go-acme.github.io/lego/dns/digitalocean/
+
 ### Cli, env, labels, and file settings... All of them.
 https://docs.traefik.io/reference/static-configuration/cli/
 https://docs.traefik.io/reference/static-configuration/env/
@@ -51,11 +54,33 @@ https://docs.traefik.io/reference/static-configuration/file/
 ## Converting from v1 to v2
 ### Guide
 https://docs.traefik.io/migration/v1-to-v2/
+https://blog.containo.us/traefik-2-0-docker-101-fc2893944b9d#49a5
+https://devclass.com/2019/09/17/traefik-reverse-proxy-celebrates-2-0-release-with-tcp-support/
+
+### Decent examples
+https://github.com/gkoerk/docker-swarm-cookbook/blob/master/traefik/traefik.yml
 
 ### Use a router 
 https://docs.traefik.io/routing/routers/
+https://docs.traefik.io/v2.0/routing/services/
 https://docs.traefik.io/routing/providers/docker/
 https://docs.traefik.io/user-guides/docker-compose/acme-tls/
+
+### Entrypoint
+https://docs.traefik.io/routing/entrypoints/
+
+### Basic Auth
+https://docs.traefik.io/v2.0/middlewares/basicauth/
+
+### HTTPS
+https://docs.traefik.io/v2.0/https/acme/
+https://docs.traefik.io/user-guides/docker-compose/acme-http/
+Good example of how to do http->https forwarding: https://webworxshop.com/internal-https-with-lets-encrypt-linode-dns-and-traefik/
+
+### Issue with Home Assistant and WebSockets:
+https://github.com/containous/traefik/issues/5533
+https://community.containo.us/t/websockets-not-working-after-migrating-to-traefik-2-0/1912
+https://stackoverflow.com/questions/11768221/firefox-websocket-security-issue/11770124
 ---
 
 ### Best guide on running Traefik in Swarm
