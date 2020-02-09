@@ -12,6 +12,9 @@ folder: plants
 ### PVC is food safe: Look for specific ratings
 https://www.howtoaquaponic.com/designs/is-pvc-food-safe/o
 
+### PVC Hacks: Actually pretty cool
+https://www.familyhandyman.com/smart-homeowner/diy-home-improvement/pvc-hacks/
+
 ### PVC max pressure vs diameter curve
 https://www.engineeringtoolbox.com/pvc-cpvc-pipes-pressures-d_796.html
 
@@ -38,7 +41,14 @@ https://www.clearpvcpipe.com/
 https://www.usplastic.com/
 https://www.plumbingsupply.com/
 
+### Has swivle fittings
+https://www.plumbingsupply.com/small-tube-push-in-fittings.html#swivtee
+
+### Repair PVC + lo VOC glue
+https://www.plumbingsupply.com/quick-repair-fittings.html
+
 ### Some thoughts on framing with PVC
 https://www.reddit.com/r/DIY/comments/bvj573/attaching_a_board_inbetween_pipes_without/
+
 
 {% include links.html %}

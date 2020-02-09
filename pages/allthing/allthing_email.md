@@ -57,6 +57,10 @@ https://www.iredmail.org/
 
 ### Sovereign
 https://github.com/sovereign/sovereign
+
+### docker-postfix: Simple relay to centralize sending emails in a stack. 
+https://hub.docker.com/r/boky/postfix
+https://github.com/bokysan/docker-postfix/blob/master/Dockerfile
 ---
 
 

@@ -67,6 +67,8 @@ http://grownetics.co/wp-content/uploads/2018/07/AgOps-Vol1-web.pdf
 https://www.reddit.com/r/coolguides/comments/bnjm4z/peak_growing_seasons_for_fruits_and_vegetables/
 
 ### Potatoes
+Great research!: http://bigidea.nianet.org/wp-content/uploads/2018/07/Chapter-Potatoes-for-Life-Support-in-Space-Wheeler-2009.pdf
+https://www.sciencedirect.com/book/9780128000021/advances-in-potato-chemistry-and-technology
 http://digg.com/video/worlds-most-expensive-potatoes
 https://vcru.wisc.edu/spoonerlab/pdf/Potato%20Atlas%20Final.pdf
 http://www.curzio.com/N/PotatoCatalog.htm
@@ -74,6 +76,7 @@ https://www.potatopro.com/news/2009/create-your-own-bonnotte-and-charge-potato-p
 https://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=search&rurl=translate.google.com&sl=fr&sp=nmt4&u=https://www.lanoirmoutier.com/la-primeur/les-varietes/la-bonnotte-de-noirmoutier/&xid=17259,15700002,15700021,15700186,15700190,15700256,15700259&usg=ALkJrhgaKDBIxMo4LasznyV3I_T5DL8d2Q
 https://www.tribuneindia.com/news/haryana/karnal-research-centre-to-grow-potato-without-soil/777062.html
 https://www.hortidaily.com/article/9114931/agronico-a-lot-of-people-know-that-we-produce-seed-but-don-t-know-that-we-do-minitubers/
+https://forum.openag.media.mit.edu/t/can-anybody-guide-me-in-aeroponic-method-of-farming-rice-and-potato-what-all-stuff-would-i-need-to-know-or-do/4599
 
 ### Tomatos
 https://www.hortidaily.com/article/44304/Tomatoes-with-a-Western-Asian-background/
@@ -110,6 +113,7 @@ https://www.hortidaily.com/article/9032286/research-with-blackberries-and-raspbe
 https://www.hortidaily.com/article/9089762/to-grow-in-bags-or-in-containers-that-s-the-question/
 
 ### Strawberries
+AEROPONIC strawberry info: https://forum.openag.media.mit.edu/t/building-aeroponic-system-and-full-automation/2348/112
 GREAT resource | How the strawberry became America’s most unsustainable fruit: https://www.youtube.com/watch?v=jw450vkIwQE&feature=youtu.be 
 https://extension.unh.edu/resources/files/Resource007429_Rep10703.pdf
 https://www.hortidaily.com/article/9101258/essentials-for-growing-hydroponic-strawberries-successfully/
@@ -161,6 +165,8 @@ https://strawberry.uark.edu/NSSI_Phase_II_EBook_2015.pdf
 https://strawberry.uark.edu/_resources/pdf/nssiweb.pdf
 https://www.youtube.com/watch?v=_9vumIFHTxo
 https://www.youtube.com/channel/UC55G_p_-ZM58goZtu_OYEtA/featured
+https://en.wikipedia.org/wiki/Breeding_of_strawberries
+https://strawberryplants.org/genetics-of-strawberry-plants/
 
 
 ###

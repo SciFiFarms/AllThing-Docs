@@ -173,5 +173,7 @@ https://github.com/ansible/ansible/issues/21890#issuecomment-298672579
 ### Could test playbooks
 https://medium.com/@arslan70/continuous-integration-for-a-monolithic-ansible-repository-ce4ea09f1588
 
-{% include links.html %}
+### Sovereign: An ansible version of TechnoCore
+https://github.com/sovereign/sovereign
 
+{% include links.html %}

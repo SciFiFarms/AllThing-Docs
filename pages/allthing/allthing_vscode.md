@@ -9,6 +9,9 @@ permalink: allthing_vscode.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+### Awesome VSCode - Great list of plugins and stuff
+https://viatsko.github.io/awesome-vscode/
+
 
 ### Multi select in VS Code (Alt + click):
 https://kencenerelli.wordpress.com/2018/03/25/visual-studio-code-multi-line-and-multi-cursor-editing/

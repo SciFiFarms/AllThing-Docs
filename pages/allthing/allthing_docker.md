@@ -184,6 +184,9 @@ https://github.com/pyouroboros/ouroboros
 Swarm mode docs: https://github.com/pyouroboros/ouroboros/issues/282
 https://github.com/pyouroboros/ouroboros/wiki/Grafana
 
+### Cioban: Alternative to Ouroboros written in python
+https://github.com/ix-ai/cioban
+
 ### Activate virtual env in Dockerfile
 https://pythonspeed.com/articles/activate-virtualenv-dockerfile/
 

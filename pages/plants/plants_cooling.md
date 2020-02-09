@@ -32,6 +32,12 @@ https://www.instructables.com/id/Making-a-Beefy-Peltier-Cooler/
 ### Good discussion on why not to use PWM, and what to use instead:
 https://electronics.stackexchange.com/questions/118536/thermistor-control-of-peltier-voltage-with-arduino-for-dslr-chill-box-project
 
+### Buck Converter 12v -> 5v
+https://www.adafruit.com/product/1385
+
+### Reverse heating&cooling sides:
+https://electronics.stackexchange.com/questions/342204/is-there-a-way-to-reverse-the-current-of-a-peltier-plate
+
 ### Where to get
 $12 - https://www.adafruit.com/product/1330
 

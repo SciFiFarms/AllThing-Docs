@@ -239,6 +239,8 @@ https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/
 https://www.reddit.com/r/HomeNetworking/comments/efyuzx/setting_up_home_infrastructure_with_iot_security/
 https://philhawthorne.com/automating-your-shopping-list-with-home-assistant-and-grocy/
 https://blog.notexpectedyet.com/octoprint-node-red-influxdb-and-grafana/
+https://hackaday.io/project/148274-electronic-pressure-regulator
+https://www.reddit.com/r/homeassistant/comments/emeuwo/another_smart_blinds_build/
 https://www.reddit.com/r/homeassistant/comments/dvg0m1/introducing_hakboard/
 https://hackaday.com/2019/02/27/hack-my-house-raspberry-pi-as-a-touchscreen-thermostat/
 https://www.reddit.com/r/DIY/comments/c0lbzb/build_a_diy_self_watering_pot_with_wifi_that/
@@ -431,6 +433,9 @@ https://www.ebayinc.com/stories/blogs/tech/beam-a-distributed-knowledge-graph-st
 ### Websocketd - Connect to a terminal via WebSockets.
 https://github.com/joewalnes/websocketd
 
+### TMate: Screenshare tmux
+https://fedoramagazine.org/enable-remote-collaboration-with-tmate-io-on-fedora/
+
 ## Web bundles
 ### Front End Handbook 2019 
 https://github.com/FrontendMasters/front-end-handbook-2019
@@ -547,25 +552,8 @@ https://blog.viktoradam.net/2018/05/14/podlike/
 ### MacOS in a VM
 https://github.com/foxlet/macOS-Simple-KVM
 
-### Slack alternatives: MatterMost vs Riot. Lean towards MatterMost, but I like Riot's security model.
-https://www.slant.co/versus/20863/12763/~riot_vs_mattermost
-https://www.reddit.com/r/selfhosted/comments/9lmerc/rocketchat_vs_mattermost/
-https://www.reddit.com/r/selfhosted/comments/7k471o/zulip_vs_rocketchat_vs_mattermost_vs_riotim_slack/
-https://medium.com/ignation/time-to-replace-slack-who-will-win-mattermost-or-riot-matrix-a090e9cdc219
-Mattermost doesn't have an integration with NextCloud (Yet): https://github.com/nextcloud/server/issues/3202
-Mattermost Digital Ocean instructions: http://michaelb.org/how-to-install-mattermost-on-digital-ocean/
-Mattermost production docker instructions: https://docs.mattermost.com/install/prod-docker.html
-Mattermost NextCloud as an external link: https://forum.mattermost.org/t/mattermost-as-an-external-site-in-nextcloud/6724/2
-https://www.reddit.com/r/selfhosted/comments/b81gwa/in_the_light_of_discords_new_censorship_laws_does/
-
 ### Running your own social network
 https://runyourown.social/
-
-### Zulip is seriously competitive. Also
-https://zulipchat.com/integrations/
-
-### Rocket.Chat is partnering with NextCloud:
-https://www.reddit.com/r/selfhosted/comments/9lmerc/rocketchat_vs_mattermost/
 
 ### Skype alternatives
 https://www.reddit.com/r/linuxadmin/comments/axn7cc/opensource_audiovideo_for_meetings_skype/
@@ -581,11 +569,11 @@ https://wiki.mumble.info/wiki/3rd_Party_Applications
 ### Code Server - VS Code in your web browser. 
 https://github.com/codercom/code-server/
 
-### How to run rocket chat on kubernetes 
-https://medium.com/@jmarhee/running-rocket-chat-and-mongodb-on-kubernetes-with-statefulsets-f3ddef5bd511
-
 ### Great list of what CI solutions are out there, and if they are open source or not
 https://github.com/ligurio/awesome-ci
+
+### One Dev: All-In-One DevOps Platform
+https://github.com/theonedev/onedev
 
 ### Offshore website hosting guide
 https://www.reddit.com/r/coolguides/comments/e0abc9/offshore_website_hosting_guide/

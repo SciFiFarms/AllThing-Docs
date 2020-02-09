@@ -44,6 +44,9 @@ https://esphome.io/devices/nodemcu_esp8266.html?highlight=led
 ### ESP32 - NodeMCU pin map and quirks: 
 https://esphome.io/devices/nodemcu_esp32.html
 
+### Custom Components (Includes MQTT)
+https://esphome.io/custom/custom_component.html
+
 ### Direct integration with Home Assistant services: 
 https://esphome.io/components/api.html#api-services
 

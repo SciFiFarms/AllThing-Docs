@@ -27,6 +27,15 @@ https://www.dfrobot.com/product-1827.html
 ### Quick Splice connectors
 https://www.ebay.com/sch/i.html?_from=R40&_nkw=Quick+splice+connectors&_sacat=0&rt=nc&LH_PrefLoc=3
 
+### How to splice small wires:
+https://hobbyhoarder.net/how-to-connect-small-wires/
+
+### How to convert power ratings from AC to DC
+https://electronics.stackexchange.com/questions/332232/whats-the-relation-between-ac-power-strip-current-rating-and-dc-output-current-f
+
+### Different kinds of switches:
+https://www.littelfuse.com/technical-resources/technical-centers/commercial-vehicle-technical-center/poles-and-throws.aspx
+
 
 
 {% include links.html %}

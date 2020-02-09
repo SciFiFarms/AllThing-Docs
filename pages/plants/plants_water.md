@@ -27,6 +27,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/17243230
 
 ### PSI Cutoff switch
 https://filterdirect.com/2100-aquatec-pressure-switch-shut-tubing-p-358.html?osCsid=41526c924094ce121b91da52c7256d33
+#### Changing PSI
+http://www.purewaterproducts.com/docs/howto-booster-pump-pressure-adjustment
 
 ### Dosing pump
 https://www.hortidaily.com/article/44508/Smart-dosing-pump-monitors-resources/

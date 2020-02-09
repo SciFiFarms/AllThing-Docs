@@ -16,6 +16,7 @@ IDE: https://github.com/hassio-addons/addon-ide
 https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810
 https://www.home-assistant.io/components/calendar.caldav/
 https://www.reddit.com/r/homeassistant/comments/ato1az/my_slate_dark_theme_fully_complete/
+https://community.home-assistant.io/t/a-different-take-on-designing-a-lovelace-ui/162594
 https://www.reddit.com/r/homeassistant/comments/auw5xu/home_assistant_new_user_interface_and_ui_editor/
 https://old.reddit.com/r/homeassistant/comments/awuvc8/advanced_custom_calendar_card_google_calendar/
 https://github.com/danielwelch/coc-homeassistant
@@ -36,6 +37,7 @@ Git hooks for Home Assistant (Alternatives in comments!): https://www.reddit.com
      https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/
 Bed Occupancy: https://everythingsmarthome.co.uk/howto/building-a-bed-occupancy-sensor-for-home-assistant/
 How to share themes: https://www.reddit.com/r/homeassistant/comments/dhg9h4/home_assistant_community_themes/
+Vacuum (RoboRock S4): https://aarongodfrey.dev/home%20automation/roborock_s4_lovelace_dashboard/
 
 ### Adding Home Assistant shortcuts to android home screens
 https://webworxshop.com/quick-home-assistant-shortcuts-for-android/
@@ -232,5 +234,11 @@ https://github.com/mertenats/Open-Home-Automation
 ### Best camera for Home Assistant
 https://www.reddit.com/r/homeassistant/comments/bnoi9x/best_camera_for_ha/
 https://www.reddit.com/r/homeassistant/comments/dj8gxu/best_cameras_to_use_with_home_assistant/
+
+### Some smart electric, water, and gas meters are unencrypted and can be monitored. Fort Collins encrypts their traffic, but offers an website/api you can use instead.
+https://community.home-assistant.io/t/get-your-smart-electric-water-and-gas-meter-scm-readings-into-home-assistant-with-a-rtl-sdr/93707
+
+### You can run Hass.io outside of their OS.
+https://www.reddit.com/r/homeassistant/comments/ems5zb/home_assistant_without_hassio/
 
 {% include links.html %}

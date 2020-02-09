@@ -51,6 +51,9 @@ https://docs.traefik.io/reference/dynamic-configuration/docker/
 https://docs.traefik.io/reference/static-configuration/file/
 ---
 
+### Adding auth middleware
+https://itnext.io/how-to-implement-a-sso-middleware-for-traefik-v2-on-kubernetes-dcd9d45cc875
+
 ## Converting from v1 to v2
 ### Guide
 https://docs.traefik.io/migration/v1-to-v2/

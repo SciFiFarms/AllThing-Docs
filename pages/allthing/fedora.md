@@ -45,6 +45,9 @@ https://sonny.re/linux-and-touchscreen
 
 ### Add bluetooth codacs
 https://github.com/EHfive/pulseaudio-modules-bt/wiki/Packages#fedora
+
+### Set Up DNS over HTTPS
+https://libredns.gr/
 ---
 
 

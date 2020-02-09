@@ -28,4 +28,8 @@ https://divan.dev/posts/visual_programming_go/
 ### Writing clean Go code
 https://github.com/Pungyeon/clean-go-article
 
+### Machine Learning with GO
+https://github.com/sjwhitworth/golearn
+https://oralytics.com/2019/05/07/machine-learning-with-go-lang/
+
 {% include links.html %}

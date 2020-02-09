@@ -199,6 +199,9 @@ https://interestingengineering.com/13-vertical-farming-innovations-that-could-re
 
 https://www.hortidaily.com/article/9063188/us-in-microsoft-helps-students-learn-about-precision-ag-and-iot/
 
+### Dave's friend (Strawberries)
+https://www.facebook.com/strawnberryfarm/?ref=nf&hc_ref=ARR71UCN2uihUWU0ZxkoyXaePx0VnYliZok3Vmq8P25Hybqc6NSHr95v795WwyN68VU
+
 https://www.hortidaily.com/article/9063058/investors-often-think-that-one-year-is-enough-to-learn-the-trade/
 
 https://www.hortidaily.com/article/9048938/us-mi-freight-farm-to-grow-vegetables-for-detroit-homeless/
@@ -268,6 +271,8 @@ https://truththeory.com/2019/02/02/1-5-million-volunteers-plant-66-million-trees
 
 https://www.hortidaily.com/article/9031227/can-greenhouse-crop-production-become-efficient-enough-to-produce-food-for-the-masses/
 
+https://fantasticfungi.com/book/
+
 https://www.hortidaily.com/article/9095474/tomatoes-growing-in-lunar-gravity-600-kilometres-above-earth/
 
 https://www.hortidaily.com/article/9095025/scientists-crack-the-code-to-regenerate-plant-tissues/
@@ -275,6 +280,8 @@ https://www.hortidaily.com/article/9095025/scientists-crack-the-code-to-regenera
 https://everythingsmarthome.co.uk/
 
 hortidaily.com/article/43058/Indian-horticultural-experts-gain-experience-in-the-Netherlands
+
+https://nextcity.org/daily/entry/the-city-that-plans-to-completely-end-homelessness?utm_source=digg
 
 wevolver.com/border.labs/astroplant/blob/master/documentation.md
 

@@ -53,6 +53,7 @@ https://cdn.sparkfun.com/assets/d/c/0/7/2/SCD30_Interface_Description.pdf
 http://wiki.seeedstudio.com/Grove-CO2_Temperature_Humidity_Sensor-SCD30/
 https://platformio.org/lib/show/5449/SparkFun_SCD30_Arduino_Library
 https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library
+#### Needs patch for some ESP8266s: https://github.com/esphome/issues/issues/987
 
 ### MH-Z19B Manual
 https://www.winsen-sensor.com/d/files/PDF/Infrared%20Gas%20Sensor/NDIR%20CO2%20SENSOR/MH-Z19B%20CO2%20Ver1.0.pdf
@@ -84,6 +85,10 @@ https://www.hortidaily.com/article/9089260/us-co2-monitor-and-grow-controller-up
 
 ### CO2 Capture
 https://electrek.co/2019/03/22/negative-emissions-carbon-tech/
+
+### Regulators
+https://heavy.com/marijuana/2016/05/top-best-co2-regulator-emitter-controller-extractor-cannabis-weed-marijuana-hydroponics/
+https://www.reddit.com/r/PlantedTank/comments/99h0bh/co2_regulator_recommendations/
 
 
 {% include links.html %}

@@ -77,6 +77,9 @@ https://www.reddit.com/r/personalfinance/comments/brn3py/need_to_talk_with_a_fin
 https://www.reddit.com/r/personalfinance/comments/brpxjw/accountant_vs_financial_adviser_vs_doityourself/
 --- 
 
+### Cloud/DevOps technology landscape
+https://landscape.cncf.io/
+
 ### YC Playbook
 https://playbook.samaltman.com/
 
@@ -137,6 +140,9 @@ https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-3
 
 ### Python vs Go vs Rust
 http://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/
+
+### Spending big $ on ads
+https://www.indiehackers.com/article/we-wasted-50k-on-google-ads-so-you-dont-have-to-355a425b27?utm_source=digg
 
 ### Managing by consensus
 https://www.ozy.com/rising-stars/the-office-of-happy-hiring-firing-and-promoting-by-consensus/93072

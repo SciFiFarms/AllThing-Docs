@@ -61,6 +61,9 @@ https://www.hortidaily.com/article/9077318/research-toolbox-expanded-thanks-to-l
 https://www.hortidaily.com/article/9085686/a-growers-climate-about-diffuse-light/
 ---
 
+### Cheap, but quality build. 3D printed frame
+https://www.reddit.com/r/SpaceBuckets/comments/emrv5x/created_this_bxeb_l0280_led_light_for_around_30/
+
 ### Guide to grow lights. Interesting bit about light warmth and crop type
 https://blog.growlink.com/a-quick-guide-to-grow-lights
 
