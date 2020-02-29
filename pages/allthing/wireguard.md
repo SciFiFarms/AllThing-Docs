@@ -15,6 +15,9 @@ https://wiki.dd-wrt.com/wiki/index.php/The_Easiest_Tunnel_Ever
 
 ### Set up using wireguard
 https://blogs.gnome.org/thaller/2019/03/15/wireguard-in-networkmanager/
+
+### Use RPMFusion over CORP
+https://www.reddit.com/r/Fedora/comments/djr78h/wireguard_fails_to_work_on_current_kernels_but/
 ---
 
 ## Issues

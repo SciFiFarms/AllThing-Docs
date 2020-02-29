@@ -126,6 +126,7 @@ https://www.hortidaily.com/article/9090257/new-high-tech-consortium-develops-cro
 
 ## Far out technology
 ### CO2 Capture
+https://www.agenciasinc.es/en/News/The-catalyst-that-removes-CO2-and-produces-hydrocarbons
 https://news.engineering.utoronto.ca/out-of-thin-air-new-electrochemical-process-shortens-the-path-to-capturing-and-recycling-co2/
 https://actu.epfl.ch/news/next-gen-membranes-for-carbon-capture/
 

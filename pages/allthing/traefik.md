@@ -23,6 +23,9 @@ https://github.com/containous/traefik-library-image/blob/8c0a8508ea75d5a491abadb
 
 ### Wildcard domains
 https://docs.traefik.io/configuration/acme/#wildcard-domains
+
+### Traefik simple SSO
+https://www.reddit.com/r/selfhosted/comments/f1mf54/sti_simple_traefik_identity_super_configurable/
 ---
 
 ## Documentation
@@ -57,6 +60,7 @@ https://itnext.io/how-to-implement-a-sso-middleware-for-traefik-v2-on-kubernetes
 ## Converting from v1 to v2
 ### Guide
 https://docs.traefik.io/migration/v1-to-v2/
+https://offby2.com/posts/002-introduction-to-traefik-v2-with-docker/
 https://blog.containo.us/traefik-2-0-docker-101-fc2893944b9d#49a5
 https://devclass.com/2019/09/17/traefik-reverse-proxy-celebrates-2-0-release-with-tcp-support/
 

@@ -10,6 +10,12 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### Example flows
+https://community.home-assistant.io/t/node-red-flow-examples/83644
+https://www.juanmtech.com/get-started-with-node-red-and-home-assistant/
+
+### Doing things on a timer
+https://www.reddit.com/r/homeassistant/comments/f4zvk6/dumb_node_red_question_trigger_at_a_given_time/
 
 ## Dashboard
 ### Github

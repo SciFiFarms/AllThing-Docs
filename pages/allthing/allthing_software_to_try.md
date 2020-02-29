@@ -40,6 +40,7 @@ https://blog.backslasher.net/ssh-openvpn-tunneling.html
 
 ### Huginn - Opensource ITTT
 https://github.com/huginn/huginn
+https://blog.colinarms.com/posts/huginn-slack-gcp-automation/
 
 ### Grocy - Groceries and home management solution. 
 https://grocy.info/
@@ -186,14 +187,6 @@ List of APIs: https://www.programmableweb.com/category/all/apis?page=2
 
 
 ### Hardware
-#### Tuya OTA updates. No soldering.
-https://www.youtube.com/watch?v=O5GYh470m5k
-https://github.com/ct-Open-Source/tuya-convert/issues/1
-https://github.com/codetheweb/tuyapi/issues/49
-https://github.com/SynAckFin/TuyOTA
-https://github.com/kueblc/mocktuyacloud
-Tuya switches with ESPHome - https://www.youtube.com/watch?v=ib0GSRjRnSw&feature=share
-Great Tuya info: https://www.youtube.com/watch?v=q4HrpSORcXA
 
 ### Gotify: push notifications for android
 https://chargen.one/steve/self-hosting-portable-notifications

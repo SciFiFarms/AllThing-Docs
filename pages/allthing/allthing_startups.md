@@ -337,12 +337,16 @@ https://blog.30hourjobs.com/an-interview-with-aidan-harper-of-the-4-day-week-cam
 
 ### Housing first
 https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness
+https://www.nytimes.com/2020/02/13/business/economy/housing-crisis-conor-dougherty-golden-gates.html
 
 ### Paying to convert farm land to forest
 https://www.intelligentliving.co/costa-rica-forest-cover/
 
 ### Base drug prices on effectiveness
 https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2018.05142?journalCode=hlthaff
+
+### Sweden lets employees take 6 months to start a business
+https://www.businessinsider.com/sweden-lets-employees-take-six-months-off-start-own-business-2019-2
 ---
 
 

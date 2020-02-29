@@ -26,6 +26,9 @@ DNS Record: https://www.terraform.io/docs/providers/do/r/record.html
 ### Patterns and tricks
 https://medium.com/@pavloosadchyi/terraform-patterns-and-tricks-i-use-every-day-117861531173
 
+### Basics of State
+https://www.thecloud.coach/terraform/understanding-state/
+
 ### Store state in Wasabi
 https://wasabi-support.zendesk.com/hc/en-us/articles/360003362071-How-I-do-use-Terraform-with-Wasabi-
 

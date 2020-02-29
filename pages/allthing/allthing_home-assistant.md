@@ -10,6 +10,16 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+## Projects
+### NHL Sensor
+https://github.com/JayBlackedOut/hass-nhlapi
+https://github.com/JayBlackedOut/hass-nhlapi/blob/master/frontend.md
+https://github.com/JayBlackedOut/hass-nhlapi/blob/master/automations.md
+
+NHL things: https://www.reddit.com/r/homeassistant/comments/bkqerc/custom_sensor_nhl_game_info_need_testers/
+
+---
+
 ### Projects and components I want to use:
 High Availability: https://github.com/cvb941/HAHA
 IDE: https://github.com/hassio-addons/addon-ide
@@ -27,7 +37,7 @@ https://www.reddit.com/r/homeassistant/comments/d1hb60/cheap_and_easy_multiroom_
 https://github.com/ljmerza/ha-email-sensor
 https://www.reddit.com/r/homeassistant/comments/c14wu9/home_assistant_community_store/
 https://www.reddit.com/r/homeassistant/comments/dtds0i/i_made_my_own_home_assistant_wallmote_wall_remote/
-NHL things: https://www.reddit.com/r/homeassistant/comments/bkqerc/custom_sensor_nhl_game_info_need_testers/
+https://www.reddit.com/r/homeassistant/comments/f78h7n/new_energyconsumption_screen_still_tweaking_it/
 Already setup in Jupyter: https://github.com/robmarkcole/HASS-data-detective
 https://www.reddit.com/r/homeassistant/comments/bmenql/local_api_thermostat_recommendations/
 Auto apply theme: https://community.home-assistant.io/t/make-a-theme-stay-after-reboot-broke-again/106751/13

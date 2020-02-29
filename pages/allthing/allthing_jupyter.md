@@ -7,6 +7,21 @@ permalink: allthing_jupyter.html
 folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
+
+### GREAT overview on how to use Jupyter
+https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b
+
+## Extensions
+### Draw.io
+https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919
+
+### Influxalchemy 
+https://github.com/amancevice/influxalchemy
+
+### nb2mail: Send notebooks as an email
+https://github.com/nfultz/nb2mail
+---
+
 ### Configuring Jupyter
 https://jupyter-notebook.readthedocs.io/en/stable/config.html
 https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html
@@ -65,7 +80,9 @@ https://github.com/jupyterlab/jupyterlab-github
 https://github.com/oriolmirosa/jupyterlab_materialdarker
 https://github.com/vidartf/jupyterlab_discovery
 
-
+### VS Code supports Jupyter
+https://code.visualstudio.com/docs/python/jupyter-support
+https://towardsdatascience.com/jupyter-notebook-in-visual-studio-code-3fc21a36fe43
 
 ### The Littlest JupyterHub
 http://tljh.jupyter.org/en/latest/
@@ -73,6 +90,9 @@ http://tljh.jupyter.org/en/latest/topic/whentouse.html#topic-whentouse
 
 ### Jupyter stacks
 https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html
+
+### A scripted Jupyter/Docker setup
+https://github.com/frankzickert/jupyterlab-configuration
 
 ### Alternative To Jupyter, supports Scala
 https://polynote.org/

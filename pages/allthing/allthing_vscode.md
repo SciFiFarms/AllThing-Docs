@@ -12,6 +12,9 @@ folder: allthing
 ### Awesome VSCode - Great list of plugins and stuff
 https://viatsko.github.io/awesome-vscode/
 
+### Jupyter Notebook support
+https://code.visualstudio.com/docs/python/jupyter-support
+https://towardsdatascience.com/jupyter-notebook-in-visual-studio-code-3fc21a36fe43
 
 ### Multi select in VS Code (Alt + click):
 https://kencenerelli.wordpress.com/2018/03/25/visual-studio-code-multi-line-and-multi-cursor-editing/
@@ -34,5 +37,9 @@ https://github.com/Microsoft/vscode/issues/5329
 ### AutoWrap
 https://github.com/stkb/Rewrap/wiki/Auto-wrap
 ---
+
+## Configuration
+### Fix remapped escape key not working with vim extension: "keyboard.dispatch"
+https://github.com/microsoft/vscode/issues/32037
 
 {% include links.html %}

@@ -21,4 +21,8 @@ https://timeseriesadmin.github.io/#showcase
 
 ### Storing Home Assistant data
 
+### Python Libraries
+https://github.com/amancevice/influxalchemy
+https://github.com/influxdata/influxdb-python
+
 {% include links.html %}
