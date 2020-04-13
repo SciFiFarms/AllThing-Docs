@@ -13,6 +13,9 @@ folder: allthing
 ### DD WRT
 https://wiki.dd-wrt.com/wiki/index.php/The_Easiest_Tunnel_Ever
 
+### How to Configure Wireguard
+https://www.stavros.io/posts/how-to-configure-wireguard/
+
 ### Set up using wireguard
 https://blogs.gnome.org/thaller/2019/03/15/wireguard-in-networkmanager/
 

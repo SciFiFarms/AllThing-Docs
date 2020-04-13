@@ -251,4 +251,7 @@ https://community.home-assistant.io/t/get-your-smart-electric-water-and-gas-mete
 ### You can run Hass.io outside of their OS.
 https://www.reddit.com/r/homeassistant/comments/ems5zb/home_assistant_without_hassio/
 
+### How to read all the MQTT discovery messages. Subscribe to:
+homeassistant/+/+/+/config
+
 {% include links.html %}

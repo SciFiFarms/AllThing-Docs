@@ -20,7 +20,7 @@ https://hackaday.com/2018/12/14/scott-swaaley-on-high-voltage/
 
 ### Sensors:
 #### TSL2561
-source: https://www.adafruit.com/product/3611
+source: https://www.adafruit.com/product/3612
 https://github.com/adafruit/TSL2561-Arduino-Library
 
 ### Hands on complexity

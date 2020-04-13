@@ -12,6 +12,7 @@ folder: allthing
 
 ### Barcode buddy: Script for working with bar codes!
 https://www.reddit.com/r/grocy/comments/cbxhez/i_created_barcode_buddy_a_barcode_system_for/
+https://www.reddit.com/r/grocy/comments/fjv00b/official_barcodebuddy_docker_image_has_been/
 
 ### linuxserver repo
 https://github.com/linuxserver/docker-grocy

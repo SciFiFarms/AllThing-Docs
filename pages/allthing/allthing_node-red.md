@@ -17,6 +17,9 @@ https://www.juanmtech.com/get-started-with-node-red-and-home-assistant/
 ### Doing things on a timer
 https://www.reddit.com/r/homeassistant/comments/f4zvk6/dumb_node_red_question_trigger_at_a_given_time/
 
+### Dealing with secrets:
+https://jessewebdotcom.github.io/home-assistant-cookbook/docs/node-red/tutorials/secrets/
+
 ## Dashboard
 ### Github
 https://github.com/node-red/node-red-dashboard

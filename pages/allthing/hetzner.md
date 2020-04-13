@@ -19,4 +19,7 @@ https://wiki.hetzner.de/index.php/Hetzner_Rescue-System/en#Mounting_the_Drive.28
 ### Good instructions on setting up chroot
 https://docs.fedoraproject.org/en-US/quick-docs/bootloading-with-grub2/#restoring-bootloader-using-live-disk
 
+### HA Loadbalancer in Hetzner
+https://www.reddit.com/r/devops/comments/flvv6n/highly_available_external_load_balancer_for/
+
 {% include links.html %}

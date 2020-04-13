@@ -13,6 +13,9 @@ folder: allthing
 ### OpenLab - TONS of containers. Seriously cool. 
 https://gitlab.com/NickBusey/HomelabOS
 
+### OpenSource.Builders: List of Open Source Software by catagory
+https://opensource.builders/
+
 ### Gluu: Auth provider
 https://gluu.org/docs/de/example/swarm-mode/
 
@@ -124,6 +127,9 @@ https://github.com/jesseduffield/lazydocker
 
 ### Markdeck - Presentation as code
 https://github.com/arnehilmann/markdeck
+
+### KID: KDE 
+https://ms-jpq.github.io/kde-in-docker/
 
 ### Loki: Prometheus for logs
 https://grafana.com/loki
@@ -306,6 +312,9 @@ https://github.com/meilisearch/MeiliSearch
 ## Document scanning and searching
 ### OpenPaper.work
 https://openpaper.work/en-us/
+
+### Reddit's Suggestions
+https://www.reddit.com/r/selfhosted/comments/ftlsyk/android_app_scan_document_upload_to_selfhosted/
 ---
 
 ### Socioboard - Self-hosted social media manager
@@ -482,6 +491,9 @@ https://www.reddit.com/r/selfhosted/comments/bfhbp2/huge_thanks_to_everyone_that
 ### Heimdall: Dashboard/launching self-hosted apps
 https://github.com/linuxserver/Heimdall
 
+### Homer: Alternative to Heimdall
+https://www.reddit.com/r/selfhosted/comments/fguv0b/heimdall_is_awesome_but_i_really_like_the_look_of/
+
 ### Selfhosted gui for attaching buttons to command line execution
 https://www.reddit.com/r/selfhosted/comments/dl5a1z/is_there_a_web_ui_program_where_i_can_click_a/
 https://www.rundeck.com/test-drive
@@ -549,6 +561,7 @@ https://github.com/foxlet/macOS-Simple-KVM
 https://runyourown.social/
 
 ### Skype alternatives
+http://docs.bigbluebutton.org/2.2/install.html#bbb-installsh
 https://www.reddit.com/r/linuxadmin/comments/axn7cc/opensource_audiovideo_for_meetings_skype/
 https://webrtc.org/
 

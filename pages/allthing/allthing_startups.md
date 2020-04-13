@@ -89,6 +89,8 @@ https://www.defmacro.org/2019/03/26/startup-checklist.html
 ### How to contribute to open source projects: Decent list of things outside of programming. Target these specifically. 
 https://www.forbes.com/sites/jasonevangelho/2019/05/13/8-ways-contribute-desktop-linux-community-marketing-documentation-art-testing/
 
+### Retrospectives:
+https://academy.nobl.io/definitive-guide-to-agile-retrospectives-and-post-mortem-meetings/
 
 ### Why agile/scrum are terrible:
 https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/

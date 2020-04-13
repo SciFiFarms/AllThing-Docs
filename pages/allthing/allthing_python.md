@@ -18,6 +18,12 @@ https://github.com/darshanime/notes/blob/master/django.org
 https://github.com/darshanime/notes/blob/master/python.org
 https://github.com/darshanime/notes/blob/master/python_gotchas.org
 
+### Different ways of combining strings
+https://realpython.com/python-string-formatting/
+
+### Static type checking in Python (3.6)
+https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b
+
 ### Use anytree to build parts list, prices, electric usage, etc for modeling
 https://stackoverflow.com/questions/2358045/how-can-i-implement-a-tree-in-python-are-there-any-built-in-data-structures-in
 https://anytree.readthedocs.io/en/latest/intro.html#overview

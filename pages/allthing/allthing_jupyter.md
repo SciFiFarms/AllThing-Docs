@@ -11,7 +11,16 @@ folder: allthing
 ### GREAT overview on how to use Jupyter
 https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b
 
+### Tips 
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+
 ## Extensions
+### JupyterLab SQL
+https://github.com/pbugnion/jupyterlab-sql
+
+### JupyterLab Vim
+https://github.com/jwkvam/jupyterlab-vim
+
 ### Draw.io
 https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919
 
@@ -21,6 +30,9 @@ https://github.com/amancevice/influxalchemy
 ### nb2mail: Send notebooks as an email
 https://github.com/nfultz/nb2mail
 ---
+
+### How do display HTML
+https://stackoverflow.com/questions/25698448/how-to-embed-html-into-ipython-output
 
 ### Configuring Jupyter
 https://jupyter-notebook.readthedocs.io/en/stable/config.html
@@ -40,6 +52,13 @@ https://github.com/robmarkcole/HASS-data-detective#simple-query
 
 ### How to access InfluxDB
 https://www.influxdata.com/blog/getting-started-python-influxdb/
+
+## Working with SQL
+https://towardsdatascience.com/heres-how-to-run-sql-in-jupyter-notebooks-f26eb90f3259
+https://towardsdatascience.com/jupyter-magics-with-sql-921370099589
+https://www.datacamp.com/community/tutorials/sql-interface-within-jupyterlab
+https://stackoverflow.com/questions/35160256/how-do-i-output-lists-as-a-table-in-jupyter-notebook
+
 
 ### Awesome Datascience
 https://github.com/r0f1/datascience

@@ -10,6 +10,10 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
+### They did a dumb thing and removed mobile support in free. Crack available 
+https://github.com/Zegorax/OnlyOffice-Unlimited
+https://www.reddit.com/r/selfhosted/comments/fpurk6/stop_recommending_onlyoffice/
+
 ## Config
 ### Env options
 https://helpcenter.onlyoffice.com/server/docker/document/docker-installation.aspx
