@@ -98,6 +98,9 @@ https://blog.sixeyed.com/arming-a-hybrid-docker-swarm-part-4-reverse-proxying-wi
 ### Using Traefik with DuckDNS
 https://github.com/KnicKnic/traefik_duckdns
 
+### Traefik and MDNS
+https://gitlab.com/viraptor/docker_mdns
+
 ### How to run Traefik and Fail2ban together
 https://github.com/crazy-max/docker-fail2ban/tree/master/examples/jails/traefik
 

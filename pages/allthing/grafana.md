@@ -11,6 +11,13 @@ folder: allthing
 ---
 
 ## Dashboards
+
+### Home Assistant
+https://community.home-assistant.io/t/home-assistant-community-add-on-grafana/54674
+
+### Traefik
+https://grafana.com/grafana/dashboards/10479
+
 ### Prometheus
 https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana
 
@@ -30,12 +37,18 @@ https://grafana.com/dashboards/6490
 Best looking one, would need some work: https://grafana.com/grafana/dashboards/950
 https://grafana.com/dashboards?dataSource=prometheus&search=snmp
 
+### OpenWrt
+https://grafana.com/grafana/dashboards/11858
+
 ### Fail2ban 
 https://github.com/jangrewe/prometheus-fail2ban-exporter
 https://grafana.com/grafana/dashboards/9629
 
 ### Ouroboros
 https://github.com/pyouroboros/ouroboros/wiki/Grafana
+
+### Influx Admin: seemed like process management
+https://grafana.com/grafana/plugins/natel-influx-admin-panel
 ---
 
 
@@ -51,7 +64,20 @@ Set a specific dashboard as home page: https://stackoverflow.com/questions/48164
 Use $tag_whatever to alias labels in graph: https://stackoverflow.com/questions/42397891/how-to-use-a-influxdb-tag-value-in-a-grafana-legend
 https://github.com/grafana/grafana/issues/525
 Using WHERE LIKE (=~): https://cmikavac.net/2018/03/30/how-to-use-where-like-clause-in-influxdb/
+How to install plugins via env: https://grafana.com/docs/grafana/latest/installation/docker/
 ---
+
+### MQTT in Grafana
+https://community.hiveeyes.org/t/using-grafana-for-submitting-downlink-commands/2959/5
+
+
+### Plugin... Browser based MQTT
+https://github.com/geeks-r-us/mqtt-panel
+
+### Other research:
+https://community.grafana.com/t/mqtt-button-plugin/771
+---
+
 
 ### Dashboards as code: Grafanalib
 https://github.com/weaveworks/grafanalib

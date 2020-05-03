@@ -127,4 +127,7 @@ https://askubuntu.com/questions/1051076/replace-gnome-terminal-with-tilix-in-nau
 ### Docker will break in Fedora 31?
 https://www.reddit.com/r/Fedora/comments/dj36vr/psa_if_you_use_docker_on_fedora_it_wont_work_in/
 
+### Resize volumes
+https://gist.github.com/181192/cf7eb42a25538ccdb8d0bb7dd57cf236
+
 {% include links.html %}

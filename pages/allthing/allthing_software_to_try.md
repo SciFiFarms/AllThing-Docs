@@ -60,6 +60,7 @@ https://www.authy.com/integrations/ssh/
 
 ## Media Servers
 ### Nice discussion on self hosted media service. Kodi + MySQL + Jellyfin?
+https://www.stremio.com/
 https://www.reddit.com/r/selfhosted/comments/bq5g5z/jellyfin_vs_streama_vs_dlna_server_or_file_server/
 https://www.wirelesshack.org/how-to-install-listen-up-kodi-audio-book-addon.html
 https://kodi.wiki/view/Audiobooks
@@ -313,6 +314,9 @@ https://github.com/meilisearch/MeiliSearch
 ### OpenPaper.work
 https://openpaper.work/en-us/
 
+### Mayan EDMS
+https://docs.mayan-edms.com/chapters/versioning.html
+
 ### Reddit's Suggestions
 https://www.reddit.com/r/selfhosted/comments/ftlsyk/android_app_scan_document_upload_to_selfhosted/
 ---
@@ -564,6 +568,9 @@ https://runyourown.social/
 http://docs.bigbluebutton.org/2.2/install.html#bbb-installsh
 https://www.reddit.com/r/linuxadmin/comments/axn7cc/opensource_audiovideo_for_meetings_skype/
 https://webrtc.org/
+
+### Add zoom like backgrounds to Linux web cams
+https://github.com/fangfufu/Linux-Fake-Background-Webcam
 
 ### Integrate Matrix with LDAP
 https://github.com/kamax-matrix/mxisd

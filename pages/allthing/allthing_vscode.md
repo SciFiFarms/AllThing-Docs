@@ -42,4 +42,9 @@ https://github.com/stkb/Rewrap/wiki/Auto-wrap
 ### Fix remapped escape key not working with vim extension: "keyboard.dispatch"
 https://github.com/microsoft/vscode/issues/32037
 
+
+### Debug libraries too: justMyCode: false 
+https://stackoverflow.com/questions/53594900/visual-studio-code-python-debugging-step-into-the-code-of-external-functions
+---
+
 {% include links.html %}

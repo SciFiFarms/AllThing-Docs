@@ -19,6 +19,7 @@ folder: allthing
 5. Move any inbox checkers to new account
 5. Set up any SMTP accounts
 6. Track emails from old provider and move to new 
+6. Copy calendars: https://support.google.com/calendar/answer/37111?hl=en
 7. Remove old messages
 8. Delete account
    

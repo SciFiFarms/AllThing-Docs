@@ -65,6 +65,8 @@ http://www.agrihouse.com/secure/shop/item.aspx?itemid=171
 ### Sweet build
 https://www.hortidaily.com/article/9077406/10-crops-controlled-from-1-water-technology-room/
 
+### NTP = IP
+https://www.freshwatersystems.com/blogs/blog/how-to-determine-pipe-thread-type-and-pipe
 
 
 {% include links.html %}

@@ -98,6 +98,8 @@ https://www.hortidaily.com/article/45059/Vertical-farm-products-easy-to-construc
 https://www.localharvest.org
 
 ### Very similar project to TechnoCore
+https://gitlab.com/NickBusey/HomelabOS#available-software
+https://www.reddit.com/r/selfhosted/comments/fwdmm5/freedombox_all_internet_services_in_one/
 https://dockerswarm.rocks/project-generators/
 https://dockstarter.com/basics/available-apps/
 https://github.com/norweeg/self-hosted-docker-server-templates
@@ -135,6 +137,12 @@ https://www.aster-thermoacoustics.com/?p=1455
 
 ### Water filtration
 https://www.newscientist.com/article/2212346-a-super-thin-slice-of-wood-can-be-used-to-turn-saltwater-drinkable/
+
+### Better refrigeration
+https://www.wired.com/story/refrigeration-global-warming-food-preservation/
+
+### Enzymes that breakdown plastic
+https://globalnews.ca/news/6809966/plastic-bottles-enzymes-mutant/
 ---
 
 ## IoT/Maker Contests
