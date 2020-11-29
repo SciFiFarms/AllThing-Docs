@@ -17,6 +17,10 @@ https://github.com/diegorubin/environment
 https://github.com/alzadude/ansible-firefox
 https://github.com/unrblt/ansible-role-firefox
 
+### Revert firewall for Docker
+https://github.com/kubernetes-sigs/kind/issues/1547
+https://github.com/moby/moby/issues/26824
+
 ### Other peoples set up tips
 https://www.dedoimedo.com/computers/fedora-30-after-install.html
 https://www.reddit.com/r/Fedora/comments/b11uyu/my_procedure_to_setup_a_working_and_comfortable/

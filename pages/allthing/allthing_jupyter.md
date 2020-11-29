@@ -31,6 +31,11 @@ https://github.com/amancevice/influxalchemy
 https://github.com/nfultz/nb2mail
 ---
 
+### ML Workspace - Sweet suite
+https://github.com/ml-tooling/ml-workspace
+https://doc.cocalc.com/index.html
+https://www.reddit.com/r/selfhosted/comments/hncifx/selfhosted_jupyter_notebooks_jupyter_hub/
+
 ### How do display HTML
 https://stackoverflow.com/questions/25698448/how-to-embed-html-into-ipython-output
 

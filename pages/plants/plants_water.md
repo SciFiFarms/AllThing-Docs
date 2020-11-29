@@ -25,6 +25,12 @@ https://www.lenntech.com/processes/iron-manganese/iron/iron-removal-physical-che
 https://www.ncbi.nlm.nih.gov/pubmed/17243230
 ---
 
+## Tools
+### PH/EC testers
+https://www.thetoolyard.com/2018/12/best-pH-meter-tester.html
+https://www.epicgardening.com/best-digital-ph-meters-and-test-kits/
+---
+
 ### PSI Cutoff switch
 https://filterdirect.com/2100-aquatec-pressure-switch-shut-tubing-p-358.html?osCsid=41526c924094ce121b91da52c7256d33
 #### Changing PSI

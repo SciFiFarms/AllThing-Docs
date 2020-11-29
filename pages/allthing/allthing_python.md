@@ -96,8 +96,14 @@ code.visualstudio.com/docs/python/settings-reference
 ### I liked the Template example for replacing $values in strings:
 stackoverflow.com/questions/3877623/in-python-can-you-have-variables-within-triple-quotes-if-so-how
 
+### On Quotes in python:
+https://towardsdatascience.com/single-double-and-triple-quotes-in-python-7ceea990baf
+
 ### Joining an array ', '.join(some_array)
 https://stackoverflow.com/questions/497765/python-string-joinlist-on-object-array-rather-than-string-array
+
+### Dynamic class names
+https://stackoverflow.com/questions/223559/using-variables-for-class-names-in-python
 
 ### Using python for machine learning: hacks and tricks
 https://opensource.com/article/18/10/machine-learning-python-essential-hacks-and-tricks

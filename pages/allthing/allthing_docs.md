@@ -75,6 +75,9 @@ https://www.kualo.com/webhosting/grav-hosting
 https://www.a2hosting.com/grav-hosting
 ---
 
+### Degoogled blog (And still track visitors)
+https://blog.rogs.me/2020/05/de-google-my-blog-how-to-blog-in-2020-without-google/
+
 ### Website launching checklists
 https://www.reddit.com/r/coolguides/comments/b4ucou/website_pre_launch_checklist/
 https://www.checklist.design/

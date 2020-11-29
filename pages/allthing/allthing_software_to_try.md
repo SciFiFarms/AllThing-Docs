@@ -65,6 +65,8 @@ https://www.reddit.com/r/selfhosted/comments/bq5g5z/jellyfin_vs_streama_vs_dlna_
 https://www.wirelesshack.org/how-to-install-listen-up-kodi-audio-book-addon.html
 https://kodi.wiki/view/Audiobooks
 
+### A pretty decent setup
+https://www.smarthomebeginner.com/docker-home-media-server-2018-basic/
 
 ### Plex, filebot, and bittorrent. The dream setup.
 https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/
@@ -74,6 +76,20 @@ https://blog.project-insanity.org/2019/06/14/ebook-reader-app-for-nextcloud/
 
 ### EBook services
 https://www.reddit.com/r/selfhosted/comments/dpx48d/a_selfhosted_opdsebooks_solution/
+
+### Audio Books
+As of July 2020, BookSonic seemed like the only workable option
+https://www.reddit.com/r/selfhosted/comments/hs1yzo/building_your_own_audible_2018/
+https://features.jellyfin.org/posts/243/audiobook-support
+https://emby.media/community/index.php?/topic/80398-book-serverreader-incorporation-suggestion/
+---
+
+## Bookmark managers
+https://www.reddit.com/r/selfhosted/comments/hvpceb/bookmark_manager_recommendations/
+
+### Shiori: seemed like it was what most people were using... Not exactly maintained. 
+https://github.com/emptyhua/shiori
+https://github.com/go-shiori/shiori-web-ext
 ---
 
 ## Podcasts
@@ -306,6 +322,12 @@ https://github.com/petrk94/ownhealthrecord/blob/master/DeveloperLog.md
 https://openmrs.org/demo/
 ---
 
+## CRMs
+### Monica: Pers
+https://www.monicahq.com/
+---
+
+
 ### Meili Search - Alternative to Java baed indexing
 https://github.com/meilisearch/MeiliSearch
 
@@ -323,9 +345,6 @@ https://www.reddit.com/r/selfhosted/comments/ftlsyk/android_app_scan_document_up
 
 ### Socioboard - Self-hosted social media manager
 https://socioboard.org/
-
-### LinkAce - Self-hosted bookmarks with tags
-https://www.linkace.org/
 
 ### Online Markdown editor recommendations
 https://www.reddit.com/r/selfhosted/comments/dj62ck/online_markdown_editor/
@@ -498,6 +517,9 @@ https://github.com/linuxserver/Heimdall
 ### Homer: Alternative to Heimdall
 https://www.reddit.com/r/selfhosted/comments/fguv0b/heimdall_is_awesome_but_i_really_like_the_look_of/
 
+### Organizer
+https://shiftfourteen.com/configuring-organizr-manage-self-hosted-applications/
+
 ### Selfhosted gui for attaching buttons to command line execution
 https://www.reddit.com/r/selfhosted/comments/dl5a1z/is_there_a_web_ui_program_where_i_can_click_a/
 https://www.rundeck.com/test-drive
@@ -566,6 +588,7 @@ https://runyourown.social/
 
 ### Skype alternatives
 http://docs.bigbluebutton.org/2.2/install.html#bbb-installsh
+https://www.reddit.com/r/ansible/comments/geyv1k/playbook_for_jitsi_via_docker_self_hosted_video/
 https://www.reddit.com/r/linuxadmin/comments/axn7cc/opensource_audiovideo_for_meetings_skype/
 https://webrtc.org/
 

@@ -30,6 +30,9 @@ https://www.reddit.com/r/SpaceBuckets/comments/c8cr33/recirculating_aeroponic_sp
 
 reddit.com/r/aeroponics/comments/8mu4s5/fogger_cycles_what_and_how
 
+### AAA Designs
+https://www.reddit.com/r/aeroponics/comments/hcm5bi/my_diy_airassisted_airatomizing_aeroponic_system/
+
 ### OpenAg Nozzle recs:
 forum.openag.media.mit.edu/t/choosing-appropriate-nozzles-pump-or-other-related-components-for-high-pressure-aeroponics/3512
 https://forum.openag.media.mit.edu/t/hp-aeroponics-exact-spray-without-tank/2901/16

@@ -161,6 +161,8 @@ https://forum.openag.media.mit.edu/t/air-conditioner-temperature-humidity-co2/49
 
 https://forum.openag.media.mit.edu/t/proof-of-concept-for-how-kids-could-program-food-computers/4801
 
+https://medium.com/@TessyBritton/universal-basic-everything-f149afc4cef1
+
 https://philhawthorne.com/homeautomation/
 
 https://opendevelopmentmethod.org/

@@ -10,19 +10,6 @@ folder: allthing
 # Don't forget to add a reference in _data/sidebars/allthing_sidebar.yml and/or _data/topnav.yml 
 ---
 
-### High Availability for InfluxDB
-https://www.thumbtack.com/engineering/high-availability-for-influxdb/
-https://www.influxdata.com/blog/multiple-data-center-replication-influxdb/
 
-### GUIs
-https://docs.influxdata.com/chronograf/v1.7/
-https://github.com/CymaticLabs/InfluxDBStudio
-https://timeseriesadmin.github.io/#showcase
-
-### Storing Home Assistant data
-
-### Python Libraries
-https://github.com/amancevice/influxalchemy
-https://github.com/influxdata/influxdb-python
 
 {% include links.html %}
